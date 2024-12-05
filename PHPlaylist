@@ -45,6 +45,14 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Local",GMA
 https://ln.run/1fZGp
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.nicepng.com/png/detail/406-4064956_gma-pinoy-tv-vector-logo-gma-7.png" group-title="Local",GMA Pinoy TV
+http://1tv41.icu:8080/kberg6767@gmail.com/kberg6767@2024/101826
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://seeklogo.com/images/G/gma-news-tv-logo-3794BEFE06-seeklogo.com.png" group-title="Local",GMA News TV
+http://activefrance.net/live/W8MEP61/2X2H702/72459.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/1100px-GMA_Life_TV_logo.png&w=640&q=70" group-title="Local",GMA Life TV
+http://1tv41.icu:8080/kberg6767@gmail.com/kberg6767@2024/101825
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
