@@ -205,10 +205,10 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Local",Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/american-idol-logo.png" group-title="Local",American Idol
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/300px-American_Idol_logo.svg.png" group-title="Local", American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/american-pickers-logo.png" group-title="Local", American Pickers 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="Local", American Pickers 
 https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Local" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfqz18o-bcdcb7d4-043f-46d4-a2ec-3b3be42613fd.png/v1/fill/w_905,h_883/nick__nickelodeon__splat_2023_logo_v2_by_markpipi_dfqz18o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiJcL2ZcLzUyYzc0NjU5LTE1MWMtNGExZS05ZWFmLWIyMGZiNDEwNmZmMVwvZGZxejE4by1iY2RjYjdkNC0wNDNmLTQ2ZDQtYTJlYy0zYjNiZTQyNjEzZmQucG5nIiwid2lkdGgiOiI8PTE2MDkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qErbXmzllFpZ8v4npa-davZXgOF4Kswp5ay_TPP38p4" ch-number="616",Nickelodeon
