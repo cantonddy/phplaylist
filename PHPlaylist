@@ -362,7 +362,7 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 https://bit.ly/4edqRl7
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="Local",BBC News
-https://ln.run/BBCNews
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Local",Discovery Channel
 https://bit.ly/4fnsUV0
@@ -430,6 +430,12 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/1e/INC_TV_White_Logo_July_2022.png" group-title="Local",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png" group-title="Local", Ang Dating Daan
+https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Ry02N8.jpeg" group-title="Local", Veritas846
+https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
 
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg" group-title="Local", EWTN
 http://115.146.176.131:80/TimRizal/TimRizal/20.m3u8
