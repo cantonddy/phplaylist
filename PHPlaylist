@@ -84,6 +84,9 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NET 25" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Local",NET 25
 https://wag.ika.lat/stream/2137749132
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNTV" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="Local",UNTV
+https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
