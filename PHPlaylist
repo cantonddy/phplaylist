@@ -989,10 +989,18 @@ https://fast.citrus3.com:8484/stream
 http://streamnavs.net:8091/live
 
 
+````````LUWI EXCLUSIVES````````
 
+#EXTINF:-1 group-logo="https://instanthub.s3.amazonaws.com/wp-content/uploads/2018/06/Pixar.jpg"
 
+#EXTINF:-1 tvg-logo="https://www.beano.com/app/themes/beano/assets/images/logo.svg" group-title="LUWI EXCLUSIVES",Beano TV 
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.euronews.com/website/images/vector/euronews-logo-redesigned.svg" group-title="LUWI EXCLUSIVES",EuroNews US 
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Tennis_Channel_2004_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20221201165609" group-title="LUWI EXCLUSIVES",Tennis Channel HD 
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
 ````````KIDS NETWORKS````````
