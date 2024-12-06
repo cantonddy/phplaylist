@@ -35,12 +35,12 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="Local",TV5
 http://115.146.176.131:80/TimRizal/TimRizal/90.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local", One Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Local",GMA
 https://ln.run/1fZGp
@@ -54,15 +54,33 @@ http://activefrance.net/live/W8MEP61/2X2H702/72459.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/1100px-GMA_Life_TV_logo.png&w=640&q=70" group-title="Local",GMA Life TV
 http://1tv41.icu:8080/kberg6767@gmail.com/kberg6767@2024/101825
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local", One Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="http://115.146.176.131/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Local",CNN Philippines
-https://ln.run/PHCNN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Local", PBA RUSH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Local", One Sports+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="Local", UAAP Varsity Channel 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Local", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -121,6 +139,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local",Kapamilya Channel
 https://ln.run/c03PQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Local", ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="DZMM TELERADYO" tvg-name="TeleRadyo Serbisyo" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="Local",TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -234,7 +258,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK.png" group-title="Local", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
@@ -262,20 +285,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Local", PBA RUSH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Local", One Sports+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="Local", Tap Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -337,9 +346,6 @@ https://bit.ly/3AafoFk
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Local", ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Local" tvg-logo="https://imgur.com/KeM5KlR.png" ch-number="714",Crime & Investigation HD
 https://bit.ly/3UuNquV
@@ -422,12 +428,6 @@ https://bit.ly/3YJ4CPG
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nd9gqA2.png" channel-number="1" group-title="Local", K+
-https://bit.ly/3YJLn8P
-
-#EXTINF:-1 tvg-id="DZMM TELERADYO" tvg-name="TeleRadyo Serbisyo" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="Local",TeleRadyo Serbisyo
-https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/1e/INC_TV_White_Logo_July_2022.png" group-title="Local",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
@@ -442,16 +442,6 @@ http://115.146.176.131:80/TimRizal/TimRizal/20.m3u8
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LightTV_Black.png" group-title="Local", Light TV
 http://115.146.176.131:80/TimRizal/TimRizal/39
-
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Local" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
-
-#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" ch-number="810" group-title="Local" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2
-#KODIPROP:inputstream.adaptive.license_type=Clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="Local", TV Maria
 https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
@@ -562,12 +552,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="Local", UAAP Varsity Channel 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 #EXTINF:-1 tvg-id = "PremierSports" group-title="Local" ch-number = "823" tvg-logo="https://i.imgur.com/i1njy1x.png", Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
