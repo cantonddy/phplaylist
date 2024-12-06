@@ -991,20 +991,68 @@ http://streamnavs.net:8091/live
 
 ````````LUWI EXCLUSIVES````````
 
-#EXTINF:-1 group-logo="https://instanthub.s3.amazonaws.com/wp-content/uploads/2018/06/Pixar.jpg"
-
-#EXTINF:-1 tvg-logo="https://www.beano.com/app/themes/beano/assets/images/logo.svg" group-title="LUWI EXCLUSIVES",Beano TV 
-https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/b3zUNJ5tEeSe1ryOPIGrt-bcwN38WPA1h71MECAkJ2A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/My8zYi9UaGVfQmVh/bm9fbG9nby5zdmcv/NTEycHgtVGhlX0Jl/YW5vX2xvZ28uc3Zn/LnBuZw" group-title="LUWI EXCLUSIVES",Beano TV 
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Jq9OTtAEWd1D1FU4cU_DARkR1gDeyWhAH6QzMsqSuEQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3Qz/c2xxMzdOWUpSdVAy/VW9FWkRvUEt5TUNs/S3lRVUxHOC1qMkRF/ZnpMMVhYY0J2RnBS/Nno2SEQ3cnRjMHdE/bjhNcXQwT3RwVT1z/OTAwLWMtay1jMHgw/MGZmZmZmZi1uby1y/ag" group-title="LUWI EXCLUSIVES",EuroNews US 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png" group-title="LUWI EXCLUSIVES",EuroNews US 
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Tennis_Channel_2004_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20221201165609" group-title="LUWI EXCLUSIVES",Tennis Channel HD 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cablefax.com/wp-content/uploads/2023/04/sportsgrid-logo.jpeg" group-title="LUWI EXCLUSIVES",SportsGrid US 
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/CBS_News_2020.svg/revision/latest?cb=20201009082155" group-title="LUWI EXCLUSIVES",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nm4hhp2Z_3T7cP08aapWsX3u-0002yZxjQ&s" group-title="LUWI EXCLUSIVES",Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_qq1zea7l/def_height/2700/def_width/2700/version/100012/type/1" group-title="LUWI EXCLUSIVES",Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/848941181186842625/wwOxHQah_400x400.jpg" group-title="LUWI EXCLUSIVES",Nosey
+https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-tEK4ZAUWGua6HxpKOz0FqGAkA_jkWmzD_Q&s" group-title="LUWI EXCLUSIVES",Crime Hunters 
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.matchpoint.tv/0kvlx42ebi8tj4rmw3fqlczr0cggatcwu39qsjnoxjllrgbaqi9n12e5jwwzbbjo95u5er1n53x/310x150.png" group-title="LUWI EXCLUSIVES",Retro Crush
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvNYJr38mBrgJIobMHuqed-DHWsBM2CUnUg&s" group-title="LUWI EXCLUSIVES",The Bob Ross Channel 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcoqCu_QsUYlpgA_M1b3yz0RAE-4CHrAWBA&s" group-title="LUWI EXCLUSIVES",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUwZXCiWonbd3Mc_R8U6nGq36EZvvgkvMEg&s" group-title="LUWI EXCLUSIVES",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Evhzx9k_qXpHt5D2v6_e0Se_gIkdnI_LJQ&s" group-title="LUWI EXCLUSIVES",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xdBU9T4w63kkNA72TGWgLIONhQBgKfeMLQ&s" group-title="LUWI EXCLUSIVES",AccuWeather
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAteT7PmEGDEmrE6CO8tp5RyJhwH1Mt-XAQ&s" group-title="LUWI EXCLUSIVES",Family Feud
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643f03b9d8436e0008edf021/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a359-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8763840e-c36c-4cb7-b51f-a83433e8ecfc
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1507553842971-V1552JH0TBZ9FV7JO1S5/ForensicFiles_logo.png" group-title="LUWI EXCLUSIVES",Forensic Files
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1507553842971-V1552JH0TBZ9FV7JO1S5/ForensicFiles_logo.png" group-title="LUWI EXCLUSIVES",Forensic Files 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f62dc3a71bc8b0007572fb0/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSao4tAV3-amglO2sqYObXZvK7aevuzd48Kpg&s" group-title="LUWI EXCLUSIVES",Game Show Central
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_ikfl1p6f/def_height/2700/def_width/2700/version/100012/type/1" group-title="LUWI EXCLUSIVES",GLORY Kickboxing
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
+
+#EXTINF:-1 tvg-logo="https://images.tapology.com/logos/2487/profile/Top-Rank-Boxing-logo.jpg?1541430691" group-title="LUWI EXCLUSIVES",Top Rank Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d160f53c785e0008df525e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8ce20713-803b-4c36-b6c9-1026b5b6d0e4
 
 ````````KIDS NETWORKS````````
 
