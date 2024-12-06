@@ -994,6 +994,15 @@ http://streamnavs.net:8091/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQou1Ke53d0KH-zvd-qJlQEe1847CJJ9rsklw&s" group-title="LUWI EXCLUSIVES",Beano TV 
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUX69dOS1rt6r8ThuAvqwK8jQO3mhin1g-4w&s" group-title="LUWI EXCLUSIVES",Funny AF
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
+
+#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/afv_2021_logo.png" group-title="LUWI EXCLUSIVES",America's Funniest Videos
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cXs3ewQD3-WhXP72xTlFclhyT3svQw3CLd4lZxww3GK1h-wP4q2G1_V9Be04B4769I5_Px_NPQ=s900-c-k-c0x00ffffff-no-rj" group-title="LUWI EXCLUSIVES",Hell's Kitchen
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291882-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7ee55eb-3425-4f5e-a567-3a1ed6ca44ec
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png" group-title="LUWI EXCLUSIVES",EuroNews US 
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
 
