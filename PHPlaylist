@@ -381,10 +381,16 @@ http://115.146.176.131/TimRizal/TimRizal/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" channel-number="1" group-title="Local", CNBC 
 https://bit.ly/4hnhr9H
 
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Local",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:-1 tvg-id="CHANNEL.NEWS.ASIA.ph" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Local",CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Local",Taiwan Plus TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" channel-number="1" group-title="Local", Al Jazeera 
 https://bit.ly/4edqRl7
