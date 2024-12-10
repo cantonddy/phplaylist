@@ -46,7 +46,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 https://ln.run/1fZGp
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" group-title="Local",GTV
-https://ln.run/yY4Rp
+http://hls.studentsdemo.com:8080/memfs/0f086e88-c816-4b1a-80cf-71f7334fb0c1.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/GMA_Pinoy_TV_%282024%29.png/revision/latest?cb=20240907155423" group-title="Local",GMA Pinoy TV
 http://1tv41.icu:8080/kberg6767@gmail.com/kberg6767@2024/101826
@@ -132,7 +132,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="Local",Kapamilya Online Live
-https://youtube.com/@abscbnentertainment/live 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd 
 
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local",Kapamilya Channel
 https://ln.run/c03PQ
@@ -169,6 +169,9 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="RJ TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title="Local",RJ TV
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo5xy_L33HaRMmRHdbvhG42Q/ts
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/8VumXSNxWeczvcqIpXs8klyYTapEcLUufufz6niDrUY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mLzEw/ZDdlOGIxLTlmZTEt/NGM0MS1hZWI3LTMz/MWY0ZmIxODhhYS9k/ZXN4eTY4LWM2MTQ1/NDRjLTQ2OGMtNGQ2/NS04NWFkLTlmNWY1/ODk2MTU3Zi5qcGc_/dG9rZW49ZXlKMGVY/QWlPaUpLVjFRaUxD/SmhiR2NpT2lKSVV6/STFOaUo5LmV5Snpk/V0lpT2lKMWNtNDZZ/WEJ3T2pkbE1HUXhP/RGc1T0RJeU5qUXpO/ek5oTldZd1pEUXhO/V1ZoTUdReU5tVXdJ/aXdpYVhOeklqb2lk/WEp1T21Gd2NEbzNa/VEJrTVRnNE9UZ3lN/alkwTXpjellUVm1N/R1EwTVRWbFlUQmtN/alpsTUNJc0ltOWlh/aUk2VzF0N0luQmhk/R2dpT2lKY0wyWmNM/ekV3WkRkbE9HSXhM/VGxtWlRFdE5HTTBN/UzFoWldJM0xUTXpN/V1kwWm1JeE9EaGhZ/Vnd2WkdWemVIazJP/QzFqTmpFME5UUTBZ/eTAwTmpoakxUUmtO/alV0T0RWaFpDMDVa/alZtTlRnNU5qRTFO/Mll1YW5CbkluMWRY/U3dpWVhWa0lqcGJJ/blZ5YmpwelpYSjJh/V05sT21acGJHVXVa/RzkzYm14dllXUWlY/WDAuN3Vwazl2N2kz/OV9tcUNsWUdmdHdU/aHdyOEdwTmxUcjNU/TnpTajJjWGdpZw" group-title="Local", Celestial Movies Pinoy
+http://79.127.235.177:1234/stream/TRICKFLIX/celestialmoviespinoy/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Local", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -432,14 +435,26 @@ https://bit.ly/3YK6l7a
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" channel-number="1" group-title="Local", ABC Australia
 https://bit.ly/3YHKTzR
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/jxHnGsMzfiOayt9kJKonUDut6Vk2QbLEv3Fhxkm23fw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkSFZBMlBJ/WmovaWQzTl96b1VX/di5zdmc_dXBkYXRl/ZD0xNzE1Mjg2OTQ4/MDcz" channel-number="1" group-title="Local",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 MONDE Asie" tvg-logo="https://klean.nl/wp-content/uploads/Logo_TV5_Monde_-_2021.svg_.png" group-title="Local",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/G4KOvgmuYBXg1ZlIjVzCAzZQ0Z8OGUy3fYcmRdWLIas/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzUyLzc5LzYz/LzM2MF9GXzY1Mjc5/NjMzMV9UOE1jTHZU/UDhRWDJVSEJDdjFG/WURJejYxZmFTU2xm/MC5qcGc" group-title="Local",United Nations
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/orfBw36I5CZK8jGc-fquZW-XCttOLddKfHahggFLFTw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzBlL1RoZV9HdWFy/ZGlhbi5zdmc" group-title="Local",The Guardian
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61MSiq9.png" channel-number="1" group-title="Local", France 24
 https://bit.ly/3YJ4CPG
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://imgs.search.brave.com/FhAHX7AKzrNySVUpxhtGoqCc5WmqXkx8pwZU3miEY6c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI2L0xvZ29fb2Zf/dGhlX0tvcmVhbl9D/ZW50cmFsX1RlbGV2/aXNpb24uc3Zn" group-title="Local",The Korean Movie Channel
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/37d2aea6-31a1-4f33-96fe-09eb7e1b7f53/0.m3u8
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/1e/INC_TV_White_Logo_July_2022.png" group-title="Local",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
