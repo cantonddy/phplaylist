@@ -549,25 +549,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
 
-#EXTINF:-1 tvg-id = "PremierSports" group-title="Local" ch-number = "823" tvg-logo="https://i.imgur.com/i1njy1x.png", Premier Sports
-#KODIPROP:inputstream.adaptive.license_type=Clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.ibb.co/DknLzWc/Premier-Sports-2-removebg-preview.png" group-title="Local",Premier Sports 2
-http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/276599.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TrueFM TV" tvg-logo="https://i.ibb.co/b1ysLd1/fight-sports-one-destination-small-1-removebg-preview.png" group-title="Local",Fight Sports
-https://bit.ly/4fm2KBW
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Radyo5truefmlogo.webp" group-title="Local", TrueFM TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/h9MB92R/wish1075-orig-removebg-preview-1.png" group-title="Local",Wish 107.5
-https://radio.wish1075.com/web/stream/wish.m3u8
 
 
 
@@ -579,20 +560,14 @@ https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUX69dOS1rt6r8ThuAvqwK8jQO3mhin1g-4w&s" group-title="LUWI EXCLUSIVES",Funny AF
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
 
-#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/afv_2021_logo.png" group-title="LUWI EXCLUSIVES",America's Funniest Videos
+#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/afv_2021_logo.png" group-title="LUWI EXCLUSIVES",AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cXs3ewQD3-WhXP72xTlFclhyT3svQw3CLd4lZxww3GK1h-wP4q2G1_V9Be04B4769I5_Px_NPQ=s900-c-k-c0x00ffffff-no-rj" group-title="LUWI EXCLUSIVES",Hell's Kitchen
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291882-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7ee55eb-3425-4f5e-a567-3a1ed6ca44ec
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png" group-title="LUWI EXCLUSIVES",EuroNews US 
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Tennis_Channel_2004_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20221201165609" group-title="LUWI EXCLUSIVES",Tennis Channel HD 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cablefax.com/wp-content/uploads/2023/04/sportsgrid-logo.jpeg" group-title="LUWI EXCLUSIVES",SportsGrid US 
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_aFxG1GNdERypDbP_arlFrJ0j5d5tM9x0A&s" group-title="LUWI EXCLUSIVES",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -624,9 +599,6 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Evhzx9k_qXpHt5D2v6_e0Se_gIkdnI_LJQ&s" group-title="LUWI EXCLUSIVES",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xdBU9T4w63kkNA72TGWgLIONhQBgKfeMLQ&s" group-title="LUWI EXCLUSIVES",AccuWeather
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAteT7PmEGDEmrE6CO8tp5RyJhwH1Mt-XAQ&s" group-title="LUWI EXCLUSIVES",Family Feud
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643f03b9d8436e0008edf021/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a359-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8763840e-c36c-4cb7-b51f-a83433e8ecfc
 
@@ -635,9 +607,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1507553842971-V1552JH0TBZ9FV7JO1S5/ForensicFiles_logo.png" group-title="LUWI EXCLUSIVES",Forensic Files 2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f62dc3a71bc8b0007572fb0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f170-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66441bcc-2772-44c8-bc7e-7321b40be800
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSao4tAV3-amglO2sqYObXZvK7aevuzd48Kpg&s" group-title="LUWI EXCLUSIVES",Game Show Central
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?
 
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_ikfl1p6f/def_height/2700/def_width/2700/version/100012/type/1" group-title="LUWI EXCLUSIVES",GLORY Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
