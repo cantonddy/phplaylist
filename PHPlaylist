@@ -614,6 +614,67 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 #EXTINF:-1 tvg-logo="https://images.tapology.com/logos/2487/profile/Top-Rank-Boxing-logo.jpg?1541430691" group-title="LUWI EXCLUSIVES",Top Rank Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d160f53c785e0008df525e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8ce20713-803b-4c36-b6c9-1026b5b6d0e4
 
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://imgs.search.brave.com/oCf21ZVcIfGAzDu9kkIlLwpZXZGRXhlueEDGRC4Vn3Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzVkL0FC/Q18yNV9Db2x1bWJp/YV9sb2dvXzIwMjIu/cG5nLzUxMnB4LUFC/Q18yNV9Db2x1bWJp/YV9sb2dvXzIwMjIu/cG5n" group-title="LUWI EXCLUSIVES",ABC 25 Columbia
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://imgs.search.brave.com/q5clnbZfpzfyzgEwpPoBoiJfVCUwq1sTL-yczaSDlRk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE2L0FN/Q19sb2dvXzIwMTYu/c3ZnLzIyMHB4LUFN/Q19sb2dvXzIwMTYu/c3ZnLnBuZw" group-title="LUWI EXCLUSIVES",AMC East (1080p)
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://imgs.search.brave.com/yaKYcMtPGXCDakDNDkb89V4g4-FjRYKPxfUGunoWCE8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dHZwYXNzcG9ydC5j/b20vaW1hZ2Uvc3Rh/dGlvbi8yNDB4MTM1/L3YyL3MxODMzMl9o/MTVfYWEucG5n" group-title="LUWI EXCLUSIVES",BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BETHerEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",BET Her East
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us" tvg-logo="" group-title="LUWI EXCLUSIVES",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us" tvg-logo="" group-title="LUWI EXCLUSIVES",BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-logo="" group-title="LUWI EXCLUSIVES",C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="" group-title="LUWI EXCLUSIVES",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Comedy Central East (720p)
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FYIEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",FYI East
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="" group-title="LUWI EXCLUSIVES",MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="" group-title="LUWI EXCLUSIVES",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NewsNationEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",NewsNation East
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Nick Jr. East (720p)
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Nick Music (480p)
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Syfy East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-logo="" group-title="LUWI EXCLUSIVES",Yes Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LUWI EXCLUSIVES",DAZN Ringside
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LUWI EXCLUSIVES",48 Hours
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651432fa98020f000878b407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc826ce0-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e2ab7bb7-6f62-40ce-9c3e-fde72d955a06
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LUWI EXCLUSIVES",The Twilight Zone
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c8dd94e4391c0008eb4742/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc868b93-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4127e8c4-0686-4ac3-8205-e4ed83a07599
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="" group-title="LUWI EXCLUSIVES",CGTN (1080p)
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
+
 ````````KIDS NETWORKS````````
 
 #EXTINF:-1 group-logo="https://instanthub.s3.amazonaws.com/wp-content/uploads/2018/06/Pixar.jpg"
