@@ -268,9 +268,6 @@ http://115.146.176.131:80/TimRizal/TimRizal/85
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TrueFM TV" tvg-logo="https://www.hitsnow.tv/assets/hits-now-logo-white.png" group-title="Local",HITS Now HD
-https://bit.ly/3UtZsV3
-
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -315,8 +312,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="Local",Aniplus
 https://ln.run/fNDoA
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito Asia" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Local",Cartoonito 
-https://ln.run/BdUWh
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://imgs.search.brave.com/AY2u0LRinTr8QXxirf1adsDpct0UvrPTWjMzy7ljp2Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kMWlv/M3lvZzBvdXg1LmNs/b3VkZnJvbnQubmV0/L2thcnRvb25jaGFu/bmVsL2ZpbGVzL3Ro/ZW1lL2ltYWdlcy9r/dC1sb2dvLW9mZi5w/bmc" group-title="Local",Kartoon Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Kartoon.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/544627ef-b613-4f03-86c9-037e51bd8747/dg81i5p-9a91c59b-1204-45af-bd05-2b80e17ea4b2.png/v1/fill/w_847,h_646/nick_jr__splat_3d_logo_with_2_objects_by_markthenostalgiafan_dg81i5p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ2IiwicGF0aCI6IlwvZlwvNTQ0NjI3ZWYtYjYxMy00ZjAzLTg2YzktMDM3ZTUxYmQ4NzQ3XC9kZzgxaTVwLTlhOTFjNTliLTEyMDQtNDVhZi1iZDA1LTJiODBlMTdlYTRiMi5wbmciLCJ3aWR0aCI6Ijw9ODQ3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QrDR2E_SihXaeqHrYPxnlHesyT1kf2SObY6cdT-jBrY" group-title="Local", Nick JR.
 http://115.146.176.131:80/TimRizal/TimRizal/17
@@ -376,6 +373,9 @@ http://115.146.176.131/TimRizal/TimRizal/15.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" channel-number="1" group-title="Local", CNBC 
 https://bit.ly/4hnhr9H
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://smartxtreamtv.uk:443/images/d23fe108561a855805e247896ae4b9a6.png" group-title="Local",FOX News
+http://115.146.176.131:80/TimRizal/TimRizal/7
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Local",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
