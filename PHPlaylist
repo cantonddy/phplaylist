@@ -1531,3 +1531,402 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491210&exte
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP| CANAL+ 4K+/UHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL.png" group-title="4K UHD|3840P",SP| CANAL+ 4K+/UHD
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1380013&extension=ts&play_token=10EHB2nWD1
 
+
+
+
+#EXM3U
+
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FAMILY-GUY.png",US| 24/7 FAMILY GUY
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=990243&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/AME.png",US| A&E HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45619&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ABC-HD.png",US| ABC HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45439&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/accuweather-HD.png",US| ACCUWEATHER HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91946&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/ADULT-SWIM-WEST.png",US| ADULT SWIM WEST
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1131979&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/ADULT-SWIM-WEST.png",US| cccSWIM HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150345&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/AMC-HD.png",US| AMC HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45445&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/AMC-PLUS.png",US| AMC PLUS
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=534381&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/AMERICA-HEROES.png",US| AMERICA HEROES HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45613&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ANIMAL-PLANET-HD.png",US| ANIMAL PLANET HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45447&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ANIMAL-PLANET-HD.png",US| ANIMAL PLANET WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91762&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/ANTENNA.png",US| ANTENNA TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=398879&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ASPIRE-HD.png",US| ASPIRE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91763&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/AWE.jpg",US| AWE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91955&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MAGNOLIA-NETWORK.png",US| MAGNOLIA NETWORK
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1350214&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/VICE.png",US| VICE FHD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1459895&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/REAL-AMERICAN-VOISE.png",US| REAL AMERICAN VOICE
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1417091&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/AXS.png",US| AXS TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91760&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BBC-AMERICA.png",US| BBC AMERICA HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45612&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BET-GOSPEL.png",US| BET GOSPEL
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91767&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BET.png",US| BET HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45610&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BET-HER.png",US| BET HER HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91768&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/BET-JAMS.png",US| BET JAMS HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91769&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BET-SOUL.png",US| BET SOUL
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91770&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MY27-KDFI-DALLAS.png",US| MY27 KDFI DALLAS
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1160247&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TXA21-KTXA.png",US| TXA21 KTXA DALLAS
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1160246&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BLAZE.png",US| BLAZE TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1150047&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/BOUNCE-TV-HD.png",US| BOUNCE TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91771&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/BOUNCE-TV-HD.png",US| BOUNCE XL
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=730910&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BRAVO.png",US| BRAVO HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45446&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BRAVO.png",US| BRAVO WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91772&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BUZZR.png",US| BUZZR
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=105189&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/CHARGE.png",US| CHARGE!
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=789119&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/CMT.png",US| CMT HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90937&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/CLEO.png",US| CLEO TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1128930&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png",US| COMEDY CENTRAL HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45448&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COMEDY-CENTRAL-WEST.png",US| COMEDY CENTRAL EAST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1149739&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COMEDY-CENTRAL-WEST.png",US| COMEDY CENTRAL WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1131978&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COMEDY.png",US| COMEDY TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91944&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COMET.png",US| COMET HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91807&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COOKING-CHANNEL.png",US| COOKING CHANNEL HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45591&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COURT.png",US| COURT TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150347&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COZI.png",US| COZI
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45590&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/CRIME-INVESTIGATION.png",US| CRIME & INVESTIGATION HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90938&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/DECADES.png",US| DECADES
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=789120&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/DESTINATION-AMERICA-HD.png",US| DESTINATION AMERICA HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90954&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-FAMILY.png",US| DISCOVERY FAMILY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45443&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png",US| DISCOVERY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45442&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-LIFE.png",US| DISCOVERY LIFE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91820&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-SCIENCE.png",US| DISCOVERY SCIENCE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45441&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-TURBO.png",US| DISCOVERY TURBO
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1092802&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-WEST.png",US| DISCOVERY WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91819&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DOG.png",US| DOG TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91950&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/ENTERTAINMENT-WEST.png",US| E! ENTERTAINMENT WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91834&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/eentertainment.png",US| E! ENTERTAINMENT HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45584&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/EWTN-CATHOLIC.png",US| EWTN CATHOLIC
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=204984&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FETV.png",US| FETV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=789121&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/WAYPOINT.png",US| WAYPOINT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1570196&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/STORY.png",US| STORY TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1570195&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/RECIPE.png",US| RECIPE TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1570194&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LAFF.png",US| LAFF TV  HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=793363&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LMN.png",US| LMN
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1110680&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/DESIGN-NETWORK.png",US| DESIGN NETWORK HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1673831&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DABL.png",US| DABL TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1139730&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/NASA.png",US| NASA + HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1114426&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/NBT.png",US| NBT HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1105820&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOLK.png",US| FOLK TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=789122&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOOD-NETWORK.png",US| FOOD NETWORK HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45577&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOOD-NETWORK-WEST.png",US| FOOD NETWORK WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91850&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX-SOUL.png",US| FOX SOUL
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=730907&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX-WEATHER.png",US| FOX WEATHER
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1518415&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FREEFORM.png",US| FREEFORM HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45557&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FREEFORM.png",US| FREEFORM WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91849&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FUSE.png",US| FUSE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91910&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FUSE-MUSIC.png",US| FUSE MUSIC HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91941&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FX.png",US| FX HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45451&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FXM.png",US| FXM HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45450&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FX-WEST.png",US| FX WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91852&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FXX.png",US| FXX HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45449&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FXX-WEST.png",US| FXX WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91853&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FYI.png",US| FYI HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45555&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/GAMETV.png",US| GAME TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45472&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/GET.png",US| GET TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150349&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/GRIT.png",US| GRIT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91856&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/GREAT-AMERICAN-FAMILY.png",US| GREAT AMERICAN FAMILY
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1038601&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/GREAT-AMERICAN-COUNTRY.png",US| GREAT AMERICAN COUNTRY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91855&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/GSN-HD.jpg",US| GSN HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45553&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK-FAMILY.png",US| HALLMARK FAMILY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90961&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK.png",US| HALLMARK HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45458&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK-MYSTERY.png",US| HALLMARK MYSTERY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45457&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HD-NET-MOVIES.png",US| HD NET MOVIES HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91885&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HEROES-ICONS.png",US| HEROES & ICONS
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150351&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/HISTORY-HD.jpg",US| HISTORY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45444&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/iptvlogos/HGTV_HD.png",US| HGTV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1350074&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/HGTV-HD.png",US| HGTV WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91925&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/HLN-HD.png",US| HLN HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91857&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HOPE-CHANNEL.png",US| HOPE CHANNEL
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=204986&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/HSN.png",US| HSN
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1580639&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HUNT-CHANNEL.png",US| HUNT CHANNEL
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150352&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ID-HD.jpeg",US| ID HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45545&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/ID-WEST.png",US| ID WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91858&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/IFC.png",US| IFC HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45544&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/INDIEPLEX.png",US| INDIEPLEX HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45543&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/INSP.png",US| INSP HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91914&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/INFOWARS.png",US| INFOWARS TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=297628&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/ION.png",US| ION HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=872292&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/ION-PLUS.png",US| ION PLUS
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=730909&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/USA/MY24-MILWAUKEE.png",US| MY24 MILWAUKEE
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1708414&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/JUSTICE-CENTRAL.png",US| JUSTICE CENTRAL HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91943&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LAW-AND-CRIME.png",US| LAW AND CRIME HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91861&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME.png",US| LIFETIME HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45541&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME-MOVIE-NETWORK.png",US| LIFETIME MOVIE NETWORK HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45456&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME-REAL-WOMEN.png",US| LIFETIME REAL WOMEN HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150353&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/LOCAL-NOW.png",US| LOCAL NOW HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91909&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/LOGO-HD.png",US| LOGO HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91862&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MERIT.png",US| MERIT+
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1555936&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/MAV-TV.png",US| MAV TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91898&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/metv.png",US| ME TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91863&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/MGM.png",US| MGM HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91886&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/MILITARY-HISTORY.png",US| MILITARY HISTORY
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91864&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/MOTORTREND.png",US| MOTORTREND HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90962&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/mtv2.png",US| MTV 2 HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90963&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/MTV-HD.png",US| MTV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45461&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/mtvlive.png",US| MTV LIVE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45460&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/MTV-U-HD.png",US| MTV U
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91913&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE '70's
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991608&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE TROPICALES
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991607&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE CLASSIC COUNTRY
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991605&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE HIP-HOP AND R&B
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991602&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE POP HITS
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991601&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE JAZZ
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991599&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE  MAX
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991598&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/UK/El_Rey_Network.png",US| EL REY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991597&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE ROCK HITS
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991596&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE ROMANCES
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991595&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/NATGEO.png",US| NAT GEO HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45453&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/natgeowild.png",US| NAT GEO WILD HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45452&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/OUTDOOR-CHANNEL.png",US| OUTDOOR CHANNEL HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90964&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/outsidetv.png",US| OUTSIDE TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91866&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/OVATION.png",US| OVATION HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91867&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/OWN-HD.png",US| OWN HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45518&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/OXYGEN-HD.png",US| OXYGEN HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45517&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/OXYGEN-HD.png",US| OXYGEN WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91868&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/PARAMOUNT.png",US| PARAMOUNT HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45500&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/PBS.png",US| PBS HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45510&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/PIXL.png",US| PIXL HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91937&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/POP.png",US| POP HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45509&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/QVC-2.png",US| QVC 2 HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90967&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/QVC-HD.png",US| QVC HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90966&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/RED-BULL.png",US| RED BULL TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150356&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/REELZ.png",US| REELZ HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45508&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/RETROPLEX.png",US| RETROPLEX HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45507&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/RETRO-TV.png",US| RETRO TV
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150357&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/REVOLT.png",US| REVOLT HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91915&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/RFD.png",US| RFD TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91870&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/RIDE.png",US| RIDE TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91871&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/RT-NEWS.png",US| RT NEWS HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91935&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/RT-DOCUMENTARY.png",US| RT DOCUMENTARY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=233242&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWTIME-BET.png",US| SHOWTIME BET HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=303331&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/SMITHSONIAN-CHANNEL.png",US| SMITHSONIAN CHANNEL HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91872&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/SMITHSONIAN-CHANNEL-WEST.png",US| SMITHSONIAN CHANNEL WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91926&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/SO-YUMMY!.png",US| SO YUMMY!
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=774212&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/SUNDANCE.png",US| SUNDANCE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45477&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/SYFY-HD.png",US| SYFY HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45476&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/SYFY-HD.png",US| SYFY WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91875&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/TASTEMADE.png",US| TASTEMADE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150360&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/tbs.png",US| TBS HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45475&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TBS-WEST-HD.png",US| TBS WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91924&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TBN.png",US| TBN
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=204985&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/tcm.png",US| TCM HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90968&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/TEEN-NICK.png",US| TEEN NICK
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91877&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/THE-WEATHER-CHANNEL-HD.png",US| THE WEATHER CHANNEL HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45455&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/iptvlogos/BLAZE_HD.png",US| THE BLAZE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1053425&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TLC-HD.png",US| TLC HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45471&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TLC-WEST-HD.png",US| TLC WEST
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91912&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg",US| TNT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45470&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg",US| TNT(BK)
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1198205&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg",US| TNT HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45469&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg",US| TNT HD(BK)
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1198206&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT-HD.png",US| TNT WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91879&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png",US| TRAVEL CHANNEL HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45437&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png",US| TRAVEL CHANNEL WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91880&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/trutv.png",US| TRUTV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45468&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/TRUTV-WEST.png",US| TRUTV WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91878&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/TVG-NETWORK.png",US| TVG NETWORK
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91939&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TVG-NETWORK-2.png",US| TVG NETWORK 2
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91940&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TV-LAND-HD.jpg",US| TV LAND HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45467&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/tvone.png",US| TV ONE HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90969&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/UP-TV-HD.png",US| UP TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91881&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/USA-NETWORK.png",US| USA NETWORK HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45466&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/USA-NETWORK-EAST.png",US| USA NETWORK EAST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=188997&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA-NETWORK-HD.jpg",US| USA NETWORK WEST HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91882&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/vh1.png",US| VH1 HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45436&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/viceland.png",US| VICELAND HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45465&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/wetv.png",US| WE TV HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45464&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/WGN9.png",US| WGN9
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=290879&extension=ts
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/WORLD-FISHING-NETWORK.png",US| WORLD FISHING NETWORK HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91906&extension=ts
