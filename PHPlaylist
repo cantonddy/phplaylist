@@ -537,17 +537,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:-1 tvg-id="Arena ρrémíùm 3.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Arena_Sport_3_Premium_%282021%2C_short%29.svg/revision/latest?cb=20221111214149" group-title="PREMIUM SPORTS", ARENA SPORT PREMIUM 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-#EXTINF:-1 tvg-id="AstroArena" group-title="PREMIUM SPORTS" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="PREMIUM SPORTS",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
