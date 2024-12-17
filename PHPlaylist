@@ -11,20 +11,6 @@
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" channel-number="2"  group-title="Local", BuKO 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" group-title="Local", SARI-SARI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="Local", PTV4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -50,15 +36,6 @@ http://hls.studentsdemo.com:8080/memfs/0f086e88-c816-4b1a-80cf-71f7334fb0c1.m3u8
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://imgs.search.brave.com/DjvF-eduj0JB5QqLeGPcBAS3WZV5RiX1rb0zAFTTq7Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY1L0thcHVzb19T/dHJlYW1fbG9nby5w/bmc" group-title="Local",GMA Kapuso Stream
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/GMA_Pinoy_TV_%282024%29.png/revision/latest?cb=20240907155423" group-title="Local",GMA Pinoy TV
-http://1tv41.icu:8080/kberg6767@gmail.com/kberg6767@2024/101826
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://seeklogo.com/images/G/gma-news-tv-logo-3794BEFE06-seeklogo.com.png" group-title="Local",GMA News TV
-http://activefrance.net/live/W8MEP61/2X2H702/72459.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/1100px-GMA_Life_TV_logo.png&w=640&q=70" group-title="Local",GMA Life TV
-http://1tv41.icu:8080/kberg6767@gmail.com/kberg6767@2024/101825
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local", One Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -102,12 +79,6 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NET 25" tvg-logo="https://imgs.search.brave.com/NmCces2v749iXnEZADjY9Nz6XbEId1P6r_eeAeLJ3G4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/My8zOC9GVUJDX09u/ZV9NZWRpYV9OZXR3/b3JrX0xvZ29fLV9W/ZWN0b3Iuc3ZnLzUx/MnB4LUZVQkNfT25l/X01lZGlhX05ldHdv/cmtfTG9nb18tX1Zl/Y3Rvci5zdmcucG5n" group-title="Local",One Media
-http://115.146.176.131:80/TimRizal/TimRizal/26
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NET 25" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Local",NET 25
-https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNTV" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="Local",UNTV
 https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
 
@@ -123,9 +94,6 @@ http://115.146.176.131/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/ts
 
 #EXTINF:-1 tvg-id="Local.Programming.Dimmy.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="Local",DZRH TV
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dimmy.us" tvg-logo="https://imgs.search.brave.com/bH6k1Av-IkPd4YSgN7k2afGqcH0IP3OrPkYzcykYNJs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2xv/Z29wZWRpYS9pbWFn/ZXMvZi9mMy9EWlJK/XzgxMF9BTV9SYWR5/b19CYW5kaWRvXygy/MDE3KS5qcGcvcmV2/aXNpb24vbGF0ZXN0/L3NjYWxlLXRvLXdp/ZHRoLWRvd24vMjM4/P2NiPTIwMjAwMzAx/MDM0NzQ0.jpeg" group-title="Local",Radyo Bandido
-https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Local", A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -178,12 +146,6 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="RJ TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title="Local",RJ TV
-http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo5xy_L33HaRMmRHdbvhG42Q/ts
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/8VumXSNxWeczvcqIpXs8klyYTapEcLUufufz6niDrUY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mLzEw/ZDdlOGIxLTlmZTEt/NGM0MS1hZWI3LTMz/MWY0ZmIxODhhYS9k/ZXN4eTY4LWM2MTQ1/NDRjLTQ2OGMtNGQ2/NS04NWFkLTlmNWY1/ODk2MTU3Zi5qcGc_/dG9rZW49ZXlKMGVY/QWlPaUpLVjFRaUxD/SmhiR2NpT2lKSVV6/STFOaUo5LmV5Snpk/V0lpT2lKMWNtNDZZ/WEJ3T2pkbE1HUXhP/RGc1T0RJeU5qUXpO/ek5oTldZd1pEUXhO/V1ZoTUdReU5tVXdJ/aXdpYVhOeklqb2lk/WEp1T21Gd2NEbzNa/VEJrTVRnNE9UZ3lN/alkwTXpjellUVm1N/R1EwTVRWbFlUQmtN/alpsTUNJc0ltOWlh/aUk2VzF0N0luQmhk/R2dpT2lKY0wyWmNM/ekV3WkRkbE9HSXhM/VGxtWlRFdE5HTTBN/UzFoWldJM0xUTXpN/V1kwWm1JeE9EaGhZ/Vnd2WkdWemVIazJP/QzFqTmpFME5UUTBZ/eTAwTmpoakxUUmtO/alV0T0RWaFpDMDVa/alZtTlRnNU5qRTFO/Mll1YW5CbkluMWRY/U3dpWVhWa0lqcGJJ/blZ5YmpwelpYSjJh/V05sT21acGJHVXVa/RzkzYm14dllXUWlY/WDAuN3Vwazl2N2kz/OV9tcUNsWUdmdHdU/aHdyOEdwTmxUcjNU/TnpTajJjWGdpZw" group-title="Local", Celestial Movies Pinoy
-http://79.127.235.177:1234/stream/TRICKFLIX/celestialmoviespinoy/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Local", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -261,6 +223,27 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="Local",HBO Family
 http://115.146.176.131:80/TimRizal/TimRizal/85
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Local",Warner TV 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+#EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Local",KIX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Local",tvN Premium HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Local",HITS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -276,8 +259,13 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
-#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="CineMo!" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png" group-title="Local",CinemaWorld
-https://bit.ly/4hiUdRY
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://imgs.search.brave.com/5HMa7DS-Ux5BdQuDzhEJZtmkwbW0HrSES6WAoH-nW48/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aG9sbHl3b29kcmVw/b3J0ZXIuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIyLzA5/L01HTVBMVVMtSC0y/MDIyLmpwZz93PTEy/OTYmaD03MzAmY3Jv/cD0x" group-title="Local",MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://imgs.search.brave.com/YET2GW9Ih06UKjns5NFVdqGBVipjv4hnPziwcyvAIjg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWd4/LmZ1Ym8udHYvc3Rh/dGlvbl9sb2dvcy9N/R01QbHVzX01hcnF1/ZWVfbS5wbmc_Y2g9/d2lkdGgmYXV0bz1m/b3JtYXQsY29tcHJl/c3Mmdz0wLjQmaD0w/LjQ" group-title="Local",MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" group-title="Local" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",AXN 
+http://115.146.176.131:80/TimRizal/TimRizal/49
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Local", Asian Food Network
 https://ln.run/7rN1n
@@ -285,17 +273,13 @@ https://ln.run/7rN1n
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Local",TLC
 http://115.146.176.131:80/TimRizal/TimRizal/83
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Local",Travel Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/300px-American_Idol_logo.svg.png" group-title="Local", American Idol
-https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="Local", American Pickers 
-https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Local" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfqz18o-bcdcb7d4-043f-46d4-a2ec-3b3be42613fd.png/v1/fill/w_905,h_883/nick__nickelodeon__splat_2023_logo_v2_by_markpipi_dfqz18o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiJcL2ZcLzUyYzc0NjU5LTE1MWMtNGExZS05ZWFmLWIyMGZiNDEwNmZmMVwvZGZxejE4by1iY2RjYjdkNC0wNDNmLTQ2ZDQtYTJlYy0zYjNiZTQyNjEzZmQucG5nIiwid2lkdGgiOiI8PTE2MDkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qErbXmzllFpZ8v4npa-davZXgOF4Kswp5ay_TPP38p4" ch-number="616",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Local" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfqz18o-bcdcb7d4-043f-46d4-a2ec-3b3be42613fd.png/v1/fill/w_905,h_883/nick__nickelodeon__splat_2023_logo_v2_by_markpipi_dfqz18o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiJcL2ZcLzUyYzc0NjU5LTE1MWMtNGExZS05ZWFmLWIyMGZiNDEwNmZmMVwvZGZxejE4by1iY2RjYjdkNC0wNDNmLTQ2ZDQtYTJlYy0zYjNiZTQyNjEzZmQucG5nIiwid2lkdGgiOiI8PTE2MDkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qErbXmzllFpZ8v4npa-davZXgOF4Kswp5ay_TPP38p4" ,Nickelodeon
 http://freetv.dimcel.art/Freetvlakay/Freetvlakay/1261
+
+#EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://imgs.search.brave.com/0xkyQ92aFetIV2ZgjcuqeWtMUuvqwsRmukuWK-_Cu0U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA4/L05pY2stSnIuLUxv/Z28tNTAweDMxNS5w/bmc" group-title="Local",Nick Jr. East 
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-logo="https://imgs.search.brave.com/fU9f0lkV5ybFcDquzdYdXOnvTQvDq7R_Yhp_rpeMtbE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly92YXJp/ZXR5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNi8wOC8x/NDA1MTcwNl8xNzU2/NTg0MzE0NTk2NjY3/XzEyMjk3NDAwMTQy/MDcyMzUxNDZfbi5q/cGc_dz02MDAmaD02/MDAmY3JvcD0x" group-title="Local",Nick Music 
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK.png" group-title="Local", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -307,17 +291,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="Local",Aniplus
-https://ln.run/fNDoA
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://imgs.search.brave.com/AY2u0LRinTr8QXxirf1adsDpct0UvrPTWjMzy7ljp2Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kMWlv/M3lvZzBvdXg1LmNs/b3VkZnJvbnQubmV0/L2thcnRvb25jaGFu/bmVsL2ZpbGVzL3Ro/ZW1lL2ltYWdlcy9r/dC1sb2dvLW9mZi5w/bmc" group-title="Local",Kartoon Channel
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Kartoon.m3u8
-
 #EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/544627ef-b613-4f03-86c9-037e51bd8747/dg81i5p-9a91c59b-1204-45af-bd05-2b80e17ea4b2.png/v1/fill/w_847,h_646/nick_jr__splat_3d_logo_with_2_objects_by_markthenostalgiafan_dg81i5p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ2IiwicGF0aCI6IlwvZlwvNTQ0NjI3ZWYtYjYxMy00ZjAzLTg2YzktMDM3ZTUxYmQ4NzQ3XC9kZzgxaTVwLTlhOTFjNTliLTEyMDQtNDVhZi1iZDA1LTJiODBlMTdlYTRiMi5wbmciLCJ3aWR0aCI6Ijw9ODQ3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QrDR2E_SihXaeqHrYPxnlHesyT1kf2SObY6cdT-jBrY" group-title="Local", Nick JR.
 http://115.146.176.131:80/TimRizal/TimRizal/17
-
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="Local" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",Moonbug Kids
-http://data.enics.cloud:9999/stream/iptv/moonbug/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Local", DreamWorks (Tagalized)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -326,18 +301,15 @@ http://data.enics.cloud:9999/stream/iptv/moonbug/master.m3u8?u=iptv&p=c7850fdcbb
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="Local", Tap Sports
+#EXTINF:-1 tvg-id="Dreamworks" group-title="Local" tvg-logo="https://imgur.com/SASnGFo.png",DreamWorks HD
+http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/558770
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Local",TapTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" group-title="Local",Love Nature HD
-https://bit.ly/3NHiUtU
-
-#EXTINF:-1 tvg-id="AXN" group-title="Local" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",AXN 
-http://115.146.176.131:80/TimRizal/TimRizal/49
+#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Local", Lifetime
 https://bit.ly/3AafoFk
@@ -350,6 +322,19 @@ http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598098
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="Local", Tap Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" group-title="Local", WWE NETWORK 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/eSJQ2ujEu8TbGr3f5TFRqpFQo2-BfMKUlGvp0v7kJJY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjFiMGNlZjEw/MTRjMGI1ZTQ4NWQu/cG5n" group-title="Local",ESPN
 http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598099
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/pk6UEZZGVpcEebMPffYgWCVncPIwotOMvP8bu-ulyWM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U4L1NwZWN0cnVt/X1Nwb3J0c25ldF9s/b2dvLnBuZw" group-title="Local",Sportsnet Spectrum
@@ -359,24 +344,8 @@ http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598102
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.pngkey.com/png/full/139-1392116_nba-tv-logo.png" group-title="Local",NBA TV
 http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598100
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Local",TapTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
-
-#EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Local" tvg-logo="https://imgur.com/KeM5KlR.png" ch-number="714",Crime & Investigation HD
-https://bit.ly/3UuNquV
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Local",Lotus Macau
-http://115.146.176.131:80/TimRizal/TimRizal/30
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Local",CNN International
 http://115.146.176.131/TimRizal/TimRizal/15.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" channel-number="1" group-title="Local", CNBC 
-http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/AcI3GLn8RYRWgRm_BNLcfJJpAdNSuOHNSqSPLqoSn4s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi82LzY3L0Zv/eF9OZXdzX0NoYW5u/ZWxfbG9nby5zdmcv/MjIwcHgtRm94X05l/d3NfQ2hhbm5lbF9s/b2dvLnN2Zy5wbmc" group-title="Local",FOX News
 http://115.146.176.131:80/TimRizal/TimRizal/7
@@ -389,20 +358,38 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Local",Taiwan Plus TV
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" channel-number="1" group-title="Local", Al Jazeera 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="Local",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Local",Discovery Channel
-https://bit.ly/4fnsUV0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajBtogD.png" channel-number="1" group-title="Local", NHK World - Japan
+http://115.146.176.131:80/TimRizal/TimRizal/22
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" channel-number="1" group-title="Local", ABC Australia
+https://bit.ly/3YHKTzR
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png" group-title="Local",EuroNews US 
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_aFxG1GNdERypDbP_arlFrJ0j5d5tM9x0A&s" group-title="Local",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/jxHnGsMzfiOayt9kJKonUDut6Vk2QbLEv3Fhxkm23fw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkSFZBMlBJ/WmovaWQzTl96b1VX/di5zdmc_dXBkYXRl/ZD0xNzE1Mjg2OTQ4/MDcz" channel-number="1" group-title="Local",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://imgs.search.brave.com/BbUqSVfNvX0BiibB5WUxddbjc6aWwfilM2z8ZT1RnGA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgxL0NHVE4uc3Zn" group-title="Local",CGTN
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://imgs.search.brave.com/0vUQ1mh21bPifolmeCk42O86gb6FKYsy5IhYMLUQWd0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q2L0NHVE5fRG9j/dW1lbnRhcnlfbG9n/by5wbmc" group-title="Local",CGTN Documentary 
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" channel-number="1" group-title="Local", Animal Planet
 https://bit.ly/indianimalplanet
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" group-title="Local",Love Nature HD
+https://bit.ly/3NHiUtU
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild Planet" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="Local",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
@@ -413,78 +400,25 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" channel-number="1" group-title="Local", Discovery Asia
 https://bit.ly/indidiscoveryasia
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="Local", Knowledge Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" channel-number="1" group-title="Local", Tech Storm
-https://bit.ly/inditechstorm
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png" group-title="Local", DepEd TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
-
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MYX Global" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" group-title="Local",MYX Global
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MYX Global" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/200?cb=20210727075913" group-title="Local",MYX Philippines
 http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png" group-title="Local",MTV 90s
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/300952
-
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MTV" tvg-logo="https://imgur.com/bJyvO9A.png" group-title="Local",MTV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" channel-number="1" group-title="Local", Arirang TV
 https://bit.ly/3YqXbLB
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajBtogD.png" channel-number="1" group-title="Local", NHK World - Japan
-http://115.146.176.131:80/TimRizal/TimRizal/22
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" channel-number="1" group-title="Local", ABC Australia
-https://bit.ly/3YHKTzR
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_aFxG1GNdERypDbP_arlFrJ0j5d5tM9x0A&s" group-title="Local",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/jxHnGsMzfiOayt9kJKonUDut6Vk2QbLEv3Fhxkm23fw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkSFZBMlBJ/WmovaWQzTl96b1VX/di5zdmc_dXBkYXRl/ZD0xNzE1Mjg2OTQ4/MDcz" channel-number="1" group-title="Local",WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 MONDE Asie" tvg-logo="https://klean.nl/wp-content/uploads/Logo_TV5_Monde_-_2021.svg_.png" group-title="Local",TV5 Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/G4KOvgmuYBXg1ZlIjVzCAzZQ0Z8OGUy3fYcmRdWLIas/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzUyLzc5LzYz/LzM2MF9GXzY1Mjc5/NjMzMV9UOE1jTHZU/UDhRWDJVSEJDdjFG/WURJejYxZmFTU2xm/MC5qcGc" group-title="Local",United Nations
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/orfBw36I5CZK8jGc-fquZW-XCttOLddKfHahggFLFTw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzBlL1RoZV9HdWFy/ZGlhbi5zdmc" group-title="Local",The Guardian
-https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61MSiq9.png" channel-number="1" group-title="Local", France 24
-https://bit.ly/3YJ4CPG
-
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://imgs.search.brave.com/BbUqSVfNvX0BiibB5WUxddbjc6aWwfilM2z8ZT1RnGA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgxL0NHVE4uc3Zn" group-title="Local",CGTN
-https://english-livebkws.cgtn.com/live/encgtn.m3u8
-
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://imgs.search.brave.com/0vUQ1mh21bPifolmeCk42O86gb6FKYsy5IhYMLUQWd0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q2L0NHVE5fRG9j/dW1lbnRhcnlfbG9n/by5wbmc" group-title="Local",CGTN Documentary 
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://imgs.search.brave.com/APGEgIrVFbLy6EH5iohXIcS7tTa51SsXCQJvSGwVR9U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c2Nhc3RzdHVk/aW8uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE3LzA3L294/eWdlbi1sb2dvLnBu/Zw" group-title="Local",Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://imgs.search.brave.com/FhAHX7AKzrNySVUpxhtGoqCc5WmqXkx8pwZU3miEY6c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI2L0xvZ29fb2Zf/dGhlX0tvcmVhbl9D/ZW50cmFsX1RlbGV2/aXNpb24uc3Zn" group-title="Local",The Korean Movie Channel
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/37d2aea6-31a1-4f33-96fe-09eb7e1b7f53/0.m3u8
-
-#EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/1e/INC_TV_White_Logo_July_2022.png" group-title="Local",INC TV
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png" group-title="Local", Ang Dating Daan
-https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nm4hhp2Z_3T7cP08aapWsX3u-0002yZxjQ&s" group-title="Local",Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Ry02N8.jpeg" group-title="Local", Veritas846
 https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
@@ -492,81 +426,10 @@ https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg" group-title="Local", EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LightTV_Black.png" group-title="Local", Light TV
-http://115.146.176.131:80/TimRizal/TimRizal/39
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="Local", TV Maria
-https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BN2SnhM/Ri-ARBj-Bi-L.png" group-title="Local",Star Television Broadcasting HD
-https://ln.run/dsimm
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Local",Food Network HD
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
-
-#EXTINF:-1 tvg-id="HGTV" ch-number="715" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png",HGTV HD
-https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-
-#EXTINF:-1 tvg-id="BBCLifestyle" ch-number="717" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",BBC Lifestyle HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Local", Fashion TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
-
-#EXTINF:-1 tvg-id="" ch-number="411" group-title="Local" tvg-logo="https://i.imgur.com/zZWj5vn.png",TFC HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
-
 #EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Local" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
-
-#EXTINF:-1 tvg-id="GlobalTrekker" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" ch-number="551",Global Trekker
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" group-title="Local", TapAction Flix HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Local", TAP Edge
-https://ln.run/zPfKe
-
-#EXTINF:-1 tvg-id="Dreamworks" group-title="Local" ch-number="612" tvg-logo="https://imgur.com/SASnGFo.png",DreamWorks HD
-http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/558770
-
-#EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Local",KIX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Local",Warner TV 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Local",tvN Premium HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Local", HISTORY HD
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
@@ -578,104 +441,18 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQou1Ke53d0KH-zvd-qJlQEe1847CJJ9rsklw&s" group-title="Local",Beano TV 
-https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUX69dOS1rt6r8ThuAvqwK8jQO3mhin1g-4w&s" group-title="Local",Funny AF
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
-
-#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/afv_2021_logo.png" group-title="Local",AFV
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png" group-title="Local",EuroNews US 
-https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Tennis_Channel_2004_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20221201165609" group-title="Local",Tennis Channel HD 
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nm4hhp2Z_3T7cP08aapWsX3u-0002yZxjQ&s" group-title="Local",Asian Crush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_qq1zea7l/def_height/2700/def_width/2700/version/100012/type/1" group-title="Local",Comedy Dynamics
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/848941181186842625/wwOxHQah_400x400.jpg" group-title="Local",Nosey
-https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-tEK4ZAUWGua6HxpKOz0FqGAkA_jkWmzD_Q&s" group-title="Local",Crime Hunters 
-https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.matchpoint.tv/0kvlx42ebi8tj4rmw3fqlczr0cggatcwu39qsjnoxjllrgbaqi9n12e5jwwzbbjo95u5er1n53x/310x150.png" group-title="Local",Retro Crush
-https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvNYJr38mBrgJIobMHuqed-DHWsBM2CUnUg&s" group-title="Local",The Bob Ross Channel 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcoqCu_QsUYlpgA_M1b3yz0RAE-4CHrAWBA&s" group-title="Local",Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUwZXCiWonbd3Mc_R8U6nGq36EZvvgkvMEg&s" group-title="Local",World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAteT7PmEGDEmrE6CO8tp5RyJhwH1Mt-XAQ&s" group-title="Local",Family Feud
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643f03b9d8436e0008edf021/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a359-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8763840e-c36c-4cb7-b51f-a83433e8ecfc
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1507553842971-V1552JH0TBZ9FV7JO1S5/ForensicFiles_logo.png" group-title="Local",Forensic Files
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=859d292d-044e-4dc8-b889-003fa718d02e
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1507553842971-V1552JH0TBZ9FV7JO1S5/ForensicFiles_logo.png" group-title="Local",Forensic Files 2
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f62dc3a71bc8b0007572fb0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f170-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66441bcc-2772-44c8-bc7e-7321b40be800
-
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_ikfl1p6f/def_height/2700/def_width/2700/version/100012/type/1" group-title="Local",GLORY Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 
 #EXTINF:-1 tvg-logo="https://images.tapology.com/logos/2487/profile/Top-Rank-Boxing-logo.jpg?1541430691" group-title="Local",Top Rank Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d160f53c785e0008df525e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8ce20713-803b-4c36-b6c9-1026b5b6d0e4
 
-#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://imgs.search.brave.com/oCf21ZVcIfGAzDu9kkIlLwpZXZGRXhlueEDGRC4Vn3Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzVkL0FC/Q18yNV9Db2x1bWJp/YV9sb2dvXzIwMjIu/cG5nLzUxMnB4LUFC/Q18yNV9Db2x1bWJp/YV9sb2dvXzIwMjIu/cG5n" group-title="Local",ABC 25 Columbia
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://imgs.search.brave.com/q5clnbZfpzfyzgEwpPoBoiJfVCUwq1sTL-yczaSDlRk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE2L0FN/Q19sb2dvXzIwMTYu/c3ZnLzIyMHB4LUFN/Q19sb2dvXzIwMTYu/c3ZnLnBuZw" group-title="Local",AMC East 
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://imgs.search.brave.com/yaKYcMtPGXCDakDNDkb89V4g4-FjRYKPxfUGunoWCE8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dHZwYXNzcG9ydC5j/b20vaW1hZ2Uvc3Rh/dGlvbi8yNDB4MTM1/L3YyL3MxODMzMl9o/MTVfYWEucG5n" group-title="Local",BBC America East
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="BETHerEast.us" tvg-logo="https://imgs.search.brave.com/QVnxFuQU2fUXQkJtLRhP-Dwa5n0NsFxCPHyQ67AKcuc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Yi9iYS9CRVRfSGVy/XzIwMjEucG5nLzUx/MnB4LUJFVF9IZXJf/MjAyMS5wbmc" group-title="Local",BET Her East
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-id="BETJams.us" tvg-logo="https://imgs.search.brave.com/3AhDC__AiOHvGQ7HROO3_s-rXpwwDLlQQGyR6JzxsWo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWd4/LmZ1Ym8udHYvc3Rh/dGlvbl9sb2dvcy9i/ZXRfamFtc19tLnBu/Zz9jaD13aWR0aCZh/dXRvPWZvcm1hdCxj/b21wcmVzcyZ3PTAu/NCZoPTAuNA" group-title="Local",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-logo="https://imgs.search.brave.com/6QTGyzTKHheOyllSCc5DIUV60-p3ilMROfvcSmKJPN8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2Y3L0MtU1BBTl9M/b2dvXygyMDE5KS5z/dmc" group-title="Local",C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Evhzx9k_qXpHt5D2v6_e0Se_gIkdnI_LJQ&s" group-title="Local",Comedy Central East 
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://imgs.search.brave.com/kb11kLSRdeyXRLnDGgwKy0axKFeoMHxjIQ32HJkIZmo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzM3LzIwMTVfRm94/X1Nwb3J0c18xX2xv/Z28uc3Zn" group-title="Local",Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="FYIEast.us" tvg-logo="https://imgs.search.brave.com/gMDgwJ5oULoe0VuFOWO14SHTooyQlnxpHB50aQ8M3Zk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZkL0ZZSSxfbG9n/by5zdmc" group-title="Local",FYI East
-http://fl2.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-logo="https://imgs.search.brave.com/SLnHLW8um-QWD2iFfOte27YWryCAYI-f2dIUPqw5tp4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzQ1MjU5NC5qcGc" group-title="Local",Hallmark Channel East
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://imgs.search.brave.com/5HMa7DS-Ux5BdQuDzhEJZtmkwbW0HrSES6WAoH-nW48/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aG9sbHl3b29kcmVw/b3J0ZXIuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIyLzA5/L01HTVBMVVMtSC0y/MDIyLmpwZz93PTEy/OTYmaD03MzAmY3Jv/cD0x" group-title="Local",MGM+ East
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://imgs.search.brave.com/YET2GW9Ih06UKjns5NFVdqGBVipjv4hnPziwcyvAIjg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWd4/LmZ1Ym8udHYvc3Rh/dGlvbl9sb2dvcy9N/R01QbHVzX01hcnF1/ZWVfbS5wbmc_Y2g9/d2lkdGgmYXV0bz1m/b3JtYXQsY29tcHJl/c3Mmdz0wLjQmaD0w/LjQ" group-title="Local",MGM+ Marquee
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://imgs.search.brave.com/qnwZ2DcroY631n_UFAFdDMB6gaWD0BaMeuc9OkjravU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kaXNo/cHJvbW90aW9ucy5j/b20vd3AtY29udGVu/dC91cGxvYWRzL01M/Qi1OZXR3b3JrLUxv/Z28uc3Zn" group-title="Local",MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NewsNationEast.us" tvg-logo="https://imgs.search.brave.com/iAcJllcvDV_F3izFJ2W09hu4lOPmrZrMapTxio1fSg8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kZndm/aXMucHJvZC5kdHZj/ZG4uY29tL2NhdGFs/b2cvaW1hZ2UvaW1h/Z2VzZXJ2ZXIvdjEv/c2VydmljZS9jaGFu/bmVsLzU1NzZiMjg1/LWIxMTUtNDRlMS05/Nzg5LTE4MDNhYjcw/OTFmZC9jaGxvZ28t/Y2xiLWd1aWRlLzEy/MC85MA.jpeg" group-title="Local",NewsNation East
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://imgs.search.brave.com/0xkyQ92aFetIV2ZgjcuqeWtMUuvqwsRmukuWK-_Cu0U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA4/L05pY2stSnIuLUxv/Z28tNTAweDMxNS5w/bmc" group-title="Local",Nick Jr. East 
-https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickMusic.us" tvg-logo="https://imgs.search.brave.com/fU9f0lkV5ybFcDquzdYdXOnvTQvDq7R_Yhp_rpeMtbE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly92YXJp/ZXR5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNi8wOC8x/NDA1MTcwNl8xNzU2/NTg0MzE0NTk2NjY3/XzEyMjk3NDAwMTQy/MDcyMzUxNDZfbi5q/cGc_dz02MDAmaD02/MDAmY3JvcD0x" group-title="Local",Nick Music 
-http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://imgs.search.brave.com/APGEgIrVFbLy6EH5iohXIcS7tTa51SsXCQJvSGwVR9U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c2Nhc3RzdHVk/aW8uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE3LzA3L294/eWdlbi1sb2dvLnBu/Zw" group-title="Local",Oxygen East
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-logo="https://imgs.search.brave.com/hUb8R4euoH23GQdGPFfc-8dyTiTPJZuSOydzKeyQ9C8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2xv/Z29wZWRpYS9pbWFn/ZXMvNy83MS9TdGFy/el9jb21lZHkucG5n/L3JldmlzaW9uL2xh/dGVzdC9zY2FsZS10/by13aWR0aC1kb3du/LzI1MD9jYj0yMDIz/MDgyNTIwNDc0MQ.jpeg" group-title="Local",Starz Comedy East
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://imgs.search.brave.com/Bxc72iLwv6g6Yf16cBSoSHeJyYuQaHSev0gacf6b7uQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/Lzk0MjI1Mi5qcGc" group-title="Local",Syfy East
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-logo="https://imgs.search.brave.com/lA2pLXdILpkAVULtsm2qkstUy3Ix2s-GnrwG4wvP2DE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZnViby50di9j/aGFubmVsLWNvbmZp/Zy11aS9zdGF0aW9u/LWxvZ29zL29uLWRh/cmsveWVzLWxvZ29f/d2hpdGUucG5nP2No/PXdpZHRoJmF1dG89/Zm9ybWF0LGNvbXBy/ZXNzJnc9MC40Jmg9/MC40" group-title="Local",Yes Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/lAKQTUZdKnlmzMo9tmivSKHdauJD98NmHDlMNiQawLs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzA2L0RBWk5fTG9n/b19NYXN0ZXIuc3Zn" group-title="Local",DAZN Ringside
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Bellator MMA" tvg-logo="https://imgur.com/2Cz3vE3.png" group-title="Local",Bellator MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 ````````KIDS NETWORKS````````
 
@@ -1439,494 +1216,3 @@ https://ln.run/4x0dD
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.ibb.co/wdNVFQV/mma-fighting-logo-vector-14220884-removebg-preview.png" group-title="PREMIUM SPORTS",Top Fight HD
 https://ln.run/NQtPF
-
-
-
-```````4K UHD|3840P````````
-
-#EXTINF:-1 group-logo="https://i.ibb.co/ZJwMP72/85c82173479365dcfece6488b34f971b.png"
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| 5SPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/5SPORT.png" group-title="4K UHD|3840P",4K| 5SPORT UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470620&extension=ts&play_token=Dnr5dWbtmY
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ASTRO SUPERSPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="4K UHD|3840P",4K| ASTRO SUPERSPORT UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1479590&extension=ts&play_token=7N4xhFAPIk
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| BEIN SPORTS AR [EVENT]" tvg-logo="https://epgx.site/p/bein-sports-4k.png" group-title="4K UHD|3840P",4K| BEIN SPORTS AR [EVENT]
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1500113&extension=ts&play_token=HauSOmFmid
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| BLOOMBERG UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/BLOOMBERG-HD.png" group-title="4K UHD|3840P",4K| BLOOMBERG UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470604&extension=ts&play_token=ZpvRQFpy1J
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| CANAL+ UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL.png" group-title="4K UHD|3840P",4K| CANAL+ UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470621&extension=ts&play_token=ptp4r9Hz8I
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| CNN UHD 4K" tvg-logo="http://logo.protv.cc/picons/logos/logos/CNN.png" group-title="4K UHD|3840P",4K| CNN UHD 4K
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470653&extension=ts&play_token=Mvzgi6o2Vf
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| COCINA UHD" tvg-logo="http://logo.protv.cc/picons/logos/COCINA.png" group-title="4K UHD|3840P",4K| COCINA UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471385&extension=ts&play_token=7nd51BzVFx
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| DAZN LA LIGA TV UHD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LA-LIGA-.PNG" group-title="4K UHD|3840P",4K| DAZN LA LIGA TV UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471376&extension=ts&play_token=qhav3SzBiL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| DECASA UHD" tvg-logo="http://logo.protv.cc/picons/logos/DECASA.png" group-title="4K UHD|3840P",4K| DECASA UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471384&extension=ts&play_token=lqBFE3LdaK
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ELEVEN SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ELEVEN-SPORTS-1.png" group-title="4K UHD|3840P",4K| ELEVEN SPORTS 1 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470618&extension=ts&play_token=v8mErTAZGi
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ESPN UHD" tvg-logo="http://logo.protv.cc/piconsnew/espnuhd.png" group-title="4K UHD|3840P",4K| ESPN UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1481941&extension=ts&play_token=iCQJXXVjxR
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| FASHION TV UHD" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/FASHION-TV.png" group-title="4K UHD|3840P",4K| FASHION TV UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1498962&extension=ts&play_token=55CZmt3RZ2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| FOX REGIONAL UHD (EVENT ONLY)" tvg-logo="http://logo.protv.cc/picons/logos/logos/FOX.png" group-title="4K UHD|3840P",4K| FOX REGIONAL UHD (EVENT ONLY)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491206&extension=ts&play_token=k6dy708NHD
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| FOX UHD (EVENT ONLY)" tvg-logo="http://logo.protv.cc/picons/logos/logos/FOX.png" group-title="4K UHD|3840P",4K| FOX UHD (EVENT ONLY)
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491205&extension=ts&play_token=apsjRz9K6d
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| HUB PREMIER 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/HUB-PREMIER.png" group-title="4K UHD|3840P",4K| HUB PREMIER 2 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470619&extension=ts&play_token=YOUl1xt8dO
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| LIGA CAMPEONES UHD" tvg-logo="http://logo.protv.cc/picons/logos/LIGA-CAMPEONES.png" group-title="4K UHD|3840P",4K| LIGA CAMPEONES UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471377&extension=ts&play_token=0Jkrg8F2Wt
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| LOVE NATURE UHD" tvg-logo="http://logo.protv.cc/picons/logos/LOVE-NATURE-UHD1.png" group-title="4K UHD|3840P",4K| LOVE NATURE UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471386&extension=ts&play_token=ptPQQmYaig
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| NESN UHD" tvg-logo="http://logo.protv.cc/picons/logos/USA/NESN-UHD.png" group-title="4K UHD|3840P",4K| NESN UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1479774&extension=ts&play_token=gDR8e64wfx
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| NOW SPORTS (EPL) UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/NOW-SPORTS.png" group-title="4K UHD|3840P",4K| NOW SPORTS (EPL) UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470622&extension=ts&play_token=k10kH3dvUX
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ODISEA UHD" tvg-logo="http://logo.protv.cc/picons/logos/ODISEA.png" group-title="4K UHD|3840P",4K| ODISEA UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471383&extension=ts&play_token=P6Fn5UfrQk
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| QVC UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/QVC-UHD.png" group-title="4K UHD|3840P",4K| QVC UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491207&extension=ts&play_token=IyMNwziyMx
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| QVC ZWEI UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/QVC-ZWEI-UHD.png" group-title="4K UHD|3840P",4K| QVC ZWEI UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491208&extension=ts&play_token=6lqek2ROBJ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 1 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 1 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491180&extension=ts&play_token=XDQFzcJKbG
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 2 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 2 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491181&extension=ts&play_token=zLUwwBYflg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 3 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 3 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491183&extension=ts&play_token=EKeSanisym
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 4 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 4 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491184&extension=ts&play_token=CaTOiiOuql
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 5 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 5 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491185&extension=ts&play_token=AxCY31NoNL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 6 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 6 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491186&extension=ts&play_token=M5lKPK6vAn
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 7 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 7 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491187&extension=ts&play_token=a8F5Z5dIGg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 8 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 8 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491188&extension=ts&play_token=diyq4Li8Fb
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY PRIMAFILA 9 UHD" tvg-logo="http://logo.protv.cc/piconsnew/skyprimafila.png" group-title="4K UHD|3840P",4K| SKY PRIMAFILA 9 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491189&extension=ts&play_token=nlMz3OqUJj
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD|3840P",4K| SKY SPORTS F1 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471382&extension=ts&play_token=jlntAAeR2y
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY SPORTS MAIN EVENT UHD" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-MAIN-EVENT-UHD.png" group-title="4K UHD|3840P",4K| SKY SPORTS MAIN EVENT UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471381&extension=ts&play_token=karH5TtU3F
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SKY SPORTS UHD [EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS-UHD.png" group-title="4K UHD|3840P",4K| SKY SPORTS UHD [EVENT]
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471387&extension=ts&play_token=P2iWRr0apt
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SPORT TV UHD" tvg-logo="http://logo.protv.cc/picons/logos/SPORT-TV-1.png" group-title="4K UHD|3840P",4K| SPORT TV UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471378&extension=ts&play_token=MzMey7rdGh
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| SUPERSPORT 360 UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/SUPERSPORT-360.png" group-title="4K UHD|3840P",4K| SUPERSPORT 360 UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470603&extension=ts&play_token=nbNZ7ORfwj
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| TNT SPORTS UHD [EVENT]" tvg-logo="http://logo.protv.cc/piconsnew/tntsports.png" group-title="4K UHD|3840P",4K| TNT SPORTS UHD [EVENT]
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1479591&extension=ts&play_token=PNEHirkOtm
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| UHD 1 BY ASTRA" tvg-logo="http://logo.protv.cc/picons/logos/logos/UHD-1-BY-ASTRA.png" group-title="4K UHD|3840P",4K| UHD 1 BY ASTRA
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491209&extension=ts&play_token=GWJLZ3F6Wh
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ZEE TV UHD" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-TV-UHD.png" group-title="4K UHD|3840P",4K| ZEE TV UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471380&extension=ts&play_token=2h9Kvtu4tg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| ZIGGO SPORT UHD" tvg-logo="http://logo.protv.cc/piconsnew/ziggosportuhd.png" group-title="4K UHD|3840P",4K| ZIGGO SPORT UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1481950&extension=ts&play_token=PhTSPLqFYW
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| CANAL+ UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-PLUS.png" group-title="4K UHD|3840P",4K| CANAL+ UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491210&extension=ts&play_token=BUhBPAHvPd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP| CANAL+ 4K+/UHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL.png" group-title="4K UHD|3840P",SP| CANAL+ 4K+/UHD
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1380013&extension=ts&play_token=10EHB2nWD1
-
-
-
-
-#EXM3U
-
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FAMILY-GUY.png",US| 24/7 FAMILY GUY
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=990243&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/AME.png",US| A&E HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45619&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ABC-HD.png",US| ABC HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45439&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/accuweather-HD.png",US| ACCUWEATHER HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91946&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/ADULT-SWIM-WEST.png",US| ADULT SWIM WEST
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1131979&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/ADULT-SWIM-WEST.png",US| cccSWIM HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150345&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/AMC-HD.png",US| AMC HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45445&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/AMC-PLUS.png",US| AMC PLUS
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=534381&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/AMERICA-HEROES.png",US| AMERICA HEROES HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45613&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ANIMAL-PLANET-HD.png",US| ANIMAL PLANET HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45447&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ANIMAL-PLANET-HD.png",US| ANIMAL PLANET WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91762&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/ANTENNA.png",US| ANTENNA TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=398879&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ASPIRE-HD.png",US| ASPIRE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91763&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/AWE.jpg",US| AWE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91955&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MAGNOLIA-NETWORK.png",US| MAGNOLIA NETWORK
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1350214&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/VICE.png",US| VICE FHD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1459895&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/REAL-AMERICAN-VOISE.png",US| REAL AMERICAN VOICE
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1417091&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/AXS.png",US| AXS TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91760&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BBC-AMERICA.png",US| BBC AMERICA HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45612&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BET-GOSPEL.png",US| BET GOSPEL
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91767&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BET.png",US| BET HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45610&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BET-HER.png",US| BET HER HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91768&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/BET-JAMS.png",US| BET JAMS HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91769&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BET-SOUL.png",US| BET SOUL
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91770&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MY27-KDFI-DALLAS.png",US| MY27 KDFI DALLAS
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1160247&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TXA21-KTXA.png",US| TXA21 KTXA DALLAS
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1160246&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BLAZE.png",US| BLAZE TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1150047&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/BOUNCE-TV-HD.png",US| BOUNCE TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91771&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/BOUNCE-TV-HD.png",US| BOUNCE XL
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=730910&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BRAVO.png",US| BRAVO HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45446&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BRAVO.png",US| BRAVO WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91772&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/BUZZR.png",US| BUZZR
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=105189&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/CHARGE.png",US| CHARGE!
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=789119&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/CMT.png",US| CMT HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90937&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/CLEO.png",US| CLEO TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1128930&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png",US| COMEDY CENTRAL HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45448&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COMEDY-CENTRAL-WEST.png",US| COMEDY CENTRAL EAST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1149739&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COMEDY-CENTRAL-WEST.png",US| COMEDY CENTRAL WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1131978&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COMEDY.png",US| COMEDY TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91944&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COMET.png",US| COMET HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91807&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COOKING-CHANNEL.png",US| COOKING CHANNEL HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45591&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COURT.png",US| COURT TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150347&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/COZI.png",US| COZI
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45590&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/CRIME-INVESTIGATION.png",US| CRIME & INVESTIGATION HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90938&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/DECADES.png",US| DECADES
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=789120&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/DESTINATION-AMERICA-HD.png",US| DESTINATION AMERICA HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90954&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-FAMILY.png",US| DISCOVERY FAMILY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45443&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png",US| DISCOVERY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45442&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-LIFE.png",US| DISCOVERY LIFE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91820&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-SCIENCE.png",US| DISCOVERY SCIENCE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45441&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-TURBO.png",US| DISCOVERY TURBO
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1092802&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-WEST.png",US| DISCOVERY WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91819&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DOG.png",US| DOG TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91950&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/ENTERTAINMENT-WEST.png",US| E! ENTERTAINMENT WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91834&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/eentertainment.png",US| E! ENTERTAINMENT HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45584&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/EWTN-CATHOLIC.png",US| EWTN CATHOLIC
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=204984&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FETV.png",US| FETV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=789121&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/WAYPOINT.png",US| WAYPOINT
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1570196&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/STORY.png",US| STORY TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1570195&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/RECIPE.png",US| RECIPE TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1570194&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LAFF.png",US| LAFF TV  HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=793363&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LMN.png",US| LMN
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1110680&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/DESIGN-NETWORK.png",US| DESIGN NETWORK HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1673831&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/DABL.png",US| DABL TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1139730&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/NASA.png",US| NASA + HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1114426&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/NBT.png",US| NBT HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1105820&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOLK.png",US| FOLK TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=789122&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOOD-NETWORK.png",US| FOOD NETWORK HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45577&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOOD-NETWORK-WEST.png",US| FOOD NETWORK WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91850&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX-SOUL.png",US| FOX SOUL
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=730907&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX-WEATHER.png",US| FOX WEATHER
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1518415&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FREEFORM.png",US| FREEFORM HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45557&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FREEFORM.png",US| FREEFORM WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91849&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FUSE.png",US| FUSE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91910&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FUSE-MUSIC.png",US| FUSE MUSIC HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91941&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FX.png",US| FX HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45451&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FXM.png",US| FXM HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45450&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FX-WEST.png",US| FX WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91852&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FXX.png",US| FXX HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45449&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FXX-WEST.png",US| FXX WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91853&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/FYI.png",US| FYI HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45555&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/GAMETV.png",US| GAME TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45472&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/GET.png",US| GET TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150349&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/GRIT.png",US| GRIT
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91856&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/GREAT-AMERICAN-FAMILY.png",US| GREAT AMERICAN FAMILY
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1038601&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/GREAT-AMERICAN-COUNTRY.png",US| GREAT AMERICAN COUNTRY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91855&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/GSN-HD.jpg",US| GSN HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45553&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK-FAMILY.png",US| HALLMARK FAMILY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90961&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK.png",US| HALLMARK HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45458&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK-MYSTERY.png",US| HALLMARK MYSTERY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45457&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HD-NET-MOVIES.png",US| HD NET MOVIES HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91885&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HEROES-ICONS.png",US| HEROES & ICONS
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150351&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/HISTORY-HD.jpg",US| HISTORY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45444&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/iptvlogos/HGTV_HD.png",US| HGTV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1350074&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/HGTV-HD.png",US| HGTV WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91925&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/HLN-HD.png",US| HLN HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91857&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HOPE-CHANNEL.png",US| HOPE CHANNEL
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=204986&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/HSN.png",US| HSN
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1580639&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/HUNT-CHANNEL.png",US| HUNT CHANNEL
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150352&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/ID-HD.jpeg",US| ID HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45545&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/ID-WEST.png",US| ID WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91858&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/IFC.png",US| IFC HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45544&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/INDIEPLEX.png",US| INDIEPLEX HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45543&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/INSP.png",US| INSP HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91914&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/INFOWARS.png",US| INFOWARS TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=297628&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/ION.png",US| ION HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=872292&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/ION-PLUS.png",US| ION PLUS
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=730909&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/USA/MY24-MILWAUKEE.png",US| MY24 MILWAUKEE
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1708414&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/JUSTICE-CENTRAL.png",US| JUSTICE CENTRAL HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91943&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LAW-AND-CRIME.png",US| LAW AND CRIME HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91861&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME.png",US| LIFETIME HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45541&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME-MOVIE-NETWORK.png",US| LIFETIME MOVIE NETWORK HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45456&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME-REAL-WOMEN.png",US| LIFETIME REAL WOMEN HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150353&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/LOCAL-NOW.png",US| LOCAL NOW HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91909&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/LOGO-HD.png",US| LOGO HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91862&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MERIT.png",US| MERIT+
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1555936&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/MAV-TV.png",US| MAV TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91898&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/metv.png",US| ME TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91863&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/MGM.png",US| MGM HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91886&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/MILITARY-HISTORY.png",US| MILITARY HISTORY
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91864&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/MOTORTREND.png",US| MOTORTREND HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90962&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/mtv2.png",US| MTV 2 HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90963&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/MTV-HD.png",US| MTV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45461&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/mtvlive.png",US| MTV LIVE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45460&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/MTV-U-HD.png",US| MTV U
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91913&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE '70's
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991608&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE TROPICALES
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991607&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE CLASSIC COUNTRY
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991605&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE HIP-HOP AND R&B
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991602&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE POP HITS
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991601&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE JAZZ
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991599&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE  MAX
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991598&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/UK/El_Rey_Network.png",US| EL REY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991597&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE ROCK HITS
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991596&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/MUSIC-CHOISE.png",US| MUSIC CHOICE ROMANCES
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=991595&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/NATGEO.png",US| NAT GEO HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45453&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/natgeowild.png",US| NAT GEO WILD HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45452&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/OUTDOOR-CHANNEL.png",US| OUTDOOR CHANNEL HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90964&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/outsidetv.png",US| OUTSIDE TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91866&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/OVATION.png",US| OVATION HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91867&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/OWN-HD.png",US| OWN HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45518&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/OXYGEN-HD.png",US| OXYGEN HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45517&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/OXYGEN-HD.png",US| OXYGEN WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91868&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/PARAMOUNT.png",US| PARAMOUNT HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45500&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/PBS.png",US| PBS HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45510&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/PIXL.png",US| PIXL HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91937&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/POP.png",US| POP HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45509&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/QVC-2.png",US| QVC 2 HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90967&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/QVC-HD.png",US| QVC HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90966&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/RED-BULL.png",US| RED BULL TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150356&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/REELZ.png",US| REELZ HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45508&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/RETROPLEX.png",US| RETROPLEX HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45507&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/RETRO-TV.png",US| RETRO TV
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150357&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/REVOLT.png",US| REVOLT HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91915&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/RFD.png",US| RFD TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91870&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/RIDE.png",US| RIDE TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91871&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/RT-NEWS.png",US| RT NEWS HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91935&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/RT-DOCUMENTARY.png",US| RT DOCUMENTARY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=233242&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWTIME-BET.png",US| SHOWTIME BET HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=303331&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/SMITHSONIAN-CHANNEL.png",US| SMITHSONIAN CHANNEL HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91872&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/SMITHSONIAN-CHANNEL-WEST.png",US| SMITHSONIAN CHANNEL WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91926&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/SO-YUMMY!.png",US| SO YUMMY!
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=774212&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/SUNDANCE.png",US| SUNDANCE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45477&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/SYFY-HD.png",US| SYFY HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45476&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/SYFY-HD.png",US| SYFY WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91875&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/TASTEMADE.png",US| TASTEMADE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=150360&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/tbs.png",US| TBS HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45475&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TBS-WEST-HD.png",US| TBS WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91924&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TBN.png",US| TBN
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=204985&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/tcm.png",US| TCM HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90968&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/TEEN-NICK.png",US| TEEN NICK
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91877&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/THE-WEATHER-CHANNEL-HD.png",US| THE WEATHER CHANNEL HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45455&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/iptvlogos/BLAZE_HD.png",US| THE BLAZE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1053425&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TLC-HD.png",US| TLC HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45471&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TLC-WEST-HD.png",US| TLC WEST
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91912&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg",US| TNT
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45470&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg",US| TNT(BK)
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1198205&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg",US| TNT HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45469&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg",US| TNT HD(BK)
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=1198206&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TNT-HD.png",US| TNT WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91879&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png",US| TRAVEL CHANNEL HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45437&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png",US| TRAVEL CHANNEL WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91880&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/trutv.png",US| TRUTV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45468&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/TRUTV-WEST.png",US| TRUTV WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91878&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/TVG-NETWORK.png",US| TVG NETWORK
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91939&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TVG-NETWORK-2.png",US| TVG NETWORK 2
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91940&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/TV-LAND-HD.jpg",US| TV LAND HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45467&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/tvone.png",US| TV ONE HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=90969&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/UP-TV-HD.png",US| UP TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91881&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/USA-NETWORK.png",US| USA NETWORK HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45466&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/USA-NETWORK-EAST.png",US| USA NETWORK EAST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=188997&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA-NETWORK-HD.jpg",US| USA NETWORK WEST HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91882&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/vh1.png",US| VH1 HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45436&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/viceland.png",US| VICELAND HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45465&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/wetv.png",US| WE TV HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45464&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/USA/WGN9.png",US| WGN9
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=290879&extension=ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.118/picons/logos/logos/WORLD-FISHING-NETWORK.png",US| WORLD FISHING NETWORK HD
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91906&extension=ts
