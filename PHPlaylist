@@ -244,7 +244,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Local", DreamWorks (Tagalized)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Local", DreamWorks Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -267,6 +267,12 @@ https://bit.ly/3AafoFk
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
 http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598098
 
+#EXTINF:-1 tvg-id="KHOUDT1.us" tvg-logo="https://imgs.search.brave.com/wJtelTxbvgODYX8RCh919qQWmYAIMTEElgrqYETtFPg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dHZwYXNzcG9ydC5j/b20vaW1hZ2Uvc3Rh/dGlvbi8yNDB4MTM1/L3YyL3MxMDA5OF9o/MTVfYWMucG5n" group-title="Local",CBS 
+https://livetv-fa.tubi.video/khou/live.m3u8
+
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-logo="https://imgs.search.brave.com/HSxSr90Vx1fGtH76666WmDPUyJ18ebLLQXIADUaV2d4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saXZl/dHYud3R2cGMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA5L3NlcnZlaW1h/Z2UtMS1lMTUwNTQ4/OTI3NDg3Ny5qcGc" group-title="Local",FOX
+https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/f/f6/KNBS_95.png/revision/latest/zoom-crop/width/480/height/480?cb=20191126221915" group-title="Local" , NBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
@@ -275,11 +281,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/cRcOQOH_7wNttjsDhXDc1mZGaUmM_2oAMPRtzDr263Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RudC10/djUwOTYuanBn" group-title="Local",TNT
 http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598102
 
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" group-title="Local", WWE 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+#EXTINF:-1 tvg-id="TMZ.us" tvg-logo="https://imgs.search.brave.com/Nd7ZOfPSqF4ZQFLlAQHttOcU3fDlfeCMTd-X1uYxz-8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzAy/L1RNWi1sb2dvLTUw/MHgyODEucG5n" group-title="Local",TMZ
+https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/eSJQ2ujEu8TbGr3f5TFRqpFQo2-BfMKUlGvp0v7kJJY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjFiMGNlZjEw/MTRjMGI1ZTQ4NWQu/cG5n" group-title="Local",ESPN
 http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598099
@@ -292,8 +295,14 @@ http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598100
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Local",CNN International
 http://115.146.176.131/TimRizal/TimRizal/15.m3u8
 
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://imgs.search.brave.com/mssQYz1rVpl48VDIAAOEgZe87zk_Q_PPxjlrZJzSZRA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RlL05CQ19OZXdz/X05vd18yMDIzLnN2/Zw" group-title="Local",NBC News Now
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/AcI3GLn8RYRWgRm_BNLcfJJpAdNSuOHNSqSPLqoSn4s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi82LzY3L0Zv/eF9OZXdzX0NoYW5u/ZWxfbG9nby5zdmcv/MjIwcHgtRm94X05l/d3NfQ2hhbm5lbF9s/b2dvLnN2Zy5wbmc" group-title="Local",FOX News
 http://115.146.176.131:80/TimRizal/TimRizal/7
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://imgs.search.brave.com/4NUfw_VjOA1e5L2EPVrVromC_fCXXVSwvu1Z3zzNzzU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZm94dHYuY29t/L2ltYWdlcy5mb3h0/di5jb20vc3RhdGlj/LmxpdmVub3dmb3gu/Y29tL3d3dy5saXZl/bm93Zm94LmNvbS9j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wMS8z/Mi8xOC81OTIvMzMz/L0xpdmVOT1ctbG9n/by0xMjgweDcyMC5q/cGc_dmU9MSZ0bD0x/JnZlPTEmdGw9MQ" group-title="Local",LiveNOW from FOX
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Local",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -330,6 +339,9 @@ https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://imgs.search.brave.com/0vUQ1mh21bPifolmeCk42O86gb6FKYsy5IhYMLUQWd0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q2L0NHVE5fRG9j/dW1lbnRhcnlfbG9n/by5wbmc" group-title="Local",CGTN Documentary 
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://imgs.search.brave.com/kbDzwVH5RhoXBo5mObJqFfxml0609I1NKXbUUZiGyrE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9jb3VydC10di1s/b2dvLnBuZw" group-title="Local",Court TV
+https://apollo.production-public.tubi.io/live/ac-court-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" channel-number="1" group-title="Local", Animal Planet
 https://bit.ly/indianimalplanet
 
@@ -363,6 +375,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" channel-number="1" group-title="Local", Arirang TV
 https://bit.ly/3YqXbLB
 
+#EXTINF:-1 tvg-id="LOLStandUp.us" tvg-logo="https://imgs.search.brave.com/Fc6wJuIuxxBKG_60l7_e4QfHjRK-WLqLZOc9Krv1aWo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS54dW1vLmNvbS92/MS9jaGFubmVscy9j/aGFubmVsLzk5OTUx/Mjk3LzIwMHgyMDAu/d2VicD90eXBlPWNv/bG9yX29uQmxhY2s" group-title="Local",LOL Stand Up
+https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
+
 #EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://imgs.search.brave.com/APGEgIrVFbLy6EH5iohXIcS7tTa51SsXCQJvSGwVR9U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c2Nhc3RzdHVk/aW8uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE3LzA3L294/eWdlbi1sb2dvLnBu/Zw" group-title="Local",Oxygen East
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
@@ -378,10 +393,10 @@ https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg" group-title="Local", EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.665d0f96638c4926c798ffce23dc5980?rik=%2fRwZwratDW9SqA&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f6136264df5966900044cbf71.png&ehk=HbNp1jC4AoiGXBTbcW17KCJtsIJek82dbJXZ9h0oPe8%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS NETWORKS",CRUNCHYROLL | EN AUDIO 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.665d0f96638c4926c798ffce23dc5980?rik=%2fRwZwratDW9SqA&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f6136264df5966900044cbf71.png&ehk=HbNp1jC4AoiGXBTbcW17KCJtsIJek82dbJXZ9h0oPe8%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS NETWORKS",Crunchyroll 
 https://bit.ly/Crunchyroll-ph
 
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="KIDS NETWORKS", ANIMAX 
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="KIDS NETWORKS", Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
@@ -396,7 +411,7 @@ https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/am
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AnimeTv" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="KIDS NETWORKS",AnimeTv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="KIDS NETWORKS",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="KIDS NETWORKS",Disney Channel
 http://apkandweb.ddns.net/6377635294/6663568605/2124
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/l7p2MpK.png" group-title="KIDS NETWORKS",Cartoon Network HD
@@ -404,26 +419,26 @@ http://apkandweb.ddns.net/6377635294/6663568605/2124
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="KIDS NETWORKS",DISNEY XD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="KIDS NETWORKS",Disney XD
 http://apkandweb.ddns.net/6377635294/6663568605/658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BOOMERANG UHD" tvg-logo="https://imgur.com/L9jF0ln.png" group-title="KIDS NETWORKS",BOOMERANG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BOOMERANG UHD" tvg-logo="https://imgur.com/L9jF0ln.png" group-title="KIDS NETWORKS",Boomerang
 http://apkandweb.ddns.net/6377635294/6663568605/665
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CARTOON NETWORK UHD" tvg-logo="http://apkip.tv/logos/USA/CartoonNetwork.us.png" group-title="KIDS NETWORKS",CARTOON NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CARTOON NETWORK UHD" tvg-logo="http://apkip.tv/logos/USA/CartoonNetwork.us.png" group-title="KIDS NETWORKS",Cartoon Network
 http://apkandweb.ddns.net/6377635294/6663568605/667
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: UNIVERSAL KIDS" tvg-logo="http://apkip.tv/logos/USA/UniversalKids.us.png" group-title="KIDS NETWORKS",UNIVERSAL KIDS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: UNIVERSAL KIDS" tvg-logo="http://apkip.tv/logos/USA/UniversalKids.us.png" group-title="KIDS NETWORKS",Universal Kids
 http://apkandweb.ddns.net/6377635294/6663568605/1020618
 
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://i.ibb.co/99cTrL8/My-project-15-1-removebg-preview.png" group-title="KIDS NETWORKS", Super Anime
 http://beanostudios-super-anime-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX 5 STARMAX UHD" tvg-logo="http://apkip.tv/logos/USA/Cinemax5StarMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX 5 STARMAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX 5 STARMAX UHD" tvg-logo="http://apkip.tv/logos/USA/Cinemax5StarMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX 5 Starmax
 http://apkandweb.ddns.net/6377635294/6663568605/1020432
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX ACTIONMAX" tvg-logo="http://apkip.tv/logos/USA/ActionMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX ACTIONMAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX ACTIONMAX" tvg-logo="http://apkip.tv/logos/USA/ActionMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX Actionmax
 http://apkandweb.ddns.net/6377635294/6663568605/682
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX EAST" tvg-logo="http://apkip.tv/logos/USA/CineMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX EAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX EAST" tvg-logo="http://apkip.tv/logos/USA/CineMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX East
 http://apkandweb.ddns.net/6377635294/6663568605/683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX MOREMAX UHD" tvg-logo="http://apkip.tv/logos/USA/MoreMax.us.png" group-title="PREMIUM MOVIES",CINEMAX MOREMAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX MOREMAX UHD" tvg-logo="http://apkip.tv/logos/USA/MoreMax.us.png" group-title="PREMIUM MOVIES",CINEMAX Moremax
 http://apkandweb.ddns.net/6377635294/6663568605/1020435
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX UHD" tvg-logo="http://apkip.tv/logos/USA/CineMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX
 http://apkandweb.ddns.net/6377635294/6663568605/1020434
@@ -431,53 +446,51 @@ http://apkandweb.ddns.net/6377635294/6663568605/1020434
 http://apkandweb.ddns.net/6377635294/6663568605/691
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="PREMIUM MOVIES",HBO 2
 http://apkandweb.ddns.net/6377635294/6663568605/692
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="PREMIUM MOVIES",HBO COMEDY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="PREMIUM MOVIES",HBO Comedy
 http://apkandweb.ddns.net/6377635294/6663568605/1020442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="PREMIUM MOVIES",HBO FAMILY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="PREMIUM MOVIES",HBO Family
 http://apkandweb.ddns.net/6377635294/6663568605/10204435
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="PREMIUM MOVIES",HBO SIGNATURE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="PREMIUM MOVIES",HBO Signature
 http://apkandweb.ddns.net/6377635294/6663568605/1020444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="PREMIUM MOVIES",HBO ZONE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="PREMIUM MOVIES",HBO Zone
 http://apkandweb.ddns.net/6377635294/6663568605/1020445
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + DRIVE IN UHD" tvg-logo="https://i.ibb.co/GRkNb07/MGM-D.png" group-title="PREMIUM MOVIES",MGM + DRIVE IN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + DRIVE IN UHD" tvg-logo="https://i.ibb.co/GRkNb07/MGM-D.png" group-title="PREMIUM MOVIES",MGM + Drive In
 http://apkandweb.ddns.net/6377635294/6663568605/1020438
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + HITS UHD" tvg-logo="https://i.ibb.co/svDMdrX/MGM-H.png" group-title="PREMIUM MOVIES",MGM + HITS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + HITS UHD" tvg-logo="https://i.ibb.co/svDMdrX/MGM-H.png" group-title="PREMIUM MOVIES",MGM + Hits
 http://apkandweb.ddns.net/6377635294/6663568605/1020437
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + MARQUEE UHD" tvg-logo="https://i.ibb.co/FhKdHJK/MGM-M.png" group-title="PREMIUM MOVIES",MGM + MARQUEE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + MARQUEE UHD" tvg-logo="https://i.ibb.co/FhKdHJK/MGM-M.png" group-title="PREMIUM MOVIES",MGM + Marquee
 http://apkandweb.ddns.net/6377635294/6663568605/1020439
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + UHD" tvg-logo="https://i.ibb.co/ZHn1kRR/mgm.png" group-title="PREMIUM MOVIES",MGM +
 http://apkandweb.ddns.net/6377635294/6663568605/1020436
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MOVIEMAX UHD" tvg-logo="http://apkip.tv/logos/USA/MovieMax.us.png" group-title="PREMIUM MOVIES",MOVIEMAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MOVIEMAX UHD" tvg-logo="http://apkip.tv/logos/USA/MovieMax.us.png" group-title="PREMIUM MOVIES",Moviemax
 http://apkandweb.ddns.net/6377635294/6663568605/1020474
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MOVIEPLEX UHD" tvg-logo="http://apkip.tv/logos/USA/MoviePlex.us.png" group-title="PREMIUM MOVIES",MOVIEPLEX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MOVIEPLEX UHD" tvg-logo="http://apkip.tv/logos/USA/MoviePlex.us.png" group-title="PREMIUM MOVIES",Movieplex
 http://apkandweb.ddns.net/6377635294/6663568605/1302057
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: OUTERMAX UHD" tvg-logo="http://apkip.tv/logos/USA/OuterMAX.us.png" group-title="PREMIUM MOVIES",OUTERMAX
 http://apkandweb.ddns.net/6377635294/6663568605/1020448
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: REELZ UHD" tvg-logo="http://apkip.tv/logos/USA/ReelzChannel.us.png" group-title="PREMIUM MOVIES",REELZ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: REELZ UHD" tvg-logo="http://apkip.tv/logos/USA/ReelzChannel.us.png" group-title="PREMIUM MOVIES",Reelz
 http://apkandweb.ddns.net/6377635294/6663568605/1020449
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME 2 UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime2.us.png" group-title="PREMIUM MOVIES",SHOWTIME 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME 2 UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime2.us.png" group-title="PREMIUM MOVIES",Showtime 2
 http://apkandweb.ddns.net/6377635294/6663568605/1020452
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME EXTREME UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeExtreme.us.png" group-title="PREMIUM MOVIES",SHOWTIME EXTREME
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME EXTREME UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeExtreme.us.png" group-title="PREMIUM MOVIES",Showtime Extreme
 http://apkandweb.ddns.net/6377635294/6663568605/1020454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME FAMILY ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeFamilyzone.us.png" group-title="PREMIUM MOVIES",SHOWTIME FAMILY ZONE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME FAMILY ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeFamilyzone.us.png" group-title="PREMIUM MOVIES",Showtime Family Zone
 http://apkandweb.ddns.net/6377635294/6663568605/1020455
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME NEXT UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeNext.us.png" group-title="PREMIUM MOVIES",SHOWTIME NEXT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME NEXT UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeNext.us.png" group-title="PREMIUM MOVIES",Showtime Next
 http://apkandweb.ddns.net/6377635294/6663568605/1020456
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME SHOWCASE UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeShowcase.us.png" group-title="PREMIUM MOVIES",SHOWTIME SHOWCASE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME SHOWCASE UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeShowcase.us.png" group-title="PREMIUM MOVIES",Showtime Showcase
 http://apkandweb.ddns.net/6377635294/6663568605/1020457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime.us.png" group-title="PREMIUM MOVIES",SHOWTIME
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime.us.png" group-title="PREMIUM MOVIES",Showtime
 http://apkandweb.ddns.net/6377635294/6663568605/1020451
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SONY MOVIE CHANNEL UHD" tvg-logo="http://apkip.tv/logos/USA/SonyMovieChannel.us.png" group-title="PREMIUM MOVIES",SONY MOVIE CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SONY MOVIE CHANNEL UHD" tvg-logo="http://apkip.tv/logos/USA/SonyMovieChannel.us.png" group-title="PREMIUM MOVIES",Sony Movie Channel
 http://apkandweb.ddns.net/6377635294/6663568605/1020459
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: STARZ KIDS AND FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/StarzKids.us.png" group-title="PREMIUM MOVIES",STARZ KIDS AND FAMILY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: STARZ KIDS AND FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/StarzKids.us.png" group-title="PREMIUM MOVIES",Starz Kids and Family
 http://apkandweb.ddns.net/6377635294/6663568605/1020472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: STARZ UHD" tvg-logo="http://apkip.tv/logos/USA/Starz.us.png" group-title="PREMIUM MOVIES",STARZ UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: STARZ UHD" tvg-logo="http://apkip.tv/logos/USA/Starz.us.png" group-title="PREMIUM MOVIES",Starz
 http://apkandweb.ddns.net/6377635294/6663568605/1020460
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: THRILLERMAX UHD" tvg-logo="http://apkip.tv/logos/USA/THRILLERMAX.png" group-title="PREMIUM MOVIES",THRILLERMAX
-http://apkandweb.ddns.net/6377635294/6663568605/1020473
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X2YSB2V/scifi-world-512-X512-balck-removebg-preview.png" group-title="Movie Central",SCI-FI WORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2YSB2V/scifi-world-512-X512-balck-removebg-preview.png" group-title="Movie Central",Sci-Fi World
 https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="Movie Central",Pluto TV Spotlight
@@ -506,13 +519,13 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885514/hls/master.m3u8?withResolut
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/OIP.27BFgqxRt6tKSyvB3EKlYQHaEK?dpr=2.8&pid=ImgDetMain"
 
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" group-title="PREMIUM DOCUMENTARIES",HISTORY 2 HD 
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" group-title="PREMIUM DOCUMENTARIES",History 2 HD 
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=1458752&extension=ts&play_token=rFisyspz12
 
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="PREMIUM DOCUMENTARIES",Smithsonian Channel Selects
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
 
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/PN0fjNF/90-removebg-preview.png" group-title="PREMIUM SPORTS" , NBC SPORTS
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/PN0fjNF/90-removebg-preview.png" group-title="PREMIUM SPORTS" , NBC Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -525,6 +538,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://imgs.search.brave.com/f74mtIxtFAt2dfRu11-wiTQv0Lei-ZYHqAcH84fJQos/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zcG9y/dHNsb2dvaGlzdG9y/eS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMTEvbmF0/aW9uYWxfaG9ja2V5/X2xlYWd1ZS5wbmc" group-title="PREMIUM SPORTS", NHL 
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" group-title="PREMIUM SPORTS", WWE Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
