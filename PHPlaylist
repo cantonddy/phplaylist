@@ -307,8 +307,8 @@ http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598101
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.pngkey.com/png/full/139-1392116_nba-tv-logo.png" group-title="Local",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Local",CNN International
-http://115.146.176.131/TimRizal/TimRizal/15.m3u8
+#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="News",CNN
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://imgs.search.brave.com/mssQYz1rVpl48VDIAAOEgZe87zk_Q_PPxjlrZJzSZRA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RlL05CQ19OZXdz/X05vd18yMDIzLnN2/Zw" group-title="Local",NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
