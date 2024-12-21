@@ -25,7 +25,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/90.m3u8
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Local",GMA
-http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/99.m3u8
+https://ln.run/1fZGp
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" group-title="Local",GTV
 http://hls.studentsdemo.com:8080/memfs/0f086e88-c816-4b1a-80cf-71f7334fb0c1.m3u8
