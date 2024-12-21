@@ -265,10 +265,10 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="Local",A&E
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
 
-#EXTINF:-1 tvg-id="KHOUDT1.us" tvg-logo="https://imgs.search.brave.com/wJtelTxbvgODYX8RCh919qQWmYAIMTEElgrqYETtFPg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dHZwYXNzcG9ydC5j/b20vaW1hZ2Uvc3Rh/dGlvbi8yNDB4MTM1/L3YyL3MxMDA5OF9o/MTVfYWMucG5n" group-title="Local",CBS 
+#EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local",CBS
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-logo="https://imgs.search.brave.com/HSxSr90Vx1fGtH76666WmDPUyJ18ebLLQXIADUaV2d4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saXZl/dHYud3R2cGMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA5L3NlcnZlaW1h/Z2UtMS1lMTUwNTQ4/OTI3NDg3Ny5qcGc" group-title="Local",FOX
+#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Local",HLN
@@ -277,8 +277,8 @@ http://fl2.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/cRcOQOH_7wNttjsDhXDc1mZGaUmM_2oAMPRtzDr263Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RudC10/djUwOTYuanBn" group-title="Local",TNT
-http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598102
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Local",TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Local",TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
@@ -312,9 +312,6 @@ http://115.146.176.131/TimRizal/TimRizal/15.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://imgs.search.brave.com/mssQYz1rVpl48VDIAAOEgZe87zk_Q_PPxjlrZJzSZRA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RlL05CQ19OZXdz/X05vd18yMDIzLnN2/Zw" group-title="Local",NBC News Now
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/AcI3GLn8RYRWgRm_BNLcfJJpAdNSuOHNSqSPLqoSn4s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi82LzY3L0Zv/eF9OZXdzX0NoYW5u/ZWxfbG9nby5zdmcv/MjIwcHgtRm94X05l/d3NfQ2hhbm5lbF9s/b2dvLnN2Zy5wbmc" group-title="Local",FOX News
-http://115.146.176.131:80/TimRizal/TimRizal/7
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="Local",FOX News
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/267.m3u8
@@ -546,7 +543,7 @@ http://fl3.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="PREMIUM DOCUMENTARIES",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="PREMIUM DOCUMENTARIES",SMITHSONIAN CHANNEL
+#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="PREMIUM DOCUMENTARIES",Smithsonian Channel
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/PN0fjNF/90-removebg-preview.png" group-title="PREMIUM SPORTS" , NBC Sports
