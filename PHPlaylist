@@ -164,7 +164,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: PARAMOUNT UHD" tvg-logo="http://apkip.tv/logos/USA/ParamountNetwork.us.png" group-title="Local",Paramount Network
-http://apkandweb.ddns.net/6377635294/6663568605/667799
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Local",Star Movies HD
 http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/659476
@@ -263,7 +263,7 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png",Comedy Central
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45448&extension=ts
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local",CBS
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
@@ -290,7 +290,7 @@ http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91834&extension=ts
 
 #EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK.png",Hallmark
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45458&extension=ts
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/OWN-HD.png",Oprah Winfrey Network
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45518&extension=ts
@@ -414,15 +414,6 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nm4hhp2Z_3T7cP08aapWsX3u-0002yZxjQ&s" group-title="Local",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Ry02N8.jpeg" group-title="Local", Veritas846
-https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
-
-#EXTINF:-1 tvg-id="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg" group-title="Local", EWTN
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS NETWORKS" tvg-logo="http://103.176.90.118/picons/logos/USA/FAMILY-GUY.png",Family Guy 24/7
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=990243&extension=ts
-
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.665d0f96638c4926c798ffce23dc5980?rik=%2fRwZwratDW9SqA&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f6136264df5966900044cbf71.png&ehk=HbNp1jC4AoiGXBTbcW17KCJtsIJek82dbJXZ9h0oPe8%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS NETWORKS",Crunchyroll 
 https://bit.ly/Crunchyroll-ph
 
@@ -484,14 +475,10 @@ http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 http://apkandweb.ddns.net/6377635294/6663568605/1020444
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="PREMIUM MOVIES",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + DRIVE IN UHD" tvg-logo="https://i.ibb.co/GRkNb07/MGM-D.png" group-title="PREMIUM MOVIES",MGM + Drive In
-http://apkandweb.ddns.net/6377635294/6663568605/1020438
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + HITS UHD" tvg-logo="https://i.ibb.co/svDMdrX/MGM-H.png" group-title="PREMIUM MOVIES",MGM + Hits
-http://apkandweb.ddns.net/6377635294/6663568605/1020437
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + MARQUEE UHD" tvg-logo="https://i.ibb.co/FhKdHJK/MGM-M.png" group-title="PREMIUM MOVIES",MGM + Marquee
-http://apkandweb.ddns.net/6377635294/6663568605/1020439
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + UHD" tvg-logo="https://i.ibb.co/ZHn1kRR/mgm.png" group-title="PREMIUM MOVIES",MGM +
-http://apkandweb.ddns.net/6377635294/6663568605/1020436
+hhttp://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MOVIEMAX UHD" tvg-logo="http://apkip.tv/logos/USA/MovieMax.us.png" group-title="PREMIUM MOVIES",Moviemax
 http://apkandweb.ddns.net/6377635294/6663568605/1020474
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MOVIEPLEX UHD" tvg-logo="http://apkip.tv/logos/USA/MoviePlex.us.png" group-title="PREMIUM MOVIES",Movieplex
@@ -520,33 +507,6 @@ http://apkandweb.ddns.net/6377635294/6663568605/1020472
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: STARZ UHD" tvg-logo="http://apkip.tv/logos/USA/Starz.us.png" group-title="PREMIUM MOVIES",Starz
 http://apkandweb.ddns.net/6377635294/6663568605/1020460
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X2YSB2V/scifi-world-512-X512-balck-removebg-preview.png" group-title="Movie Central",Sci-Fi World
-https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
-
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="Movie Central",Pluto TV Spotlight
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.imgur.com/OVF9UEh.png" group-title="Movie Central",Pluto TV Action
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://imgur.com/MTVrbd5.png" group-title="Movie Central",Pluto TV Comedy
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/NTq66gD/OIP-4-removebg-preview.png" group-title="Movie Central",Pluto TV Horror
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/pjnDgzZ/R-removebg-preview.png" group-title="Movie Central",Pluto TV Thrillers
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
-
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/MgtxfvR/1d1ecc44d0331a84feb84686c6222c2c57cb471109a68b0b5a54ef2289424ed1-removebg-preview.png" group-title="Movie Central", FilmRise Action
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885508/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885508
-
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/Cn0Z8Rk/OIP-3-removebg-preview.png" group-title="Movie Central", FilmRise Free Movies
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885512/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885512
-
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/2j4wNXK/unnamed-removebg-preview.png" group-title="Movie Central", FilmRise Horror
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885514/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885514
-
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="PREMIUM DOCUMENTARIES",History
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/153.m3u8
 
@@ -555,6 +515,7 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=1458752&e
 
 #EXTINF:-1 tvg-id="Military.History.us" tvg-name="Military History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/military-history-us.png?raw=true" group-title="PREMIUM DOCUMENTARIES",Military History
 http://fl3.moveonjoy.com/Military_History/index.m3u8
+
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="PREMIUM DOCUMENTARIES",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
@@ -575,9 +536,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://imgs.search.brave.com/f74mtIxtFAt2dfRu11-wiTQv0Lei-ZYHqAcH84fJQos/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zcG9y/dHNsb2dvaGlzdG9y/eS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMTEvbmF0/aW9uYWxfaG9ja2V5/X2xlYWd1ZS5wbmc" group-title="PREMIUM SPORTS", NHL 
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" group-title="PREMIUM SPORTS", WWE Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -587,20 +545,11 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="PREMIUM SPORTS",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="PBA RidePass" tvg-logo="https://imgur.com/NYjDZCM.png" group-title="PREMIUM SPORTS",PBA RidePass
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="PREMIUM SPORTS",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.ibb.co/NTqmxxj/Hungarian-Fight-Championship-HFC-logo-removebg-preview.png" group-title="PREMIUM SPORTS",Hi Fight Supersport HD
-https://ln.run/4x0dD
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.ibb.co/wdNVFQV/mma-fighting-logo-vector-14220884-removebg-preview.png" group-title="PREMIUM SPORTS",Top Fight HD
-https://ln.run/NQtPF
-
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_ikfl1p6f/def_height/2700/def_width/2700/version/100012/type/1" group-title="PREMIUM SPORTS",GLORY Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Dx6DRC7LOit99N9a7QWpE3L793jBjTrx-llZrQMcaUI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWRzLmRhaWx5ZG90/LmNvbS8yMDIwLzA5/L3N0YWRpdW0tbG9n/by0yMDAweDEwMDAt/MS5qcGc_cT02NSZh/dXRvPWZvcm1hdCZ3/PTE2MDAmYXI9Mjox/JmZpdD1jcm9w" group-title="PREMIUM SPORTS" tvg-id="Stadium.us",Stadium 
+https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.tapology.com/logos/2487/profile/Top-Rank-Boxing-logo.jpg?1541430691" group-title="PREMIUM SPORTS",Top Rank Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d160f53c785e0008df525e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8ce20713-803b-4c36-b6c9-1026b5b6d0e4
