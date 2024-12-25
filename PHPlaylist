@@ -72,15 +72,6 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNTV" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="Local",UNTV
-https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
-
-#EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us " tvg-logo="https://alltv.ph/wp-content/uploads/2024/06/LOGO-ALLTV-NEW.png" group-title="Local",ALLTV
-http://115.146.176.131/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/ts
-
-#EXTINF:-1 tvg-id="Local.Programming.Dimmy.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="Local",DZRH TV
-https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Local", A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -108,9 +99,6 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="DZMM TELERADYO" tvg-name="TeleRadyo Serbisyo" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="Local",TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="Local",NBA TV Philippines
-http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo4EDvaOXDkTskxk-MO00xMA/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8d/MPTV_Logo_2023.png/revision/latest/scale-to-width-down/1200?cb=20230822144008" group-title="Local", MPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -166,12 +154,6 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: PARAMOUNT UHD" tvg-logo="http://apkip.tv/logos/USA/ParamountNetwork.us.png" group-title="Local",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Local",Star Movies HD
-http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/659476
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Local",Star Movies Select HD
-http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/659504
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Local", HBO HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -192,9 +174,6 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="Local",HBO Family
-http://115.146.176.131:80/TimRizal/TimRizal/85
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Local",Warner TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -224,9 +203,6 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
-
-#EXTINF:-1 tvg-id="AXN" group-title="Local" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",AXN 
-http://115.146.176.131:80/TimRizal/TimRizal/49
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Local" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfqz18o-bcdcb7d4-043f-46d4-a2ec-3b3be42613fd.png/v1/fill/w_905,h_883/nick__nickelodeon__splat_2023_logo_v2_by_markpipi_dfqz18o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiJcL2ZcLzUyYzc0NjU5LTE1MWMtNGExZS05ZWFmLWIyMGZiNDEwNmZmMVwvZGZxejE4by1iY2RjYjdkNC0wNDNmLTQ2ZDQtYTJlYy0zYjNiZTQyNjEzZmQucG5nIiwid2lkdGgiOiI8PTE2MDkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qErbXmzllFpZ8v4npa-davZXgOF4Kswp5ay_TPP38p4" ,Nickelodeon
 http://freetv.dimcel.art/Freetvlakay/Freetvlakay/1261
@@ -286,14 +262,8 @@ http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-name="Travel Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="Local",Travel Channel
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/logos/ENTERTAINMENT-WEST.png",E! Channel
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91834&extension=ts
-
 #EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK.png",Hallmark
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/OWN-HD.png",Oprah Winfrey Network
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=45518&extension=ts
 
 #EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="GAME SHOW NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Local",Game Show Network
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
@@ -310,6 +280,7 @@ https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/eSJQ2ujEu8TbGr3f5TFRqpFQo2-BfMKUlGvp0v7kJJY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjFiMGNlZjEw/MTRjMGI1ZTQ4NWQu/cG5n" group-title="Local",ESPN
 http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598099
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/pk6UEZZGVpcEebMPffYgWCVncPIwotOMvP8bu-ulyWM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U4L1NwZWN0cnVt/X1Nwb3J0c25ldF9s/b2dvLnBuZw" group-title="Local",Sportsnet
 http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/598101
 
@@ -323,7 +294,7 @@ http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="Local",FOX News
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+http://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Local",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -342,9 +313,6 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajBtogD.png" channel-number="1" group-title="Local", NHK World - Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" channel-number="1" group-title="Local", ABC Australia
-https://bit.ly/3YHKTzR
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png" group-title="Local",EuroNews
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
 
@@ -359,9 +327,6 @@ https://english-livebkws.cgtn.com/live/encgtn.m3u8
 
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://imgs.search.brave.com/0vUQ1mh21bPifolmeCk42O86gb6FKYsy5IhYMLUQWd0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q2L0NHVE5fRG9j/dW1lbnRhcnlfbG9n/by5wbmc" group-title="Local",CGTN Documentary 
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://imgs.search.brave.com/kbDzwVH5RhoXBo5mObJqFfxml0609I1NKXbUUZiGyrE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9jb3VydC10di1s/b2dvLnBuZw" group-title="Local",Court TV
-https://apollo.production-public.tubi.io/live/ac-court-tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" channel-number="1" group-title="Local", Animal Planet
 https://bit.ly/indianimalplanet
@@ -390,9 +355,6 @@ https://bit.ly/indidiscoveryasia
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MYX Global" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" group-title="Local",MYX Global
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="MYX Global" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/200?cb=20210727075913" group-title="Local",MYX Philippines
-http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MTV" tvg-logo="https://imgur.com/bJyvO9A.png" group-title="Local",MTV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
@@ -453,16 +415,6 @@ http://apkandweb.ddns.net/6377635294/6663568605/1020618
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://i.ibb.co/99cTrL8/My-project-15-1-removebg-preview.png" group-title="KIDS NETWORKS", Super Anime
 http://beanostudios-super-anime-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX 5 STARMAX UHD" tvg-logo="http://apkip.tv/logos/USA/Cinemax5StarMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX 5 Starmax
-http://apkandweb.ddns.net/6377635294/6663568605/1020432
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX ACTIONMAX" tvg-logo="http://apkip.tv/logos/USA/ActionMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX Actionmax
-http://apkandweb.ddns.net/6377635294/6663568605/682
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX EAST" tvg-logo="http://apkip.tv/logos/USA/CineMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX East
-http://apkandweb.ddns.net/6377635294/6663568605/683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX MOREMAX UHD" tvg-logo="http://apkip.tv/logos/USA/MoreMax.us.png" group-title="PREMIUM MOVIES",CINEMAX Moremax
-http://apkandweb.ddns.net/6377635294/6663568605/1020435
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CINEMAX UHD" tvg-logo="http://apkip.tv/logos/USA/CineMAX.us.png" group-title="PREMIUM MOVIES",CINEMAX
-http://apkandweb.ddns.net/6377635294/6663568605/1020434
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="PREMIUM MOVIES",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="PREMIUM MOVIES",HBO 2
@@ -471,50 +423,25 @@ http://fl2.moveonjoy.com/HBO_2/index.m3u8
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="PREMIUM MOVIES",HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="PREMIUM MOVIES",HBO Signature
-http://apkandweb.ddns.net/6377635294/6663568605/1020444
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="PREMIUM MOVIES",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + MARQUEE UHD" tvg-logo="https://i.ibb.co/FhKdHJK/MGM-M.png" group-title="PREMIUM MOVIES",MGM + Marquee
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + UHD" tvg-logo="https://i.ibb.co/ZHn1kRR/mgm.png" group-title="PREMIUM MOVIES",MGM +
 hhttp://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MOVIEMAX UHD" tvg-logo="http://apkip.tv/logos/USA/MovieMax.us.png" group-title="PREMIUM MOVIES",Moviemax
-http://apkandweb.ddns.net/6377635294/6663568605/1020474
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MOVIEPLEX UHD" tvg-logo="http://apkip.tv/logos/USA/MoviePlex.us.png" group-title="PREMIUM MOVIES",Movieplex
-http://apkandweb.ddns.net/6377635294/6663568605/1302057
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: OUTERMAX UHD" tvg-logo="http://apkip.tv/logos/USA/OuterMAX.us.png" group-title="PREMIUM MOVIES",OUTERMAX
-http://apkandweb.ddns.net/6377635294/6663568605/1020448
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: REELZ UHD" tvg-logo="http://apkip.tv/logos/USA/ReelzChannel.us.png" group-title="PREMIUM MOVIES",Reelz
-http://apkandweb.ddns.net/6377635294/6663568605/1020449
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME 2 UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime2.us.png" group-title="PREMIUM MOVIES",Showtime 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME EXTREME UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeExtreme.us.png" group-title="PREMIUM MOVIES",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME FAMILY ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeFamilyzone.us.png" group-title="PREMIUM MOVIES",Showtime Family Zone
-http://apkandweb.ddns.net/6377635294/6663568605/1020455
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME NEXT UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeNext.us.png" group-title="PREMIUM MOVIES",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME SHOWCASE UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeShowcase.us.png" group-title="PREMIUM MOVIES",Showtime Showcase
-http://apkandweb.ddns.net/6377635294/6663568605/1020457
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime.us.png" group-title="PREMIUM MOVIES",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SONY MOVIE CHANNEL UHD" tvg-logo="http://apkip.tv/logos/USA/SonyMovieChannel.us.png" group-title="PREMIUM MOVIES",Sony Movie Channel
-http://apkandweb.ddns.net/6377635294/6663568605/1020459
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: STARZ KIDS AND FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/StarzKids.us.png" group-title="PREMIUM MOVIES",Starz Kids and Family
-http://apkandweb.ddns.net/6377635294/6663568605/1020472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: STARZ UHD" tvg-logo="http://apkip.tv/logos/USA/Starz.us.png" group-title="PREMIUM MOVIES",Starz
-http://apkandweb.ddns.net/6377635294/6663568605/1020460
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="PREMIUM DOCUMENTARIES",History
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/153.m3u8
-
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" group-title="PREMIUM DOCUMENTARIES",History 2 HD 
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=1458752&extension=ts&play_token=rFisyspz12
-
-#EXTINF:-1 tvg-id="Military.History.us" tvg-name="Military History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/military-history-us.png?raw=true" group-title="PREMIUM DOCUMENTARIES",Military History
-http://fl3.moveonjoy.com/Military_History/index.m3u8
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="PREMIUM DOCUMENTARIES",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
