@@ -254,6 +254,9 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Local",HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
 
+#EXTINF:0 group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
@@ -311,6 +314,12 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 http://23.237.104.106:8080/USA_FS1/index.m3u8
 #EXTINF:0 tvg-logo="https://imgs.search.brave.com/AW-yQFqPEH4gsQcRl86uDOwtqkSN62r1bmIoQRTHuRE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/ZnMyLnN2Zw" group-title="Local",FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png" group-title="Local",NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png" group-title="Local",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="News",CNN
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
@@ -389,8 +398,8 @@ https://bit.ly/3YqXbLB
 #EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://imgs.search.brave.com/APGEgIrVFbLy6EH5iohXIcS7tTa51SsXCQJvSGwVR9U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c2Nhc3RzdHVk/aW8uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE3LzA3L294/eWdlbi1sb2dvLnBu/Zw" group-title="Local",Oxygen East
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Local",ID (Investigation Discovery)
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Local",ID (Investigation Discovery)
+http://23.237.104.106:8080/USA_ID/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
