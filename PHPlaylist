@@ -236,6 +236,9 @@ http://23.237.104.106:8080/USA_AMC/index.m3u8
 #EXTINF:0 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="Local",A&E
 http://23.237.104.106:8080/USA_AE/index.m3u8
 
+#EXTINF:-1 group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+
 #EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
@@ -402,6 +405,9 @@ https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Local",MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="Local",MTV U
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
@@ -487,6 +493,9 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:0 group-title="PREMIUM DOCUMENTARIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true",Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+
+#EXTINF:0 group-title="PREMIUM DOCUMENTARIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/curiosity-vod-us.png?raw=true",Curiousity Stream
+http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/PN0fjNF/90-removebg-preview.png" group-title="PREMIUM SPORTS" , NBC Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
