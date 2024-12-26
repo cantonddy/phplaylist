@@ -388,14 +388,12 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MTV" tvg-logo="https://imgur.com/bJyvO9A.png" group-title="Local",MTV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
-#EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" channel-number="1" group-title="Local", Arirang TV
-https://bit.ly/3YqXbLB
 
 #EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-true-crime-us.png?raw=true" group-title="Local",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Local",Investigation Discovery
-http://23.237.104.106:8080/USA_ID/index.m3u8
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -490,10 +488,10 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="PREMIUM SPORTS",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_ikfl1p6f/def_height/2700/def_width/2700/version/100012/type/1" group-title="PREMIUM SPORTS",GLORY Kickboxing
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/glory-kickboxing-vod.png?raw=true" group-title="PREMIUM SPORTS",GLORY Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Dx6DRC7LOit99N9a7QWpE3L793jBjTrx-llZrQMcaUI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWRzLmRhaWx5ZG90/LmNvbS8yMDIwLzA5/L3N0YWRpdW0tbG9n/by0yMDAweDEwMDAt/MS5qcGc_cT02NSZh/dXRvPWZvcm1hdCZ3/PTE2MDAmYXI9Mjox/JmZpdD1jcm9w" group-title="PREMIUM SPORTS" tvg-id="Stadium.us",Stadium 
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="PREMIUM SPORTS" tvg-id="Stadium.us",Stadium 
 https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.tapology.com/logos/2487/profile/Top-Rank-Boxing-logo.jpg?1541430691" group-title="PREMIUM SPORTS",Top Rank Classics
