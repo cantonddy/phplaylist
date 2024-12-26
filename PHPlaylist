@@ -129,14 +129,11 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMO!" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Local",Cinemo! Global
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMO!" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Local",Cinemo! 
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Local",Cinema One Global
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Local",Cinema One 
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" group-title="Local",Cinema One Philippines
-https://ln.run/Zc85c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Local", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -394,7 +391,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" channel-number="1" group-title="Local", Arirang TV
 https://bit.ly/3YqXbLB
 
-#EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://imgs.search.brave.com/APGEgIrVFbLy6EH5iohXIcS7tTa51SsXCQJvSGwVR9U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c2Nhc3RzdHVk/aW8uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE3LzA3L294/eWdlbi1sb2dvLnBu/Zw" group-title="Local",Oxygen East
+#EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-true-crime-us.png?raw=true" group-title="Local",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Local",Investigation Discovery
@@ -403,7 +400,7 @@ http://23.237.104.106:8080/USA_ID/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nm4hhp2Z_3T7cP08aapWsX3u-0002yZxjQ&s" group-title="Local",Asian Crush
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/asiancrush-vod.png?raw=true" group-title="Local",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.665d0f96638c4926c798ffce23dc5980?rik=%2fRwZwratDW9SqA&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f6136264df5966900044cbf71.png&ehk=HbNp1jC4AoiGXBTbcW17KCJtsIJek82dbJXZ9h0oPe8%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS NETWORKS",Crunchyroll 
@@ -421,10 +418,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2a
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="KIDS NETWORKS",Disney Channel
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/l7p2MpK.png" group-title="KIDS NETWORKS",Cartoon Network HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BOOMERANG UHD" tvg-logo="https://imgur.com/L9jF0ln.png" group-title="KIDS NETWORKS",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CARTOON NETWORK UHD" tvg-logo="http://apkip.tv/logos/USA/CartoonNetwork.us.png" group-title="KIDS NETWORKS",Cartoon Network
