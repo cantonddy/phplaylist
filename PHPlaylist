@@ -227,9 +227,6 @@ http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/558770
 #KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Local", Lifetime
-http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
@@ -243,7 +240,7 @@ http://23.237.104.106:8080/USA_AE/index.m3u8
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="Local",CBS
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+http://fl4.moveonjoy.com/NFL_1/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
@@ -253,6 +250,9 @@ http://fl2.moveonjoy.com/HLN/index.m3u8
 
 #EXTINF:0 group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Local", Lifetime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
@@ -377,23 +377,20 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="Local",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:0 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png",Discovery HD
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" channel-number="1" group-title="Local", Discovery Asia
-https://bit.ly/indidiscoveryasia
-
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MYX Global" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" group-title="Local",MYX Global
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="MTV" tvg-logo="https://imgur.com/bJyvO9A.png" group-title="Local",MTV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="Local",MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-true-crime-us.png?raw=true" group-title="Local",Oxygen
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Local",MTV2
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Local",Investigation Discovery
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Local",MTV Classic
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Local",MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -464,6 +461,18 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="PREMIUM DOCUMENTARIES",Smithsonian Channel
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="OxygenEast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-true-crime-us.png?raw=true" group-title="PREMIUM DOCUMENTARIES",Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:0 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="PREMIUM DOCUMENTARIES",Investigation Discovery
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:0 group-title="PREMIUM DOCUMENTARIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/discovery-channel-hd-us.png?raw=true",Discovery HD
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" group-title="PREMIUM DOCUMENTARIES", Discovery Asia
+https://bit.ly/indidiscoveryasia
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/PN0fjNF/90-removebg-preview.png" group-title="PREMIUM SPORTS" , NBC Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
