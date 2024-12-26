@@ -272,6 +272,11 @@ http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/USA/HALLMARK.png",Hallmark
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
+#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="Local",Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="Local",Hallmark Mystery
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
 #EXTINF:0 group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:0 group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true",Freeform
@@ -293,6 +298,9 @@ http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 http://23.237.104.106:8080/USA_TBS/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="Local",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="Local",Oprah Winfrey Network
+http://fl2.moveonjoy.com/OWN/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Local",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
@@ -368,9 +376,6 @@ https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-us.png?raw=true" group-title="Local",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/jxHnGsMzfiOayt9kJKonUDut6Vk2QbLEv3Fhxkm23fw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkSFZBMlBJ/WmovaWQzTl96b1VX/di5zdmc_dXBkYXRl/ZD0xNzE1Mjg2OTQ4/MDcz" channel-number="1" group-title="Local",WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Local", Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
@@ -381,8 +386,11 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Local",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" group-title="Local",Love Nature HD
-https://bit.ly/3NHiUtU
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild Planet" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="Local",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
@@ -459,8 +467,14 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME NEXT UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeNext.us.png" group-title="PREMIUM MOVIES",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-
-
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="PREMIUM MOVIES",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="PREMIUM MOVIES",Cinemax Moremax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OUTER MAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" group-title="PREMIUM MOVIES",Outermax
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 tvg-logo="http://apkip.tv/logos/USA/Starz.us.png" group-title="PREMIUM MOVIES",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:0 tvg-logo="http://apkip.tv/logos/USA/StarzCinema.us.png" group-title="PREMIUM MOVIES",Starz Cinema
@@ -469,6 +483,13 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 tvg-logo="http://apkip.tv/logos/USA/StarzEdge.us.png" group-title="PREMIUM MOVIES",Starz Edge
 http://23.237.104.106:8080/USA_STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="PREMIUM MOVIES",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="PREMIUM MOVIESs",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="PREMIUM MOVIES",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="PREMIUM DOCUMENTARIES",History
 http://23.237.104.106:8080/USA_HISTORY/index.m3u8
@@ -496,6 +517,9 @@ http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:0 group-title="PREMIUM DOCUMENTARIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/curiosity-vod-us.png?raw=true",Curiousity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="BEIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="PREMIUM SPORTS",BEIN SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/PN0fjNF/90-removebg-preview.png" group-title="PREMIUM SPORTS" , NBC Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
