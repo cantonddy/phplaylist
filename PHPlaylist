@@ -540,7 +540,7 @@ http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:0 group-title="PREMIUM DOCUMENTARIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/curiosity-vod-us.png?raw=true",Curiousity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="BEIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="PREMIUM SPORTS",BEIN SPORTS
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="BEIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="PREMIUM SPORTS",beIN Sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-name="NBC Sports California" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="PREMIUM SPORTS",NBC Sports California
