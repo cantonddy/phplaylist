@@ -202,7 +202,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" group-title="PREMIUM MOVIES",Comet
+#EXTINF:0 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" group-title="PREMIUM MOVIES",Comet
 http://fl3.moveonjoy.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="PREMIUM MOVIES",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
