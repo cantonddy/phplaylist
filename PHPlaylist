@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="Local", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -204,21 +204,21 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" group-title="PREMIUM MOVIES",Comet
 http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="PREMIUM MOVIES",HBO
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="PREMIUM MOVIES",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="PREMIUM MOVIES",HBO 2
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO2" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="PREMIUM MOVIES",HBO 2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="PREMIUM MOVIES",HBO Comedy
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="PREMIUM MOVIES",HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="PREMIUM MOVIES",HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="PREMIUM MOVIES",HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="PREMIUM MOVIES",HBO Zone
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="PREMIUM MOVIES",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + UHD" tvg-logo="https://i.ibb.co/ZHn1kRR/mgm.png" group-title="PREMIUM MOVIES",MGM +
 hhttp://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MGM + MARQUEE UHD" tvg-logo="https://i.ibb.co/FhKdHJK/MGM-M.png" group-title="PREMIUM MOVIES",MGM + Marquee
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime.us.png" group-title="PREMIUM MOVIES",Showtime
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="http://apkip.tv/logos/USA/Showtime.us.png" group-title="PREMIUM MOVIES",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME 2 UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime2.us.png" group-title="PREMIUM MOVIES",Showtime 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -234,7 +234,7 @@ http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="PREMIUM MOVIES" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:0 tvg-logo="http://apkip.tv/logos/USA/Starz.us.png" group-title="PREMIUM MOVIES",Starz
+#EXTINF:0 tvg-id="Starz.-.Eastern.us" tvg-name="Starz" tvg-logo="http://apkip.tv/logos/USA/Starz.us.png" group-title="PREMIUM MOVIES",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:0 tvg-logo="http://apkip.tv/logos/USA/StarzCinema.us.png" group-title="PREMIUM MOVIES",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
@@ -288,10 +288,10 @@ http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/558770
 #KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
-#EXTINF:0 group-title="Local" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png", AMC
+#EXTINF:0 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" group-title="Local" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png", AMC
 http://23.237.104.106:8080/USA_AMC/index.m3u8
 
 #EXTINF:0 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="Local",A&E
@@ -321,13 +321,13 @@ https://xyzdddd.mizhls.ru/lb/premium358/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium359/index.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true",BET
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true",BET
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png",Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" group-title="Local" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="Local",CBS
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="Local",CBS
 http://fl4.moveonjoy.com/NFL_1/index.m3u8
 
 #EXTINF:-1 tvg-id="CTVToronto(English).ca" tvg-name="CTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="Local",CTV
@@ -346,7 +346,7 @@ https://xyzdddd.mizhls.ru/lb/premium838/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",FOX
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOXNY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Local",HLN
