@@ -717,4 +717,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF: 0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PREMIUM SPORTS",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 1
+http://fl2.moveonjoy.com/PPV_1/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 2
+http://fl2.moveonjoy.com/PPV_2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 3
+http://fl2.moveonjoy.com/PPV_3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 5
+http://fl2.moveonjoy.com/PPV_5/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 6
+http://fl2.moveonjoy.com/PPV_6/index.m3u8
