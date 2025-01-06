@@ -563,10 +563,10 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="KIDS NETWORKS",Boomerang
-https://xyzdddd.mizhls.ru/lb/premium648/index.m3u8
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="KIDS NETWORKS",Cartoon Network
-https://xyzdddd.mizhls.ru/lb/premium339/index.m3u8
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:0 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="PREMIUM DOCUMENTARIES",History
 http://23.237.104.106:8080/USA_HISTORY/index.m3u8
@@ -624,14 +624,6 @@ https://xyzdddd.mizhls.ru/lb/premium753/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium754/index.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-name="NBC Sports California" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="PREMIUM SPORTS",NBC Sports California
-https://xyzdddd.mizhls.ru/lb/premium755/index.m3u8
-#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-sports-chicago-us.png" group-title="PREMIUM SPORTS",NBC Sports Chicago
-https://xyzdddd.mizhls.ru/lb/premium776/index.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="PREMIUM SPORTS",NBC Sports Philadelphia
-https://xyzdddd.mizhls.ru/lb/premium777/index.m3u8
-#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" tvg-name="NBC Sports Washington" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-washington-us.png?raw=true" group-title="PREMIUM SPORTS",NBC Sports Washington
-https://xyzdddd.mizhls.ru/lb/premium778/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="PREMIUM SPORTS",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
