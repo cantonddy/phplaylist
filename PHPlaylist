@@ -148,7 +148,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 #EXTINF:0 CUID="5145" tvg-name="SONY PIX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Local",Sony Pix
 http://opplextv.cyou:8080/live/52882216/581881255/109966.ts
-#EXTINF:0 CUID="5116" tvg-name="&FLIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%26flix_HD_Leap_forth.svg" group-title="Local",&Flix
+#EXTINF:0 CUID="5116" tvg-name="&FLIX" tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Local",&Flix
 http://opplextv.cyou:8080/live/52882216/581881255/109962.ts
 #EXTINF:0 CUID="5117" tvg-name="&PRIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="Local",&Prive
 http://opplextv.cyou:8080/live/52882216/581881255/109963.ts
