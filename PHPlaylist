@@ -27,8 +27,16 @@ https://ott.studentsdemo.com/stream/phcathenatv/gma/master.m3u8?u=phc&p=952839dd
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" group-title="Local",GTV
 https://ott.studentsdemo.com/stream/phcathenatv/gtv/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
 
+#EXTINF:0 CUID="5127" tvg-name="GMA PINOY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZEaF6lXqTdKo8RKyisKKq6z2C7WmCISUEA&s" group-title="Local",GMA Pinoy TV
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101826.ts
+#EXTINF:0 CUID="5126" tvg-name="GMA LIFE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxdbFc0Nl84aRLqitHbZn3cuACE7dR5IrsRg&s" group-title="Local",GMA Life TV
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101825.ts
+
 #EXTINF:0 CUID="5157" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png/revision/latest?cb=20230427131621" group-title="Local",Kapamilya Channel
 https://ott.studentsdemo.com/stream/phcathenatv/kapamilyachannel/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
+
+#EXTINF:0 CUID="5148" tvg-name="TFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWF8czPZAVADuMxZs6HChj4rl84TtY6eWr1Q&s" group-title="Local",TFC
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101823.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -726,21 +734,48 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF: 0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PREMIUM SPORTS",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 1
 http://fl2.moveonjoy.com/PPV_1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 2
 http://fl2.moveonjoy.com/PPV_2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 3
 http://fl2.moveonjoy.com/PPV_3/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 4
 http://fl2.moveonjoy.com/PPV_5/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/j4j6kg5TGI9esyHwy82rAO02qQfPBQ7WAl8HFiRSkfQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cHB2bGl2ZWV2ZW50/cy5jb20vc3RhdGlj/L3NpdGVmaWxlcy9p/bWFnZXMvbG9nby5w/bmc" group-title="PPV", PPV 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 5
 http://fl2.moveonjoy.com/PPV_6/index.m3u8
+
+#EXTINF:0 CUID="5067" tvg-name="NBA 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 1
+http://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:0 CUID="5068" tvg-name="NBA 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 2
+http://fl5.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:0 CUID="5069" tvg-name="NBA 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 3
+http://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:0 CUID="5070" tvg-name="NBA 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 4
+http://fl5.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:0 CUID="5071" tvg-name="NBA 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 5
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:0 CUID="5072" tvg-name="NBA 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 6
+http://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:0 CUID="5073" tvg-name="NBA 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 7
+http://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:0 CUID="5074" tvg-name="NBA 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 8
+http://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:0 CUID="5075" tvg-name="NBA 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 9
+http://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:0 CUID="5076" tvg-name="NBA 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 10
+http://fl5.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:0 CUID="5077" tvg-name="NBA 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 11
+http://fl5.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:0 CUID="5078" tvg-name="NBA 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 12
+http://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:0 CUID="5079" tvg-name="NBA 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 13
+http://fl5.moveonjoy.com/NBA_13/index.m3u8
