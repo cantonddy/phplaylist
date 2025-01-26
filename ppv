@@ -14,12 +14,14 @@ http://fl2.moveonjoy.com/PPV_5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 5
 http://fl2.moveonjoy.com/PPV_6/index.m3u8
 
+#EXTINF:-1 channel-id="US2900017P2" tvg-id="US2900017P2" tvg-chno="2350" tvg-name="UFC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" group-title="PPV", UFC+
+https://jmp2.uk/sam-US2900017P2.m3u8
+
 #EXTINF:-1 channel-id="US350000231" tvg-id="US350000231" tvg-chno="2354" tvg-name="PFL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000231_20241119T020436SQUARE.png" group-title="PPV", PFL
 https://jmp2.uk/sam-US350000231.m3u8
 
 #EXTINF:-1 channel-id="USBD12000255B" tvg-id="USBD12000255B" tvg-chno="2368" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20241105T024210SQUARE.png" group-title="PPV", FIFA+
 https://jmp2.uk/sam-USBD12000255B.m3u8
 
-#EXTINF:-1 channel-id="US2900017P2" tvg-id="US2900017P2" tvg-chno="2350" tvg-name="UFC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" group-title="PPV", UFC'
-https://jmp2.uk/sam-US2900017P2.m3u8
+
 
