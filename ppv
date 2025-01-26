@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 1
+http://fl2.moveonjoy.com/PPV_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 2
+http://fl2.moveonjoy.com/PPV_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 3
+http://fl2.moveonjoy.com/PPV_3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 4
+http://fl2.moveonjoy.com/PPV_5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 5
+http://fl2.moveonjoy.com/PPV_6/index.m3u8
