@@ -1,0 +1,103 @@
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Eurosport.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" tvg-name="EuroSport 1",EuroSport 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium41/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Eurosport.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" tvg-name="EuroSport 2",EuroSport 2
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium42/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-logo="https://i.imgur.com/1MDxLZf.png" tvg-name="FanDuel SN Detroit",FanDuel SN Detroit
+https://xyzdddd.mizhls.ru/lb/premium891/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Florida.us" tvg-logo="https://i.imgur.com/fuCM2ei.png" tvg-name="FanDuel SN Florida",FanDuel SN Florida
+https://xyzdddd.mizhls.ru/lb/premium892/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-logo="https://i.imgur.com/mPpaZCR.png" tvg-name="FanDuel SN Great Lakes",FanDuel SN Great Lakes
+https://xyzdddd.mizhls.ru/lb/premium893/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Indiana.us" tvg-logo="https://i.imgur.com/HUgEVWQ.png" tvg-name="FanDuel SN Indiana",FanDuel SN Indiana
+https://xyzdddd.mizhls.ru/lb/premium894/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Midwest.-.Kansas.City.us" tvg-logo="https://i.imgur.com/Oo4Fayt.png" tvg-name="FanDuel SN Kansas City",FanDuel SN Kansas City
+https://xyzdddd.mizhls.ru/lb/premium895/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-logo="https://i.imgur.com/gdm5VCX.png" tvg-name="FanDuel SN Midwest",FanDuel SN Midwest
+https://xyzdddd.mizhls.ru/lb/premium896/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.North.us" tvg-logo="https://i.imgur.com/qfu8djF.png" tvg-name="FanDuel SN North",FanDuel SN North
+https://xyzdddd.mizhls.ru/lb/premium898/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-logo="https://i.imgur.com/U4kf3x6.png" tvg-name="FanDuel SN Ohio",FanDuel SN Ohio
+https://xyzdddd.mizhls.ru/lb/premium899/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" tvg-name="FanDuel SN Oklahoma",FanDuel SN Oklahoma
+https://xyzdddd.mizhls.ru/lb/premium900/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://i.imgur.com/yywNI3M.png" tvg-name="FanDuel SN SoCal",FanDuel SN SoCal
+https://xyzdddd.mizhls.ru/lb/premium902/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.South.us" tvg-logo="https://i.imgur.com/SZfJfVM.png" tvg-name="FanDuel SN South",FanDuel SN South
+https://xyzdddd.mizhls.ru/lb/premium903/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Southeast.us" tvg-logo="https://i.imgur.com/Y7pFt5h.png" tvg-name="FanDuel SN Southeast",FanDuel SN Southeast
+https://xyzdddd.mizhls.ru/lb/premium904/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Fanduel.Sports.Sun.us" tvg-logo="https://i.imgur.com/IapPEUD.png" tvg-name="FanDuel SN Sun",FanDuel SN Sun
+https://xyzdddd.mizhls.ru/lb/premium905/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.West.us" tvg-logo="https://i.imgur.com/cv546ko.png" tvg-name="FanDuel SN West",FanDuel SN West
+https://xyzdddd.mizhls.ru/lb/premium906/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://i.imgur.com/Ku0ibaF.png" tvg-name="FanDuel SN Wisconsin",FanDuel SN Wisconsin
+https://xyzdddd.mizhls.ru/lb/premium907/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
