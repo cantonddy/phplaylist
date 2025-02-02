@@ -86,17 +86,19 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Local", Bilyonaryo Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Local", ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
+https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
 
 #EXTINF:-1 tvg-id="DZMM TELERADYO" tvg-name="TeleRadyo Serbisyo" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="Local",TeleRadyo Serbisyo
-https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MYX Global" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" group-title="Local",MYX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
