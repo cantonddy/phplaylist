@@ -370,7 +370,7 @@ http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="cbs" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-logo-white-us.png" group-title="Local",CBS
-http://108.14.66.101:5004/auto/v2.1
+http://208.89.99.124:5004/auto/v6.1
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOXNY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
@@ -450,7 +450,7 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Local",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="Local",Fox Sports 2
-http://streamsy.online:2999/venomj/EmoOmOskzq/264
+https://a1xs.vip/40000022
 
 #EXTINF:0 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png?raw=true" group-title="Local",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
@@ -468,7 +468,7 @@ http://fl3.moveonjoy.com/CBS_News/index.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="Local",FOX News
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+http://128.230.54.150:5004/auto/v41.2
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Local",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
