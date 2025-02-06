@@ -831,8 +831,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF: 0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PREMIUM SPORTS",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="PREMIUM SPORTS",Sky Sports Main Event UHD
-https://a1xs.vip/2000015
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="PREMIUM SPORTS",Sky Sports Main Event FHD
 https://a1xs.vip/2000001
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="PREMIUM SPORTS",Sky Sports Premier League FHD
@@ -880,12 +878,6 @@ https://a1xs.vip/8000009
 https://a1xs.vip/8000010
 #EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket FHD" tvg-logo="https://pixvid.org/images/2025/02/05/SScricket.png" group-title="PREMIUM SPORTS",Supersport Cricket FHD
 https://a1xs.vip/8000013
-
-#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-name="Star Sports Select 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SPS1.png" group-title="PREMIUM SPORTS", Star Sports Select 1 FHD
-https://a1xs.vip/8000011
-#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SPS2.png" group-title="PREMIUM SPORTS", Star Sports Select 2 FHD
-https://a1xs.vip/8000012
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 1
 http://fl2.moveonjoy.com/PPV_1/index.m3u8
