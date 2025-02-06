@@ -135,6 +135,11 @@ http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="tapactionflix2" tvg-name="TAP ACTION FLIX (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/tap-action-flix-ph.png?raw=true" group-title="Local",TAP Action Flix
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="solarflix" tvg-name="SOLARFLIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/solar-flix-ph.png?raw=true" group-title="Local",Solarflix
+http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 #EXTINF:-1 tvg-id="thrillph2" tvg-name="THRILL (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/thrill-hk.png?raw=true" group-title="Local",Thrill
