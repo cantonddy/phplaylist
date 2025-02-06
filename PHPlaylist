@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dimmy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/dzrh-tv-ph.png?raw=true" group-title="Local",DZRH TV
+#EXTINF:-1 tvg-id="dzrh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/dzrh-tv-ph.png?raw=true" group-title="Local",DZRH TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
