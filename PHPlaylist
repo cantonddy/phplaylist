@@ -525,7 +525,10 @@ http://fl3.moveonjoy.com/CBS_News/index.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="Local",FOX News
-http://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium347/index.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Local",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -548,7 +551,9 @@ http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png" group-title="Local",EuroNews
-https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001336/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:0 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Local", Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
@@ -830,54 +835,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 
 #EXTINF: 0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PREMIUM SPORTS",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="PREMIUM SPORTS",Sky Sports Main Event FHD
-https://a1xs.vip/2000001
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="PREMIUM SPORTS",Sky Sports Premier League FHD
-https://a1xs.vip/2000002
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="PREMIUM SPORTS",Sky Sports Football FHD
-https://a1xs.vip/2000003
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="PREMIUM SPORTS",Sky Sports News FHD
-https://a1xs.vip/2000004
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="PREMIUM SPORTS",Sky Sports F1 FHD
-https://a1xs.vip/2000005
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="PREMIUM SPORTS",Sky Sports Cricket FHD
-https://a1xs.vip/2000006
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="PREMIUM SPORTS",Sky Sports Mix FHD
-https://a1xs.vip/2000008
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="PREMIUM SPORTS",Sky Sports Golf FHD
-https://a1xs.vip/2000009
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://pixvid.org/images/2025/01/15/sky-sports-racing-logo-2048.png" group-title="PREMIUM SPORTS",Sky Sports Racing FHD
-https://a1xs.vip/2000010
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="PREMIUM SPORTS",Sky Sports Action FHD
-https://a1xs.vip/2000011
-#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+ FHD" tvg-logo="https://pixvid.org/images/2025/01/31/Skysportsplus.png" group-title="PREMIUM SPORTS",Sky Sports+ FHD
-https://a1xs.vip/2000012
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://pixvid.org/images/2025/01/31/SkySprtsTennis.png" group-title="PREMIUM SPORTS",Sky Sports Tennis FHD
-https://a1xs.vip/2000013
-
-#EXTINF:-1 tvg-id="EPL.za" tvg-name="SuperSport PL FHD" tvg-logo="https://i.postimg.cc/GtqPXD4q/SSPL.png" group-title="PREMIUM SPORTS",SuperSport PL FHD
-https://a1xs.vip/8000001
-#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="SuperSport Football FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SSFB.png" group-title="PREMIUM SPORTS",SuperSport Football FHD
-https://a1xs.vip/8000004
-#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="SuperSport Laliga FHD" tvg-logo="https://pixvid.org/images/2025/01/23/SSLlg.png" group-title="PREMIUM SPORTS",SuperSport Laliga FHD
-https://a1xs.vip/8000005
-#EXTINF:-1 tvg-id="PSL.za" tvg-name="SuperSport PSL FHD" tvg-logo="https://devcdn.24.co.za/files/supersport/202.png" group-title="PREMIUM SPORTS",SuperSport PSL FHD
-https://a1xs.vip/8000006
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="SuperSport Tennis FHD" tvg-logo="https://pixvid.org/images/2025/01/23/supersport-tennis.png" group-title="PREMIUM SPORTS",SuperSport Tennis FHD
-https://a1xs.vip/8000007
-#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="SuperSport Grandstand FHD" tvg-logo="https://pixvid.org/images/2025/01/22/SSgrandstand.png" group-title="PREMIUM SPORTS",SuperSport Grandstand FHD
-https://a1xs.vip/8000002
-#EXTINF:-1 tvg-id="BLITZ.za" tvg-name="SuperSport Blitz FHD" tvg-logo="https://pixvid.org/images/2025/02/02/SSblizt.png" group-title="PREMIUM SPORTS",SuperSport Blitz FHD
-https://a1xs.vip/8000003
-#EXTINF:-1 tvg-id="MAXIMO.1.za" tvg-name="SuperSport Maximo 1 FHD" tvg-logo="https://pixvid.org/images/2025/02/02/241.png" group-title="PREMIUM SPORTS",SuperSport Maximo 1 FHD
-https://a1xs.vip/8000008
-#EXTINF:-1 tvg-id="ACTION.za" tvg-name="SuperSport Action FHD" tvg-logo="https://pixvid.org/images/2025/02/02/SSAction.png" group-title="PREMIUM SPORTS",SuperSport Action FHD
-https://a1xs.vip/8000009
-#EXTINF:-1 tvg-id="GOLF.za" tvg-name="SuperSport Golf HD" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="PREMIUM SPORTS",SuperSport Golf HD
-https://a1xs.vip/8000010
-#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket FHD" tvg-logo="https://pixvid.org/images/2025/02/05/SScricket.png" group-title="PREMIUM SPORTS",Supersport Cricket FHD
-https://a1xs.vip/8000013
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgs.search.brave.com/NfbZQS4ovwz9oTQFmp8D_nqQWJAHFeufBDGYanYoLAI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTUvWW91/VHViZS1MaXZlLVBO/Ry1IRC1JbWFnZS5w/bmc" group-title="PPV", PPV 1
 http://fl2.moveonjoy.com/PPV_1/index.m3u8
