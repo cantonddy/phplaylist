@@ -750,3 +750,36 @@ http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME EXTREME UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeExtreme.us.png" group-title="US",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 1
+http://fl2.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 2
+http://fl2.moveonjoy.com/NFL_2/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 3
+http://fl2.moveonjoy.com/NFL_3/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 4
+http://fl2.moveonjoy.com/NFL_4/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 5
+http://fl2.moveonjoy.com/NFL_5/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 6
+http://fl2.moveonjoy.com/NFL_6/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 7
+http://fl2.moveonjoy.com/NFL_7/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 8
+http://fl2.moveonjoy.com/NFL_8/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 9
+http://fl2.moveonjoy.com/NFL_9/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 10
+http://fl2.moveonjoy.com/NFL_10/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 11
+http://fl2.moveonjoy.com/NFL_11/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 12
+http://fl2.moveonjoy.com/NFL_12/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 13
+http://fl2.moveonjoy.com/NFL_13/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 14
+http://fl2.moveonjoy.com/NFL_14/index.m3u8
+#EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-game-pass-hz-us.png?raw=true" tvg-name="NFL 2",NFL 15
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+
