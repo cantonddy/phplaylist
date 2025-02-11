@@ -511,7 +511,7 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="Local",CNN
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
-#EXTINF:0 CUID="4880" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-24-7-us.png" group-title="Local",CBS News
+#EXTINF:0 CUID="4880" tvg-name="CBS News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-us.png?raw=true" group-title="Local",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://imgs.search.brave.com/mssQYz1rVpl48VDIAAOEgZe87zk_Q_PPxjlrZJzSZRA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RlL05CQ19OZXdz/X05vd18yMDIzLnN2/Zw" group-title="Local",NBC News Now
@@ -714,15 +714,6 @@ http://fl5.moveonjoy.com/NBA_12/index.m3u8
 #EXTINF:0 CUID="5079" tvg-name="NBA 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/sports/ppv-live/nba-league-pass.png?raw=true" group-title="NBA",NBA 13
 http://fl5.moveonjoy.com/NBA_13/index.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="https://imgs.search.brave.com/FkRzHQ5rb0rVo_uac-qVkvz7QjwLXWwCLNjiLc33ixM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mL2Fj/N2QxODNiLTAzNWUt/NDEzMy04MzAyLWJj/YzkyYTI2N2FhNy9k/ZnRtcThxLTA5Mzk4/ZGU4LWQ3YjQtNGE0/Ni04YzNhLTI2Mjk2/M2RhNTdlMi5wbmcv/djEvZmlsbC93XzEw/MjQsaF85NDMvZmFt/aWx5X2d1eV9wbmdf/YnlfcHBnZmFuYW50/aWMyMDAwX2RmdG1x/OHEtZnVsbHZpZXcu/cG5nP3Rva2VuPWV5/SjBlWEFpT2lKS1Yx/UWlMQ0poYkdjaU9p/SklVekkxTmlKOS5l/eUp6ZFdJaU9pSjFj/bTQ2WVhCd09qZGxN/R1F4T0RnNU9ESXlO/alF6TnpOaE5XWXda/RFF4TldWaE1HUXlO/bVV3SWl3aWFYTnpJ/am9pZFhKdU9tRndj/RG8zWlRCa01UZzRP/VGd5TWpZME16Y3pZ/VFZtTUdRME1UVmxZ/VEJrTWpabE1DSXNJ/bTlpYWlJNlcxdDdJ/bWhsYVdkb2RDSTZJ/anc5T1RReklpd2lj/R0YwYUNJNklsd3Za/bHd2WVdNM1pERTRN/Mkl0TURNMVpTMDBN/VE16TFRnek1ESXRZ/bU5qT1RKaE1qWTNZ/V0UzWEM5a1puUnRj/VGh4TFRBNU16azRa/R1U0TFdRM1lqUXRO/R0UwTmkwNFl6TmhM/VEkyTWprMk0yUmhO/VGRsTWk1d2JtY2lM/Q0ozYVdSMGFDSTZJ/anc5TVRBeU5DSjlY/VjBzSW1GMVpDSTZX/eUoxY200NmMyVnlk/bWxqWlRwcGJXRm5a/UzV2Y0dWeVlYUnBi/MjV6SWwxOS5uV1Mw/T0dULTkwUFBCa2tM/d0VKcDNQUzZCVV9B/QXcwZFBIQ05aZ0hv/bzM4",Family Guy 24/7
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=990243&extension=ts
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/military-history-us.png?raw=true",Military History
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91864&extension=ts
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/russia-today-int.png?raw=true",RT News
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:F1:AB:4D&stream=91935&extension=ts
-
 #EXTINF:-1 group-title="US" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" tvg-name="FX",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="US" tvg-id="FX.Movie.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" tvg-name="FX Movie Channel",FX Movie Channel
@@ -822,3 +813,22 @@ https://jmp2.uk/plu-677c97a457fff50008e88815.m3u8
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 #EXTINF:-1 channel-id="5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8" tvg-chno="4680" tvg-name="CMT Equal Play" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Music Videos", CMT Equal Play
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="US",Starz
+http://fl5.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="US",Starz Comedy
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="US",Starz Edge
+http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="US",Starz Encore
+http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="US",Starz Encore Action
+http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="US",Starz Encore Classic
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="US",Starz Encore Westerns
+http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="US",Showtime Women
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="US",Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
