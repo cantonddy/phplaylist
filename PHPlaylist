@@ -463,6 +463,9 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 tvg-id="SundanceTV.USA.-.East.us" tvg-name="Sundance TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true" group-title="Local",Sundance
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
+#EXTINF:-1 tvg-id="LogoEast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" group-title="Local", Logo
+http://fl3.moveonjoy.com/Logo/index.m3u8
+
 #EXTINF:0 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="Local",TBS
 http://23.237.104.106:8080/USA_TBS/index.m3u8
 #EXTINF:0 tvg-id="truTV.USA.-.Eastern.us" tvg-name="TruTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="Local",TruTV
