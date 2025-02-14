@@ -348,6 +348,12 @@ http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Local",Nicktoons
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-name="MGMPlusEast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Local", MGM+ 
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="Local", MGM+ Drive-In
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK.png" group-title="Local", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
