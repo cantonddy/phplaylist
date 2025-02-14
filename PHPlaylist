@@ -571,6 +571,12 @@ http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:0 tvg-id="NewsNation.-.Eastern.Feed.us" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="Local",NewsNation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 
+#EXTINF:0 tvg-id="comet.us" tvg-name="comet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" group-title="US",Comet
+http://fl3.moveonjoy.com/COMET/index.m3u8
+
+#EXTINF:0 tvg-id="fuse.us" tvg-name="fuse" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true" group-title="Local",Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajBtogD.png" channel-number="1" group-title="Local", NHK World - Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
