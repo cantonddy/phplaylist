@@ -209,22 +209,22 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="jeepney" tvg-name="JEEPNEY TV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="Local",Jeepney TV
+#EXTINF:-1 tvg-id="jeepney" tvg-name="JEEPNEY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/jeepney-tv-ph.png?raw=true" group-title="Local",Jeepney TV
 http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
-#EXTINF:-1 tvg-id="sari-sari" tvg-name="SARI-SARI" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Local",Sari-Sari
+#EXTINF:-1 tvg-id="sari-sari" tvg-name="SARI-SARI" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/sari-sari-channel-ph.png?raw=true" group-title="Local",Sari-Sari Channel
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-#EXTINF:-1 tvg-id="bukotvph" tvg-name="BUKO TV" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Local",Buko TV
+#EXTINF:-1 tvg-id="bukotvph" tvg-name="BUKO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/buko-ph.png?raw=true" group-title="Local",Buko TV
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-#EXTINF:-1 tvg-id="tapsports" tvg-name="TAP SPORTS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Local",TAP Sports
+#EXTINF:-1 tvg-id="tapsports" tvg-name="TAP SPORTS (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/tap-sports-ph.png?raw=true" group-title="Local",TAP Sports
 fx1Y2Ehhttps://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 #EXTINF:0 CUID="4963" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Local",TCM
@@ -894,8 +894,6 @@ https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 #EXTINF:-1 channel-id="5bb3fea0f711fd76340eebff" tvg-id="5bb3fea0f711fd76340eebff" tvg-chno="3080" tvg-name="Pluto TV Military" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="PLUTO", Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
-#EXTINF:-1 channel-id="5cf96c0222df39f1a338d163" tvg-id="5cf96c0222df39f1a338d163" tvg-chno="4185" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png" group-title="PLUTO", Pluto TV Novelas
-https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
 #EXTINF:-1 channel-id="5adf96e3e738977e2c31cb04" tvg-id="5adf96e3e738977e2c31cb04" tvg-chno="1540" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="PLUTO", Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 #EXTINF:-1 channel-id="60f86f539f03cd00070c503a" tvg-id="60f86f539f03cd00070c503a" tvg-chno="360" tvg-name="Pluto TV Pranks" tvg-logo="https://images.pluto.tv/channels/60f86f539f03cd00070c503a/colorLogoPNG.png" group-title="PLUTO", Pluto TV Pranks
