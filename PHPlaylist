@@ -552,7 +552,9 @@ http://fl3.moveonjoy.com/CBS_News/index.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="Local",FOX News
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001105/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Local",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
