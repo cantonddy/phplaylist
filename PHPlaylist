@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="oneph" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Local", One PH
@@ -969,51 +968,51 @@ https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HUgEVWQ.png" tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" group-title="Live",Fanduel Sports Indiana 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HUgEVWQ.png" tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" group-title="SPORTS",Fanduel Sports Indiana 
 https://tvpass.org/live/fanduel-sports-indiana/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1MDxLZf.png" tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit HD" group-title="Live",Fanduel Sports Network Detroit 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1MDxLZf.png" tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit HD" group-title="SPORTS",Fanduel Sports Network Detroit 
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fuCM2ei.png" tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida HD" group-title="Live",Fanduel Sports Network Florida 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fuCM2ei.png" tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida HD" group-title="SPORTS",Fanduel Sports Network Florida 
 https://tvpass.org/live/fanduel-sports-network-florida/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mPpaZCR.png" tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes HD" group-title="Live",Fanduel Sports Network Great Lakes 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPpaZCR.png" tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes HD" group-title="SPORTS",Fanduel Sports Network Great Lakes 
 https://tvpass.org/live/fanduel-sports-network-great-lakes/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qfu8djF.png" tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North HD" group-title="Live",Fanduel Sports Network North 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qfu8djF.png" tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North HD" group-title="SPORTS",Fanduel Sports Network North 
 https://tvpass.org/live/fanduel-sports-network-north/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U4kf3x6.png" tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland HD" group-title="Live",Fanduel Sports Network Ohio Cleveland 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4kf3x6.png" tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland HD" group-title="SPORTS",Fanduel Sports Network Ohio Cleveland 
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mx7lyh5.png" tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma HD" group-title="Live",Fanduel Sports Network Oklahoma 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mx7lyh5.png" tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma HD" group-title="SPORTS",Fanduel Sports Network Oklahoma 
 https://tvpass.org/live/fanduel-sports-network-oklahoma/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego HD" group-title="Live",Fanduel Sports Network San Diego 
+#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego HD" group-title="SPORTS",Fanduel Sports Network San Diego 
 https://tvpass.org/live/fanduel-sports-network-san-diego/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yywNI3M.png" tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal HD" group-title="Live",Fanduel Sports Network SoCal 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yywNI3M.png" tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal HD" group-title="SPORTS",Fanduel Sports Network SoCal 
 https://tvpass.org/live/fanduel-sports-network-socal/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas HD" group-title="Live",Fanduel Sports Network South Carolinas 
+#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas HD" group-title="SPORTS",Fanduel Sports Network South Carolinas 
 https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee HD" group-title="Live",Fanduel Sports Network South Tennessee 
+#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee HD" group-title="SPORTS",Fanduel Sports Network South Tennessee 
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cv546ko.png" tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" group-title="Live",Fanduel Sports Network West 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cv546ko.png" tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" group-title="SPORTS",Fanduel Sports Network West 
 https://tvpass.org/live/fanduel-sports-network-west/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ku0ibaF.png" tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin HD" group-title="Live",Fanduel Sports Network Wisconsin 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ku0ibaF.png" tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin HD" group-title="SPORTS",Fanduel Sports Network Wisconsin 
 https://tvpass.org/live/fanduel-sports-network-wisconsin/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia HD" group-title="Live",Fanduel Sports Southeast Georgia 
+#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia HD" group-title="SPORTS",Fanduel Sports Southeast Georgia 
 https://tvpass.org/live/fanduel-sports-southeast-georgia/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina HD" group-title="Live",Fanduel Sports Southeast North Carolina 
+#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina HD" group-title="SPORTS",Fanduel Sports Southeast North Carolina 
 https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina HD" group-title="Live",Fanduel Sports Southeast South Carolina 
+#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina HD" group-title="SPORTS",Fanduel Sports Southeast South Carolina 
 https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville HD" group-title="Live",Fanduel Sports Southeast Tennessee Nashville 
+#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville HD" group-title="SPORTS",Fanduel Sports Southeast Tennessee Nashville 
 https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IapPEUD.png" tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun HD" group-title="Live",Fanduel Sports Sun 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IapPEUD.png" tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun HD" group-title="SPORTS",Fanduel Sports Sun 
 https://tvpass.org/live/fanduel-sports-sun/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East HD" group-title="Live",Fanduel Sports Tennessee East 
+#EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East HD" group-title="SPORTS",Fanduel Sports Tennessee East 
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-us.png?raw=true" tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" group-title="Live",NBC Sports Bay Area 
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-us.png?raw=true" tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" group-title="SPORTS",NBC Sports Bay Area 
 https://tvpass.org/live/nbc-sports-bay-area/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-us.png?raw=true" tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" group-title="Live",NBC Sports Boston 
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-us.png?raw=true" tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" group-title="SPORTS",NBC Sports Boston 
 https://tvpass.org/live/nbc-sports-boston/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="Live",NBC Sports California 
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="SPORTS",NBC Sports California 
 https://tvpass.org/live/nbc-sports-california/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" group-title="Live",NBC Sports Philadelphia 
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" group-title="SPORTS",NBC Sports Philadelphia 
 https://tvpass.org/live/nbc-sports-philadelphia/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
