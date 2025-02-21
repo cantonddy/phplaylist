@@ -1016,3 +1016,15 @@ https://tvpass.org/live/nbc-sports-boston/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS04
 https://tvpass.org/live/nbc-sports-california/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" group-title="SPORTS",NBC Sports Philadelphia 
 https://tvpass.org/live/nbc-sports-philadelphia/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+
+#EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports1.uk.png" tvg-id="62a18187fb8bf25ed469162df8a1c6bc" tvg-chno="1066" group-title="SPORTS",TNT Sports 1
+http://68.233.120.207:9981/stream/channelid/125935970?profile=pass
+#EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports2.uk.png" tvg-id="ec3f577c93a5f80df345f7679ddd319a" tvg-chno="1067" group-title="SPORTS",TNT Sports 2
+http://68.233.120.207:9981/stream/channelid/2086092780?profile=pass
+#EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports3.uk.png" tvg-id="9a57586e80139a82e449ed7bf37a1712" tvg-chno="1068" group-title="SPORTS",TNT Sports 3
+http://68.233.120.207:9981/stream/channelid/1851283354?profile=pass
+#EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports4.uk.png" tvg-id="b389b0a93539cc64a0f184e904122e2d" tvg-chno="1069" group-title="SPORTS",TNT Sports 4
+http://68.233.120.207:9981/stream/channelid/699435443?profile=pass
+
+#EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/Canada/OlympicChannel.ca.png" tvg-id="411ddfccd491400dd3c1da0fca2da975" tvg-chno="1048" group-title="SPORTS",Olympic Channel
+http://68.233.120.207:9981/stream/channelid/1289690433?profile=pass
