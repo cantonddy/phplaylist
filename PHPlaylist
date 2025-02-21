@@ -379,7 +379,7 @@ https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+https://tvpass.org/live/WABCDT1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 
 #EXTINF:0 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" group-title="Local" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png", AMC
 http://23.237.104.106:8080/USA_AMC/index.m3u8
@@ -398,7 +398,7 @@ http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="cbs" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-logo-white-us.png" group-title="Local",CBS
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+https://tvpass.org/live/WCBSDT1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 
 #EXTINF:0 CUID="4881" tvg-name="CNBC FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true" group-title="Local",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
@@ -427,10 +427,10 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="nbc" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+https://tvpass.org/live/WNBCDT1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Local",TNT
-http://fl2.moveonjoy.com/TNT/index.m3u8
+https://tvpass.org/live/TNTEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 
 #EXTINF:0 CUID="4968" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Local",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
@@ -487,7 +487,7 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Local",ESPN
-http://23.237.104.106:8080/USA_ESPN1/index.m3u8
+https://tvpass.org/live/ESPN/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="Local",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="Local",ESPN News
@@ -523,12 +523,12 @@ http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 http://fl2.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Local",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+https://tvpass.org/live/NBATV/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Local",Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+https://tvpass.org/live/FoxSports1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="Local",Fox Sports 2
-https://a1xs.vip/40000022
+https://tvpass.org/live/FoxSports2/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 
 #EXTINF:0 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png?raw=true" group-title="Local",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
@@ -604,7 +604,7 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="Local",MTV
-http://fl2.moveonjoy.com/MTV/index.m3u8
+https://tvpass.org/live/MTVEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
 
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Local",MTV2
 https://fl2.moveonjoy.com/MTV_2/index.m3u8
