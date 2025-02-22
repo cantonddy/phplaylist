@@ -6,14 +6,10 @@
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/oneph_sd.mpd
 
 #EXTINF:-1 tvg-id="arirang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/arirang-int.png?raw=true" group-title="Local", Arirang
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
+http://ott.udptv.net/stream/iptv/arirang/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="asianfoodnetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/asian-food-network-hk.png?raw=true" group-title="Local", Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
+https://ott.djdoolky76.net/stream/iptv/asianfoodnetwork/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="Local", PTV4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -229,10 +225,8 @@ http://143.44.136.110:6910/001/2/ch00000090990000001151/manifest.mpd?virtualDoma
 #EXTINF:0 CUID="4963" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Local",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
 #EXTINF:-1 tvg-id="hitsnow" tvg-name="HITS NOW" tvg-logo="https://imgs.search.brave.com/WLsuFoFaCGHXlRgK5NhoYBWHWhc8FQEjjNmFDMpC_7k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aGl0c25vdy50di9h/c3NldHMvaGl0cy1u/b3ctbG9nby13aGl0/ZS5wbmc" group-title="Local",HITS NOW
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_hitsnow.mpd
+https://ott.djdoolky76.net/stream/iptv/hitsnow/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
@@ -240,11 +234,7 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_hitsnow.mpd
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+http://ott.udptv.net/stream/iptv/tvnmoviespinoy/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Local", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -296,7 +286,7 @@ http://opplextv.cyou:8080/live/52882216/581881255/109962.ts
 #EXTINF:0 CUID="5117" tvg-name="&PRIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="Local",&Prive
 http://opplextv.cyou:8080/live/52882216/581881255/109963.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Local", HBO 
+#EXTINF:-1 tvg-id="cg_hbo" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Local", HBO 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/cg_hbohd.mpd
@@ -333,9 +323,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/cg_tvnpre.mpd
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/hits_hd1.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+https://ott.djdoolky76.net/stream/iptv/hitsmovies/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: PARAMOUNT UHD" tvg-logo="http://apkip.tv/logos/USA/ParamountNetwork.us.png" group-title="Local",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
@@ -629,10 +617,11 @@ http://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 #EXTINF:-1 tvg-id="axnph2" tvg-name="AXN CHANNEL (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/axn-hk.png?raw=true" group-title="Local",AXN 
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_axn_sd.mpd
+https://ott.djdoolky76.net/stream/iptv/axn/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+
+#EXTINF:-1 tvg-id="phcathenatv/blastsports" tvg-logo="https://i.imgur.com/XxHlcBN.png" group-title="SPORTS",Blast Sports
+http://ott.udptv.net/stream/iptv/blastsports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
