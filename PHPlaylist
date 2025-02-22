@@ -32,9 +32,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDoma
 http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="dzrh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/dzrh-tv-ph.png?raw=true" group-title="Local",DZRH
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -192,10 +190,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 #EXTINF:-1 tvg-id="premiersports-2" tvg-name="PREMIER SPORTS 2 (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/premier-sports-2-ph.png?raw=true" group-title="Local",Premier Sports 2
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+
 #EXTINF:-1 tvg-id="rockactionph" tvg-name="ROCK ACTION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/rock-action-ph.png?raw=true" group-title="Local",Rock Action
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+https://cdn09jtedge.indihometv.com/atm/hlsv3/ROCK_ACTION/ROCK_ACTION-avc1_2500000=6-mp4a_96000=2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
@@ -232,6 +229,12 @@ https://ott.djdoolky76.net/stream/iptv/hitsnow/master.m3u8?u=civ3&p=62278b4ff378
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-family-ph.png?raw=true" group-title="Local",HBO Family
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://i.ibb.co/pwVK5Tx/discovery-asia.png" group-title="Local", Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
 http://ott.udptv.net/stream/iptv/tvnmoviespinoy/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
@@ -689,8 +692,12 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="PREMIUM SPORTS",TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" group-title="PREMIUM SPORTS",WWE Network
-http://fl2.moveonjoy.com/WWE/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="PREMIUM SPORTS",Billiard TV
