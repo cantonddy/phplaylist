@@ -174,9 +174,10 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 
 #EXTINF:-1 tvg-id="rockactionph" tvg-name="ROCK ACTION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/rock-action-ph.png?raw=true" group-title="Local",Rock Action
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
 #EXTINF:-1 tvg-id="717.astro" group-title="Local" tvg-logo="https://i.ibb.co/rw8fJsG/large-BBC-Lifestyle-LOGO2-removebg-preview.png",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
