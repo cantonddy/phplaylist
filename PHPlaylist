@@ -309,11 +309,11 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="NICK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" group-title="Local",NICK
-https://tvpass.org/live/NickelodeonEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/NickelodeonEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="Local",NICK Jr.
-https://tvpass.org/live/NickJrEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/NickJrEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Local",Nicktoons
-https://tvpass.org/live/NicktoonsEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/NicktoonsEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-name="MGMPlusEast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="Local", MGM+ 
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -358,13 +358,13 @@ https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
-https://tvpass.org/live/WABCDT1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/WABCDT1/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" group-title="Local" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png", AMC
-https://tvpass.org/live/AMCEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/AMCEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="Local",A&E
-https://tvpass.org/live/AEEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/AEEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 CUID="4979" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Local",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
@@ -374,10 +374,10 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="comedy" tvg-name="Comedy Central" group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/comedy-central-hd-us.png?raw=true",Comedy Central
-https://tvpass.org/live/ComedyCentralEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/ComedyCentralEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="cbs" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-logo-white-us.png" group-title="Local",CBS
-https://tvpass.org/live/WCBSDT1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/WCBSDT1/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 CUID="4881" tvg-name="CNBC FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true" group-title="Local",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
@@ -394,10 +394,10 @@ http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOXNY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Local",FOX
-https://tvpass.org/live/WNYWDT1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/WNYWDT1/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Local",HLN
-https://tvpass.org/live/HLN/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/HLN/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 tvg-id="Independent.Film.Channel.US.us" tvg-name="IFC TV" group-title="Local" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
@@ -406,10 +406,10 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="nbc" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
-https://tvpass.org/live/WNBCDT1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/WNBCDT1/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Local",TNT
-https://tvpass.org/live/TNTEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/TNTEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 CUID="4968" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Local",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
@@ -456,7 +456,7 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 http://fl2.moveonjoy.com/OWN/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Local",USA Network
-https://tvpass.org/live/USANetworkEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/USANetworkEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Local",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
@@ -467,7 +467,7 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Local",ESPN
-https://tvpass.org/live/ESPN/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/ESPN/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="Local",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="Local",ESPN News
@@ -492,7 +492,7 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
 
 #EXTINF:0 CUID="4924" tvg-name="CINEMAX EAST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="Local",CINEMAX East
-https://tvpass.org/live/CinemaxEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/CinemaxEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:0 CUID="4925" tvg-name="CINEMAX MOREMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Local",CINEMAX Moremax
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:0 CUID="4926" tvg-name="CINEMAX WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="Local",CINEMAX West
@@ -503,21 +503,21 @@ http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 http://fl2.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Local",NBA TV
-https://tvpass.org/live/NBATV/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/NBATV/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Local",Fox Sports 1
-https://tvpass.org/live/FoxSports1/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/FoxSports1/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="Local",Fox Sports 2
-https://tvpass.org/live/FoxSports2/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/FoxSports2/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png?raw=true" group-title="Local",NESN
-https://tvpass.org/live/new-england-sports-network/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/new-england-sports-network/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" group-title="Local",MSG
-https://tvpass.org/live/msg-madison-square-gardens/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/msg-madison-square-gardens/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="Local",CNN
-https://tvpass.org/live/CNN/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/CNN/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 CUID="4880" tvg-name="CBS News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-us.png?raw=true" group-title="Local",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
@@ -526,7 +526,7 @@ http://fl3.moveonjoy.com/CBS_News/index.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="Local",FOX News
-https://tvpass.org/live/FoxNewsChannel/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/FoxNewsChannel/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Local",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -580,7 +580,7 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="Local",MTV
-https://tvpass.org/live/MTVEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/MTVEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:0 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Local",MTV2
 https://fl2.moveonjoy.com/MTV_2/index.m3u8
@@ -619,7 +619,7 @@ http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:0 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="PREMIUM DOCUMENTARIES",History
-https://tvpass.org/live/HistoryEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/HistoryEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" group-title="PREMIUM DOCUMENTARIES",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
@@ -881,24 +881,24 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="US" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" tvg-name="FXX",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="US" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO",HBO
-https://tvpass.org/live/HBOEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/HBOEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 group-title="US" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" tvg-name="HBO Comedy",HBO Comedy
-https://tvpass.org/live/HBOComedyEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/HBOComedyEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 group-title="US" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" tvg-name="HBO Family",HBO Family
-https://tvpass.org/live/HBOFamilyEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/HBOFamilyEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 group-title="US" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" tvg-name="HBO Zone",HBO Zone
-https://tvpass.org/live/HBOZoneEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/HBOZoneEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 group-title="US" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" tvg-name="HBO2",HBO 2
-https://tvpass.org/live/HBO2East/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/HBO2East/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:0 CUID="4996" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Local",HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:0 CUID="4999" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="Local",ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="http://apkip.tv/logos/USA/Showtime.us.png" group-title="US",Showtime
-https://tvpass.org/live/ShowtimeEast/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/ShowtimeEast/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME 2 UHD" tvg-logo="http://apkip.tv/logos/USA/Showtime2.us.png" group-title="US",Showtime 2
-https://tvpass.org/live/Showtime2East/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/Showtime2East/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: SHOWTIME EXTREME UHD" tvg-logo="http://apkip.tv/logos/USA/ShowtimeExtreme.us.png" group-title="US",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
@@ -1053,53 +1053,53 @@ https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUgEVWQ.png" tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" group-title="SPORTS",Fanduel Sports Indiana 
-https://tvpass.org/live/fanduel-sports-indiana/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-indiana/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MDxLZf.png" tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit HD" group-title="SPORTS",Fanduel Sports Network Detroit 
-https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuCM2ei.png" tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida HD" group-title="SPORTS",Fanduel Sports Network Florida 
-https://tvpass.org/live/fanduel-sports-network-florida/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-florida/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPpaZCR.png" tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes HD" group-title="SPORTS",Fanduel Sports Network Great Lakes 
-https://tvpass.org/live/fanduel-sports-network-great-lakes/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-great-lakes/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfu8djF.png" tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North HD" group-title="SPORTS",Fanduel Sports Network North 
-https://tvpass.org/live/fanduel-sports-network-north/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-north/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4kf3x6.png" tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland HD" group-title="SPORTS",Fanduel Sports Network Ohio Cleveland 
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mx7lyh5.png" tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma HD" group-title="SPORTS",Fanduel Sports Network Oklahoma 
-https://tvpass.org/live/fanduel-sports-network-oklahoma/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-oklahoma/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego HD" group-title="SPORTS",Fanduel Sports Network San Diego 
-https://tvpass.org/live/fanduel-sports-network-san-diego/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-san-diego/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yywNI3M.png" tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal HD" group-title="SPORTS",Fanduel Sports Network SoCal 
-https://tvpass.org/live/fanduel-sports-network-socal/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-socal/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas HD" group-title="SPORTS",Fanduel Sports Network South Carolinas 
-https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee HD" group-title="SPORTS",Fanduel Sports Network South Tennessee 
-https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cv546ko.png" tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" group-title="SPORTS",Fanduel Sports Network West 
-https://tvpass.org/live/fanduel-sports-network-west/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-west/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ku0ibaF.png" tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin HD" group-title="SPORTS",Fanduel Sports Network Wisconsin 
-https://tvpass.org/live/fanduel-sports-network-wisconsin/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-network-wisconsin/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia HD" group-title="SPORTS",Fanduel Sports Southeast Georgia 
-https://tvpass.org/live/fanduel-sports-southeast-georgia/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-southeast-georgia/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina HD" group-title="SPORTS",Fanduel Sports Southeast North Carolina 
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina HD" group-title="SPORTS",Fanduel Sports Southeast South Carolina 
-https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville HD" group-title="SPORTS",Fanduel Sports Southeast Tennessee Nashville 
-https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IapPEUD.png" tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun HD" group-title="SPORTS",Fanduel Sports Sun 
-https://tvpass.org/live/fanduel-sports-sun/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-sun/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/cantonddy/phplaylist/blob/main/FanDuel_Sports_Network_logo.png?raw=true" tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East HD" group-title="SPORTS",Fanduel Sports Tennessee East 
-https://tvpass.org/live/fanduel-sports-tennessee-east/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/fanduel-sports-tennessee-east/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-us.png?raw=true" tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" group-title="SPORTS",NBC Sports Bay Area 
-https://tvpass.org/live/nbc-sports-bay-area/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/nbc-sports-bay-area/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-us.png?raw=true" tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" group-title="SPORTS",NBC Sports Boston 
-https://tvpass.org/live/nbc-sports-boston/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/nbc-sports-boston/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="SPORTS",NBC Sports California 
-https://tvpass.org/live/nbc-sports-california/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/nbc-sports-california/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" group-title="SPORTS",NBC Sports Philadelphia 
-https://tvpass.org/live/nbc-sports-philadelphia/hd/STFLWlg1Mk9NSURIbUgyNkpLaEJVUDVxS041bWZUSUZlRkpDUlU3Rw==
+https://tvpass.org/live/nbc-sports-philadelphia/hd/ODloN3U2ZHFrZEF5R2NzWGNYV1RxaWI3Rlp5ZkNza2xOdVFEOExLdA==
 
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports1.uk.png" tvg-id="62a18187fb8bf25ed469162df8a1c6bc" tvg-chno="1066" group-title="SPORTS",TNT Sports 1
 http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508184
