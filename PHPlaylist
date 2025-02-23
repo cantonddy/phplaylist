@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="oneph" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Local", One PH
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/oneph_sd.mpd
+http://ott.udptv.net/stream/iptv/oneph/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="arirang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/arirang-int.png?raw=true" group-title="Local", Arirang
 http://ott.udptv.net/stream/iptv/arirang/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
@@ -37,9 +35,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/tv5_hd.mpd
+http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Local",GMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,32 +53,16 @@ http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDoma
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/onenews_hd1.mpd
+http://ott.udptv.net/stream/iptv/onenews/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local", One Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+http://ott.udptv.net/stream/iptv/onesports-1/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Local", One Sports+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Local", PBA RUSH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="Local", UAAP Varsity Channel 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -230,10 +210,8 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 tvg-id="hitsnow" tvg-name="HITS NOW" tvg-logo="https://imgs.search.brave.com/WLsuFoFaCGHXlRgK5NhoYBWHWhc8FQEjjNmFDMpC_7k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aGl0c25vdy50di9h/c3NldHMvaGl0cy1u/b3ctbG9nby13aGl0/ZS5wbmc" group-title="Local",HITS NOW
 https://ott.djdoolky76.net/stream/iptv/hitsnow/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-family-ph.png?raw=true" group-title="Local",HBO Family
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbofam.mpd
+http://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="553.astro" tvg-logo="https://i.ibb.co/pwVK5Tx/discovery-asia.png" group-title="Local", Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -245,18 +223,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 http://ott.udptv.net/stream/iptv/tvnmoviespinoy/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Local", PBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/pbo_sd.mpd
+http://ott.udptv.net/stream/iptv/pbo/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="Local", Viva Cinema
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/viva_sd.mpd
+http://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMO!" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Local",Cinemo! 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -295,23 +265,13 @@ http://opplextv.cyou:8080/live/52882216/581881255/109962.ts
 http://opplextv.cyou:8080/live/52882216/581881255/109963.ts
 
 #EXTINF:-1 tvg-id="cg_hbo" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Local", HBO 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/cg_hbohd.mpd
+http://ott.udptv.net/stream/iptv/hbohd/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/hbo-hits-ph.png?raw=true" group-title="Local", HBO Hits 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbohits.mpd
+http://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Local", HBO Signature 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbosign.mpd
+http://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Local",Warner TV 
 http://115.146.176.131:80/TimRizal/TimRizal/86
@@ -684,10 +644,8 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" group-title="PREMIUM SPORTS",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 #EXTINF:-1 tvg-id="cinemaxph2" tvg-name="CINEMAX (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/cinemax-ph.png?raw=true" group-title="Local",Cinemax
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_cinemax.mpd
+http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="PREMIUM SPORTS",TSN1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
@@ -1163,3 +1121,162 @@ http://68.233.120.207:9981/stream/channelid/699435443?profile=pass
 
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/Canada/OlympicChannel.ca.png" tvg-id="411ddfccd491400dd3c1da0fca2da975" tvg-chno="1048" group-title="SPORTS",Olympic Channel
 http://68.233.120.207:9981/stream/channelid/1289690433?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno info ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno info ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656838
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 1 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 1 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656839
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 2 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 2 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656840
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 3 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 3 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656841
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 4 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 4 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656842
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 5 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 5 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656843
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 6 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 6 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656844
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 7 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 7 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656845
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 8 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 8 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656846
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 9 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 9 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656847
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 10 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 10 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656848
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 11 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 11 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656849
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 13 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 13 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656850
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 14 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 14 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656851
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 15 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 15 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656852
+#EXTINF:-1 tvg-id="" tvg-name="♥ FreshPorno 16 ᴴᴰ" tvg-logo="https://iili.io/22kSKib.th.png" group-title="ADULT EXCLUSIVE",♥ FreshPorno 16 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656853
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere info ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere info ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656854
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 1 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 1 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656855
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 2 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 2 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656856
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 3 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 3 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656857
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 4 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 4 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656858
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 5 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 5 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656873
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 6 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 6 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656859
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 7 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 7 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656860
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 8 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 8 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656861
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 9 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 9 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656862
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 10 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 10 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656863
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 11 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 11 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656864
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 12 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 12 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656865
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 13 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 13 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656866
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 14 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 14 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656867
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 15 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 15 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656868
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 16 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 16 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656869
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 17 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 17 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656870
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 18 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 18 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656871
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXx ZZ Premiere 19 ᴴᴰ" tvg-logo="https://iili.io/HgOLT2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXx ZZ Premiere 19 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656872
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Adult Time ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Adult Time ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656891
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Anal Only ᴴᴰ" tvg-logo="https://iili.io/Hg0m6QI.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Anal Only ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656903
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay babesTV ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay babesTV ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656892
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay BangBros 1 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay BangBros 1 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656879
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay BangBros 2 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay BangBros 2 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656880
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Blacked! ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Blacked! ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656885
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay BlackedRaw! ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay BlackedRaw! ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656886
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay BrattySis ᴴᴰ" tvg-logo="https://iili.io/HgC8N2a.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay BrattySis ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656899
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Brazzers 1 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Brazzers 1 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656874
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Brazzers 2 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Brazzers 2 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656875
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Brazzers 3 ᴴᴰ" tvg-logo="https://iili.io/HUrPXWv.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Brazzers 3 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656876
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Deeper! ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Deeper! ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656884
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay DP 1 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay DP 1 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656881
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay DP 2 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay DP 2 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656882
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay EvilAngel ᴴᴰ" tvg-logo="https://iili.io/HU4skhu.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay EvilAngel ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656908
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Fake Hostel ᴴᴰ" tvg-logo="https://iili.io/Hg1I1oP.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Fake Hostel ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656897
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Fake Hub ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Fake Hub ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656895
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Fake Taxi ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Fake Taxi ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656896
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Hard X ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Hard X ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656910
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay JulesJordan ᴴᴰ" tvg-logo="https://iili.io/HgNxUy7.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay JulesJordan ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656889
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Lesbians ᴴᴰ" tvg-logo="https://iili.io/HgE3ACv.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Lesbians ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656905
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Massaged ᴴᴰ" tvg-logo="https://iili.io/HgNn6H7.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Massaged ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656906
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Mofos 1 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Mofos 1 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656887
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Mofos 2 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Mofos 2 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656888
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay MYLF ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay MYLF ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656890
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay NughtyAmerica ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay NughtyAmerica ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656911
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Nympho ᴴᴰ" tvg-logo="https://iili.io/HgNomLG.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Nympho ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656904
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay PervMom ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay PervMom ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656894
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay PropertySex ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay PropertySex ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656912
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay PureTaboo ᴴᴰ" tvg-logo="https://iili.io/HU4ZcmP.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay PureTaboo ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656901
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay RealityJunkies ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay RealityJunkies ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656913
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay RealityKings 1 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay RealityKings 1 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656877
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay RealityKings 2 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay RealityKings 2 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656878
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Serie 1 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Serie 1 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656915
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Serie 2 ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Serie 2 ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656916
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay SinfulRaw ᴴᴰ" tvg-logo="https://iili.io/HULLbEX.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay SinfulRaw ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656909
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay SisLovesMe ᴴᴰ" tvg-logo="https://iili.io/Hg0CNFR.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay SisLovesMe ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656898
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay SweetSinner ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay SweetSinner ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656914
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay TeamSkeet ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay TeamSkeet ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656893
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay TrueAnal ᴴᴰ" tvg-logo="https://iili.io/Hg0Icp2.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay TrueAnal ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656902
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Tushy ᴴᴰ" tvg-logo="https://iili.io/HUQiAW7.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Tushy ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656907
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Vixen ᴴᴰ" tvg-logo="https://i.ibb.co/4WKJ600/Picsart-24-10-03-02-30-20-290.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Vixen ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656883
+#EXTINF:-1 tvg-id="" tvg-name="♥ OnexXxPlay Wicked ᴴᴰ" tvg-logo="https://iili.io/HU4sy2p.md.png" group-title="ADULT EXCLUSIVE",♥ OnexXxPlay Wicked ᴴᴰ
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/656900
