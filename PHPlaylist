@@ -1103,15 +1103,24 @@ http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508187
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports4.uk.png" tvg-id="b389b0a93539cc64a0f184e904122e2d" tvg-chno="1069" group-title="SPORTS",TNT Sports 4
 http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508189
 
-#EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://mytunein.com/images/logos/barangayls971fm.jpg" group-title="RADIO",Brgy LS 97.1
+#EXTINF:-1 tvg-id="bombo" tvg-logo="https://cdn.instant.audio/images/logos/radio-org-ph/bombo-naga.png" group-title="RADIO",Bombo Radio 1044Hz Naga 
+https://stream.zenolive.com/a0zn713mz9duv
+#EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://mytunein.com/images/logos/barangayls971fm.jpg" group-title="RADIO",Barangay LS 97.1
 https://magic.radioca.st/stream
-#EXTINF:-1 tvg-id="energyfm1-x" tvg-name="ENERGY FM MANILA" tvg-logo="https://i.imgur.com/C4gWtYR.png" group-title="RADIO",Energy FM
+#EXTINF:-1 tvg-id="energyfm1-x" tvg-name="ENERGY FM MANILA" tvg-logo="https://i.imgur.com/C4gWtYR.png" group-title="RADIO",Energy FM 106.7
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90.7 Love Radio Manila" tvg-logo="https://4.bp.blogspot.com/-xycFu0vj5GY/TWR0TgodSkI/AAAAAAAABXM/Uql8iMCG5xw/s320/love+radio+manila.jpg" group-title="RADIO",90.7 Love Radio Manila
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90.7 Love Radio Manila" tvg-logo="https://4.bp.blogspot.com/-xycFu0vj5GY/TWR0TgodSkI/AAAAAAAABXM/Uql8iMCG5xw/s320/love+radio+manila.jpg" group-title="RADIO",90.7 Love Radio
 https://boracayfm.stream.laut.fm/boracayfm
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Home Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="RADIO",Home Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Home Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="RADIO",Home Radio 97.9
 https://hrmanila.radioca.st/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="RADIO",Monster RX93.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="RADIO",Monster RX 93.1
 https://sg-icecast.eradioportal.com:8443/monsterrrx
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tysJNAkTx4.png" group-title="RADIO",Magic 89.9
 https://stream-157.zeno.fm/sh37pvfd938uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzaDM3cHZmZDkzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNBTWdWS3VNU2xXVmVhSjM4dVE2c2ciLCJpYXQiOjE3NDAzMDIzMTYsImV4cCI6MTc0MDMwMjM3Nn0.VzRgGSVc3RqiYgnCEpc_17PT4Ajbf4YnaPLUAvk8Zkc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9fUDgASnDL.png" group-title="RADIO", Easy Rock 96.3
+https://28093.live.streamtheworld.com/EASYROCK_MNL_SC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZDtRvZLenT.png" group-title="RADIO", Yes FM 101.1
+https://22243.live.streamtheworld.com/YESTHEBEST_MNL_SC
+
+
+
