@@ -1105,3 +1105,11 @@ http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508187
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports4.uk.png" tvg-id="b389b0a93539cc64a0f184e904122e2d" tvg-chno="1069" group-title="SPORTS",TNT Sports 4
 http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508189
 
+#EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://mytunein.com/images/logos/barangayls971fm.jpg" group-title="RADIO",BRGY LS 97.1
+https://magic.radioca.st/stream
+#EXTINF:-1 tvg-id="energyfm1-x" tvg-name="ENERGY FM MANILA" tvg-logo="https://i.imgur.com/C4gWtYR.png" group-title="RADIO",ENERGY FM MANILA
+http://icecast.eradioportal.com:8000/energyfm_manila
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90.7 Love Radio Manila" tvg-logo="https://4.bp.blogspot.com/-xycFu0vj5GY/TWR0TgodSkI/AAAAAAAABXM/Uql8iMCG5xw/s320/love+radio+manila.jpg" group-title="RADIO",90.7 Love Radio Manila
+https://boracayfm.stream.laut.fm/boracayfm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Home Radio" tvg-logo="" group-title="RADIO",Home Radio
+https://hrmanila.radioca.st/stream
