@@ -57,16 +57,25 @@ http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDoma
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News
-http://ott.udptv.net/stream/iptv/onenews/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local", One Sports
-http://ott.udptv.net/stream/iptv/onesports-1/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Local", One Sports+
-http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Local", PBA RUSH
-http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="Local", UAAP Varsity Channel 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -602,9 +611,6 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 
 #EXTINF:-1 tvg-id="axnph2" tvg-name="AXN CHANNEL (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/axn-hk.png?raw=true" group-title="Local",AXN 
 https://ott.djdoolky76.net/stream/iptv/axn/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
-
-#EXTINF:-1 tvg-id="phcathenatv/blastsports" tvg-logo="https://i.imgur.com/XxHlcBN.png" group-title="SPORTS",Blast Sports
-http://ott.udptv.net/stream/iptv/blastsports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
