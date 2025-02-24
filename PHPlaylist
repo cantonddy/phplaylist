@@ -5,6 +5,10 @@
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
+#EXTINF:-1 tvg-id="iheartmovies" tvg-logo="https://imgs.search.brave.com/dFvo21284UcVeYCGnORsDF4lpi_8Kdt0lB4jYu3WpQo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Mi8yNi9JX0hlYXJ0/X01vdmllc18yMDIx/LnBuZy81MTJweC1J/X0hlYXJ0X01vdmll/c18yMDIxLnBuZw" group-title="Local", iHeart Movies
+https://fl1004.bozztv.com/ssh101/1012345/index.m3u8
+
+
 #EXTINF:-1 tvg-id="asianfoodnetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/asian-food-network-hk.png?raw=true" group-title="Local", Asian Food Network
 https://ott.djdoolky76.net/stream/iptv/asianfoodnetwork/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
