@@ -33,9 +33,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDoma
 http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="dzrh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/dzrh-tv-ph.png?raw=true" group-title="Local",DZRH
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740399238/ei/Jg68Z5nJKaObvcAPrKa1wQE/ip/139.135.241.93/id/gRxjNZVgYL8.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AUWDL3wYQNLx-tEqtmz3OLeywyhC_JoyTePtiW88YsKiZEOwml3lhEUUUgBR2csKrmynBJ_2RQ/spc/RjZbSaARoCNPqGz_tJb2djcEZHBaqunq3v1k9yWXdd9lk4aXIKNORuiS7ojiLoXSsA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALURCSGLdA40pU3UlX1_oGGrDDSYZDvqoN08ityLtUjuAiEA9Mgp7hSy6JOROmIDBS52i1nniqmmWLGOpYvi-qOy_VA%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
