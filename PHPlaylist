@@ -5,9 +5,11 @@
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
-#EXTINF:-1 tvg-id="iheartmovies" tvg-logo="https://imgs.search.brave.com/dFvo21284UcVeYCGnORsDF4lpi_8Kdt0lB4jYu3WpQo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Mi8yNi9JX0hlYXJ0/X01vdmllc18yMDIx/LnBuZy81MTJweC1J/X0hlYXJ0X01vdmll/c18yMDIxLnBuZw" group-title="Local", iHeart Movies
-https://fl1004.bozztv.com/ssh101/1012345/index.m3u8
+#EXTINF:0 CUID="129" tvg-chno="null" tvg-name="i Heart Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="Local",i Heart Movies
+https://alt.xtream-ie.org/Nickflex2025/Nickflex2025/keyJ1cmwiOiJodHRwOi8vdHZuaWp1YW4ubmV0OjM4MDgxL3J5YW4vcnlAbi82MDgiLCJpZCI6MTI5fQ%3D%3D/fast
 
+#EXTINF:0 CUID="130" tvg-chno="null" tvg-name="Heart of Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/1200px-Heart_of_Asia_logo.svg.png" group-title="Local",Heart of Asia
+https://alt.xtream-ie.org/Nickflex2025/Nickflex2025/keyJ1cmwiOiJodHRwOi8vdHZuaWp1YW4ubmV0OjM4MDgxL3J5YW4vcnlAbi82MDkiLCJpZCI6MTMwfQ%3D%3D/fast
 
 #EXTINF:-1 tvg-id="asianfoodnetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/asian-food-network-hk.png?raw=true" group-title="Local", Asian Food Network
 https://ott.djdoolky76.net/stream/iptv/asianfoodnetwork/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
@@ -33,7 +35,10 @@ http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDoma
 http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="dzrh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/dzrh-tv-ph.png?raw=true" group-title="Local",DZRH
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740399238/ei/Jg68Z5nJKaObvcAPrKa1wQE/ip/139.135.241.93/id/gRxjNZVgYL8.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AUWDL3wYQNLx-tEqtmz3OLeywyhC_JoyTePtiW88YsKiZEOwml3lhEUUUgBR2csKrmynBJ_2RQ/spc/RjZbSaARoCNPqGz_tJb2djcEZHBaqunq3v1k9yWXdd9lk4aXIKNORuiS7ojiLoXSsA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALURCSGLdA40pU3UlX1_oGGrDDSYZDvqoN08ityLtUjuAiEA9Mgp7hSy6JOROmIDBS52i1nniqmmWLGOpYvi-qOy_VA%3D/file/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1036,15 +1041,6 @@ https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
 
 #EXTINF:-1 channel-id="5dae0b4841a7d0000938ddbd" tvg-id="5dae0b4841a7d0000938ddbd" tvg-chno="1320" tvg-name="Court TV" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="DOCUMENTARIES", Court TV
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/OSZn9VgipVWNaHJqHu69fGKRAmGyRfsHwR0LDqbECoM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTF3QmhNU1l2ZEwu/anBn" group-title="DOCUMENTARIES", Anthony Bourdain's Parts Unknown 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740409484/ei/LDa8Z-6GGZvK2roPvdTw0Qo/ip/139.135.241.203/id/2zhsJ_dySUE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/bui/AUWDL3z28xx9qzN4fDzO_OjX73-o4kADzMONjxHn0iO-u4GzcWLUNxJn3fUbVScIdmIdCBk7_A/spc/RjZbScI7GbTr8ldAbs0vY7A8M50Ci97XgopvUxyYK5dZy3qjVCoxQDj5y0l55p6E1w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGIRgO5xPE_Q29k9yeWgFuWAKqOZSbNH9go3f53fo01MCIC9MSAflDW7TJxmcJNUAL0FJSbYhCqUVBNWFQbWcb9eH/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/BZIAodYsutvyhVqPt4waHuXwNH0d8dX1j3tUfKADA0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/cHJvZmlsZXMudHVu/ZWluLmNvbS9wMzcz/MTA1L2ltYWdlcy9s/b2dvZC5wbmc_dD02/Mzc3MTkzMzgxMTAw/MDAwMDA" group-title="DOCUMENTARIES", The Atheist Experience
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740409869/ei/rTe8Z-nMJPGevcAPqqaMwQg/ip/139.135.241.93/id/W0LfPQx3Nm4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AUWDL3zaMlTZwB_LCU-dzeLchl5-YKj7_fflyQDk7C945gmMr3lZWPRepVJT_qieSA2mSTp8qg/spc/RjZbSdDnpQBmU19_9hfjngKLsIgjH39sQ4hwRogwHtRn71FX25eP7pk7OBvbhFHmWw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgc3Tve6u1kAHKNGaNJ64dvHlZ-YdVBQBw6_x6WOPQ6vcCIQCio69X5qMosPZ3JM5kWGrFN04-PXwk3lw57lJd5JGLjA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/7deaE9SDkJsZnpi708-40R2-mL93ER2pPsKCqWDqkCM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/d2F0Y2htb2pvLmNv/bS8yMDE2L2ltZy93/bV9sb2dvM18yMDE4/LnBuZw" group-title="DOCUMENTARIES", WatchMojo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740410087/ei/hzi8Z__zD5HFs8IP8f6m2As/ip/139.135.241.93/id/CsTHvxP2fsg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/ss/1/siu/1/bui/AUWDL3zx-QLnS2ldJnD183zyFyya3-Kee8WSXCk2kvhGs_M8-h_8-9Hj7dLZgc268vuNaMmBIQ/spc/RjZbSY8poVJpIA1jxHGqOlByI1mFCXfas4WNWhINhYVpdb9b-rF2qDONDZsJ-_rTig/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgG0HEec2uzHrRkoG8UOoClaWa6GFZStSY3zWWKq0LwrQCIQD1jgzdtEUntBTl84RIvBjRyaeI7u-WhqtIPEW1axgCLQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 channel-id="6000a5a9e767980007b497ca" tvg-id="6000a5a9e767980007b497ca" tvg-chno="1330" tvg-name="Crime 360 by A&E" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG.png" group-title="DOCUMENTARIES", Crime 360 by A&E
 https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
