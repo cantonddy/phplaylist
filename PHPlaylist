@@ -5,11 +5,11 @@
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
-#EXTINF:0 CUID="129" tvg-chno="null" tvg-name="i Heart Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="Local",i Heart Movies
+#EXTINF:-1 tvg-name="i Heart Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="Local",i Heart Movies
 https://alt.xtream-ie.org/Nickflex2025/Nickflex2025/keyJ1cmwiOiJodHRwOi8vdHZuaWp1YW4ubmV0OjM4MDgxL3J5YW4vcnlAbi82MDgiLCJpZCI6MTI5fQ%3D%3D/fast
 
-#EXTINF:0 CUID="130" tvg-chno="null" tvg-name="Heart of Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/1200px-Heart_of_Asia_logo.svg.png" group-title="Local",Heart of Asia
-https://alt.xtream-ie.org/Nickflex2025/Nickflex2025/keyJ1cmwiOiJodHRwOi8vdHZuaWp1YW4ubmV0OjM4MDgxL3J5YW4vcnlAbi82MDkiLCJpZCI6MTMwfQ%3D%3D/fast
+#EXTINF:-1 tvg-name="Heart of Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/1200px-Heart_of_Asia_logo.svg.png" group-title="Local",Heart of Asia
+https://alt.xtream-ie.org/Nickflex2025/Nickflex2025/keyJ1cmwiOiJodHRwOi8vdHZuaWp1YW4ubmV0OjM4MDgxL3J5YW4vcnlAbi82MDgiLCJpZCI6MTI5fQ%3D%3D/fast
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="Local", PTV4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
