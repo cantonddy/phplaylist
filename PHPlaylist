@@ -10,6 +10,11 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
+#EXTINF:0 CUID="129" tvg-chno="null" tvg-name="i Heart Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="Local",I Heart Movies
+https://alt.xtream-ie.org/Nickflex2025/Nickflex2025/keyJ1cmwiOiJodHRwOi8vdHZuaWp1YW4ubmV0OjM4MDgxL3J5YW4vcnlAbi82MDgiLCJpZCI6MTI5fQ%3D%3D/fast
+#EXTINF:0 CUID="130" tvg-chno="null" tvg-name="Heart of Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/1200px-Heart_of_Asia_logo.svg.png" group-title="Local",Heart Of Asia
+https://alt.xtream-ie.org/Nickflex2025/Nickflex2025/keyJ1cmwiOiJodHRwOi8vdHZuaWp1YW4ubmV0OjM4MDgxL3J5YW4vcnlAbi82MDkiLCJpZCI6MTMwfQ%3D%3D/fast
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 #EXTINF:-1 tvg-id="ibc2ph" tvg-name="IBC (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/ibc-ph.png?raw=true" group-title="Local",IBC
