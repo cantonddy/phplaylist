@@ -1108,6 +1108,11 @@ http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508189
 
 #EXTINF:-1 tvg-id="bombo" tvg-logo="https://cdn.instant.audio/images/logos/radio-org-ph/bombo-naga.png" group-title="RADIO",Bombo Radio 1044Hz Naga 
 https://stream.zenolive.com/a0zn713mz9duv
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/ZdipNQcRF4WDyX9nVspCsOgWkSZDJrYwkqPCHR_3KlI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMubXl0dW5lci5t/b2JpL21lZGlhL3R2/b3NfcmFkaW9zLzMy/MC9lbmVyZ3ktZm0t/bmFnYS0xMDYzLjcy/MDgyZDAxLmpwZw" group-title="RADIO",Energy FM Naga 106.3 
+https://stream.zeno.fm/klewk28qlqquv
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/eybm5WGYGhvNrIHzPQ9ahv9qViKOzRvfjgoYro3qvU4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29vbHN0cmVhbWlu/Zy51cy9pbWcvY2gv/aW1hMjA2Njg3MzAw/NDYuanBn" group-title="RADIO",DWNX Naga 91.1
+https://stream.zeno.fm/1ytydzphq7zuv
+
 #EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://mytunein.com/images/logos/barangayls971fm.jpg" group-title="RADIO",Barangay LS 97.1
 https://magic.radioca.st/stream
 #EXTINF:-1 tvg-id="energyfm1-x" tvg-name="ENERGY FM MANILA" tvg-logo="https://i.imgur.com/C4gWtYR.png" group-title="RADIO",Energy FM 106.7
