@@ -379,7 +379,8 @@ https://tvpass.org/live/WCBSDT1/hd/
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:0 CUID="4877" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Local",BLOOMBERG
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
 #EXTINF:0 CUID="4878" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Local",C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
