@@ -225,7 +225,9 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
-https://alt.xtream-ie.org/Nickflex2025/Nickflex2025/keyJ1cmwiOiJodHRwczovL290dC5zdHVkZW50c2RlbW8uY29tL3N0cmVhbS9waGNhdGhlbmF0di90dm5tb3ZpZXNwaW5veS9tYXN0ZXIubTN1OD91PXBoYyZwPTEyMTE1ZjY4YTdkZGY0Y2I4OTI2MTBkOTEwZDVjZmYxM2EzODE5NDMwMTQ4OTQ3YzVlYjMyZjhiYmMwZjQ3ZjEiLCJpZCI6MTUyfQ%3D%3D/fast
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Local", PBO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -342,9 +344,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Local" tvg-logo="https://imgur.com/SASnGFo.png",DreamWorks HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
-https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Local",TapTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
