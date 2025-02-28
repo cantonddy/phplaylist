@@ -112,10 +112,8 @@ https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/in
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="tapedge2" tvg-name="TAP EDGE (CIG)" tvg-logo="https://imgs.search.brave.com/T8VKRlOqJwkQXqW5akfn0sz7Pnp6xlRj6Uc5GlofYiM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ2L1RhcEVkZ2Ut/cGgucG5n" group-title="Local",TAP Edge
-http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://dice-live-ap.akamaized.net/hls/live/2005859/220941-277133/exchange220941xeleq_220941_4500/chunklist.m3u8?hdntl=exp=1740800661~acl=%2f*~id=bc06ea74-5b9b-4d65-8fa5-a91a75eeec7e~data=hdntl,dWlkPXNScmhIYnxjZGRkNDhhZS00OGQzLTQ2NzItYmQxYy0xMzNhYzEyNTdhNWImaXA9MTM5LjEzNS4yNDEuMjAzJmV4cD0xNzQwODAwNjkwJmVpZD0yMjA5NDEmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=13f4f462287a02584a51946ecd32279e70507b08b0520e91756678ab5bed192e
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
