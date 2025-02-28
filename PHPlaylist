@@ -356,11 +356,7 @@ https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Local",TapTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+https://dice-live-ap.akamaized.net/hls/live/2005882/220940-277134/exchange220940twgxl_220940_4500/chunklist.m3u8?hdntl=exp=1740799817~acl=%2f*~id=b5b90a36-1e92-4019-84c1-17e1e1d20cd5~data=hdntl,dWlkPXNScmhIYnxjZGRkNDhhZS00OGQzLTQ2NzItYmQxYy0xMzNhYzEyNTdhNWImaXA9MTM5LjEzNS4yNDEuMjAzJmV4cD0xNzQwNzk5ODQ2JmVpZD0yMjA5NDAmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=494a56b60d3a4cb0c7e7bb1a6798581dbde0e658533cd0a311b75ded7b937d12
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
 https://tvpass.org/live/WABCDT1/hd/
@@ -1018,6 +1014,8 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/now-90s-uk.png?raw=true" group-title="MUSIC", NOW 90s
+http://92.114.85.72:8000/play/a09d
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/now-rock-uk.png?raw=true",NOW ROCK
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
