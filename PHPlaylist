@@ -345,9 +345,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Local" tvg-logo="https://imgur.com/SASnGFo.png",DreamWorks HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+https://dice-live-ap.akamaized.net/hls/live/2001925/220979-277420/exchange220979lyyeg_220979_4500/chunklist.m3u8?hdntl=exp=1740801351~acl=%2f*~id=8d4dae9e-da61-4e33-8e3e-d76af3950b58~data=hdntl,dWlkPXNScmhIYnxjZGRkNDhhZS00OGQzLTQ2NzItYmQxYy0xMzNhYzEyNTdhNWImaXA9MTM5LjEzNS4yNDEuOTMmZXhwPTE3NDA4MDEzNzkmZWlkPTIyMDk3OSZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=6ec83111a22dd7b6e780375079870e37b6e53ba6f394fde193fd068ff1da45a7
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Local",TapTV
 https://dice-live-ap.akamaized.net/hls/live/2005882/220940-277134/exchange220940twgxl_220940_4500/chunklist.m3u8?hdntl=exp=1740799817~acl=%2f*~id=b5b90a36-1e92-4019-84c1-17e1e1d20cd5~data=hdntl,dWlkPXNScmhIYnxjZGRkNDhhZS00OGQzLTQ2NzItYmQxYy0xMzNhYzEyNTdhNWImaXA9MTM5LjEzNS4yNDEuMjAzJmV4cD0xNzQwNzk5ODQ2JmVpZD0yMjA5NDAmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=494a56b60d3a4cb0c7e7bb1a6798581dbde0e658533cd0a311b75ded7b937d12
