@@ -165,7 +165,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
 #EXTINF:-1 tvg-id="premiersports-1" tvg-name="PREMIER SPORTS (CIG)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/premier-sports-ph.png?raw=true" group-title="Local",Premier Sports
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
@@ -199,10 +199,10 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 #EXTINF:-1 tvg-id="bukotvph" tvg-name="BUKO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/buko-ph.png?raw=true" group-title="Local",Buko TV
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #EXTINF:-1 tvg-id="tapsports1" tvg-name="TAP SPORTS (CON)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/tap-sports-ph.png?raw=true" group-title="Local",TAP Sports
-http://143.44.136.110:6910/001/2/ch00000090990000001151/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 #EXTINF:0 CUID="4963" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Local",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
@@ -973,13 +973,13 @@ https://tvpass.org/live/nbc-sports-california/hd/
 https://tvpass.org/live/nbc-sports-philadelphia/hd/
 
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports1.uk.png" tvg-id="62a18187fb8bf25ed469162df8a1c6bc" tvg-chno="1066" group-title="SPORTS",TNT Sports 1
-http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508184
+https://a1xs.vip/2000021
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports2.uk.png" tvg-id="ec3f577c93a5f80df345f7679ddd319a" tvg-chno="1067" group-title="SPORTS",TNT Sports 2
-http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508186
+https://a1xs.vip/2000022
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports3.uk.png" tvg-id="9a57586e80139a82e449ed7bf37a1712" tvg-chno="1068" group-title="SPORTS",TNT Sports 3
-http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508187
+https://a1xs.vip/2000023
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports4.uk.png" tvg-id="b389b0a93539cc64a0f184e904122e2d" tvg-chno="1069" group-title="SPORTS",TNT Sports 4
-http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508189
+https://a1xs.vip/2000024
 
 #EXTINF:-1 tvg-id="bombo" tvg-logo="https://cdn.instant.audio/images/logos/radio-org-ph/bombo-naga.png" group-title="RADIO",Bombo Radio 1044Hz Naga 
 https://stream.zenolive.com/a0zn713mz9duv
@@ -1004,10 +1004,8 @@ https://stream-157.zeno.fm/sh37pvfd938uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://28093.live.streamtheworld.com/EASYROCK_MNL_SC
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZDtRvZLenT.png" group-title="RADIO", Yes FM 101.1
 https://22243.live.streamtheworld.com/YESTHEBEST_MNL_SC
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/98956.v4.png" group-title="RADIO", Jam 88.3
 http://ph-icecast.eradioportal.com:8000/jam883
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/23593.v6.png" group-title="RADIO", 93.9 iFM 
 https://magic.radioca.st/stream/1/
 
