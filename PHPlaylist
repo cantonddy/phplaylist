@@ -333,7 +333,9 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK.png" group-title="Local", Cartoon Network HD
-https://tvpass.org/live/CartoonNetworkEast/hd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Local", DreamWorks Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
