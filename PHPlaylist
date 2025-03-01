@@ -985,7 +985,7 @@ https://a1xs.vip/2000024
 
 #EXTINF:-1 tvg-id="bombo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="RADIO",Bombo Radyo 1044Hz Naga 
 https://stream.zeno.fm/a0zn713mz9duv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Energy_naga_logo.png" group-title="RADIO",Energy FM Naga 106.3 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZ9jYfhg/Energy-naga2.png" group-title="RADIO",Energy FM Naga 106.3 
 https://stream.zeno.fm/klewk28qlqquv
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/s_144x144/https://images.zeno.fm/8C_GWravrk7-0e1lffEFs7JbOA6OlykUdtW6-Wjd2-4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREExZDduckFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F5N09pcUFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcwMDE0NjU0MDAwMA.webp" group-title="RADIO",DWNX Naga 91.1
 https://stream.zeno.fm/1ytydzphq7zuv
@@ -1044,16 +1044,7 @@ https://a1xs.vip/2000002
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pixvid.org/images/2025/01/15/sky-sports-racing-logo-2048.png" group-title="SPORTS", Sky Sports Racing
 https://a1xs.vip/2000010
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-movies-hd-in.png?raw=true" group-title="Local", STAR Movies HD
-http://119.152.240.15:8001/play/a0i0/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-movies-select-hd-in.png?raw=true" group-title="Local", STAR Movies Select HD
-http://119.152.240.15:8001/play/a0i1/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/and-flix-hd-in.png?raw=true" group-title="Local", &Flix HD
-http://119.152.240.15:8001/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/and-prive-hd-in.png?raw=true" group-title="Local", &Prive HD
-http://119.152.240.15:8001/play/a0je/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-pix-hd-in.png?raw=true" group-title="Local", Sony PIX HD
-http://119.152.240.15:8001/play/a0jk/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/R5SWDJxQ_1wnHLiNFM1jPWlne9hOoVyxcwkYY5yFRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Ny83ZC9Ib25vcl9v/Zl9LaW5nc19sb2dv/LnBuZy8xMTAwcHgt/SG9ub3Jfb2ZfS2lu/Z3NfbG9nby5wbmc" group-title="MOBA", Honor Of Kings 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740838187/ei/y8DCZ_SbLJ-U1d8Po5-7-A4/ip/139.135.241.93/id/C9P4KL3BX1U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AUWDL3xuReZfCpdJCnznFXvvshlQpIa5quFztcl_2IN3RsiR0B26qmXo3kNyJj158_GmZodkYA/spc/RjZbSVE-ZQtSWvP2-mOlQO1mDZCkC_4wpcB2ThdycC8KjsWU-NS9Aa8g9IQB9niB6w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI6R18JdLJ3DTow2zkxwDxMiFSBLE6s5GINzEVdnN0ViAiEAxFZI_ugZKISQkrZp7-vP6Ll3O-BATEAsRmv7ufaJH4o%3D/file/index.m3u8
