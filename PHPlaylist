@@ -992,25 +992,24 @@ https://stream.zeno.fm/a0zn713mz9duv
 https://stream.zeno.fm/klewk28qlqquv
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/s_144x144/https://images.zeno.fm/8C_GWravrk7-0e1lffEFs7JbOA6OlykUdtW6-Wjd2-4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREExZDduckFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F5N09pcUFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcwMDE0NjU0MDAwMA.webp" group-title="RADIO",DWNX Naga 91.1
 https://stream.zeno.fm/1ytydzphq7zuv
-#EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://mytunein.com/images/logos/barangayls971fm.jpg" group-title="RADIO",Barangay LS 97.1
+#EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Barangay_LS_97.1_logo_2023.png" group-title="RADIO",Barangay LS 97.1
 https://magic.radioca.st/stream
-#EXTINF:-1 tvg-id="energyfm1-x" tvg-name="ENERGY FM MANILA" tvg-logo="https://i.imgur.com/C4gWtYR.png" group-title="RADIO",Energy FM 106.7
+#EXTINF:-1 tvg-id="energyfm1-x" tvg-name="ENERGY FM MANILA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Energy_FM_logo.png/1024px-Energy_FM_logo.png" group-title="RADIO",Energy FM 106.7
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90.7 Love Radio Manila" tvg-logo="https://4.bp.blogspot.com/-xycFu0vj5GY/TWR0TgodSkI/AAAAAAAABXM/Uql8iMCG5xw/s320/love+radio+manila.jpg" group-title="RADIO",90.7 Love Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90.7 Love Radio Manila" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Love_Radio_2021_logo.png" group-title="RADIO",90.7 Love Radio
 https://boracayfm.stream.laut.fm/boracayfm
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Home Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="RADIO",Home Radio 97.9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Home Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/979_Home_Radio_2017.png/800px-979_Home_Radio_2017.png" group-title="RADIO",Home Radio 97.9
 https://hrmanila.radioca.st/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="RADIO",Monster RX 93.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Monster_RX_931FM.png/1024px-Monster_RX_931FM.png" group-title="RADIO",Monster RX 93.1
 https://sg-icecast.eradioportal.com:8443/monsterrrx
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tysJNAkTx4.png" group-title="RADIO",Magic 89.9
-https://stream-157.zeno.fm/sh37pvfd938uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzaDM3cHZmZDkzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNBTWdWS3VNU2xXVmVhSjM4dVE2c2ciLCJpYXQiOjE3NDAzMDIzMTYsImV4cCI6MTc0MDMwMjM3Nn0.VzRgGSVc3RqiYgnCEpc_17PT4Ajbf4YnaPLUAvk8Zkc
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9fUDgASnDL.png" group-title="RADIO", Easy Rock 96.3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Magic89.9_logo.gif" group-title="RADIO",Magic 89.9
+https://stream.zeno.fm/sh37pvfd938uv
 https://28093.live.streamtheworld.com/EASYROCK_MNL_SC
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZDtRvZLenT.png" group-title="RADIO", Yes FM 101.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/YesFMManila2024.png" group-title="RADIO", Yes FM 101.1
 https://22243.live.streamtheworld.com/YESTHEBEST_MNL_SC
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/98956.v4.png" group-title="RADIO", Jam 88.3
 http://ph-icecast.eradioportal.com:8000/jam883
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/23593.v6.png" group-title="RADIO", 93.9 iFM 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgs.search.brave.com/A_X2E_MCAgOJsdGq1JpkDHd75OycV8o3lwrrjxadCts/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzRiLzkzLjlfaUZN/X0xvZ29fMjAxOC5w/bmc" group-title="RADIO", 93.9 iFM 
 https://magic.radioca.st/stream/1/
 
 
