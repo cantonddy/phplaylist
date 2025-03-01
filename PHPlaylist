@@ -38,7 +38,9 @@ http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDoma
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
-http://ipro.tv:80/live/mhs822byqM/7KWduz203s/272691.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XxHlcBN.png" group-title="SPORTS", Blast Sports
 http://ott.udptv.net/stream/iptv/blastsports/master.m3u8?
@@ -625,7 +627,7 @@ http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 https://tvpass.org/live/Boomerang/hd
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="KIDS NETWORKS",Cartoon Network
-https://tvpass.org/live/CartoonNetworkEast/hd
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:0 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="PREMIUM DOCUMENTARIES",History
 https://tvpass.org/live/HistoryEast/hd/
