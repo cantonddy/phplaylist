@@ -986,9 +986,9 @@ https://a1xs.vip/2000023
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/UK/TNTSports4.uk.png" tvg-id="b389b0a93539cc64a0f184e904122e2d" tvg-chno="1069" group-title="SPORTS",TNT Sports 4
 https://a1xs.vip/2000024
 
-#EXTINF:-1 tvg-id="bombo" tvg-logo="https://cdn.instant.audio/images/logos/radio-org-ph/bombo-naga.png" group-title="RADIO",Bombo Radio 1044Hz Naga 
+#EXTINF:-1 tvg-id="bombo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Bomboradyologo.png" group-title="RADIO",Bombo Radio 1044Hz Naga 
 https://stream.zeno.fm/a0zn713mz9duv
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/ZdipNQcRF4WDyX9nVspCsOgWkSZDJrYwkqPCHR_3KlI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMubXl0dW5lci5t/b2JpL21lZGlhL3R2/b3NfcmFkaW9zLzMy/MC9lbmVyZ3ktZm0t/bmFnYS0xMDYzLjcy/MDgyZDAxLmpwZw" group-title="RADIO",Energy FM Naga 106.3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Energy_naga_logo.png" group-title="RADIO",Energy FM Naga 106.3 
 https://stream.zeno.fm/klewk28qlqquv
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/s_144x144/https://images.zeno.fm/8C_GWravrk7-0e1lffEFs7JbOA6OlykUdtW6-Wjd2-4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREExZDduckFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F5N09pcUFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcwMDE0NjU0MDAwMA.webp" group-title="RADIO",DWNX Naga 91.1
 https://stream.zeno.fm/1ytydzphq7zuv
@@ -1007,7 +1007,7 @@ https://stream.zeno.fm/sh37pvfd938uv
 https://28093.live.streamtheworld.com/EASYROCK_MNL_SC
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/YesFMManila2024.png" group-title="RADIO", Yes FM 101.1
 https://22243.live.streamtheworld.com/YESTHEBEST_MNL_SC
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/98956.v4.png" group-title="RADIO", Jam 88.3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Jam883.png" group-title="RADIO", Jam 88.3
 http://ph-icecast.eradioportal.com:8000/jam883
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://imgs.search.brave.com/A_X2E_MCAgOJsdGq1JpkDHd75OycV8o3lwrrjxadCts/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzRiLzkzLjlfaUZN/X0xvZ29fMjAxOC5w/bmc" group-title="RADIO", 93.9 iFM 
 https://magic.radioca.st/stream/1/
