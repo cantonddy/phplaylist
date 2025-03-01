@@ -38,9 +38,13 @@ http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDoma
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+http://ipro.tv:80/live/mhs822byqM/7KWduz203s/272691.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XxHlcBN.png" group-title="SPORTS", Blast Sports
+http://ott.udptv.net/stream/iptv/blastsports/master.m3u8?
+
+#EXTINF:-1 tvg-id="setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORTS",Setanta Sports
+https://ott.udptv.net/stream/iptv/setantasports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Local",GMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -339,9 +343,7 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK.png" group-title="Local", Cartoon Network HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
+http://ott.udptv.net/stream/iptv/cartoonnetwork/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Local", DreamWorks Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -351,10 +353,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Local" tvg-logo="https://imgur.com/SASnGFo.png",DreamWorks HD
-https://dice-live-ap.akamaized.net/hls/live/2001925/220979-277420/exchange220979lyyeg_220979_4500/chunklist.m3u8?hdntl=exp=1740801351~acl=%2f*~id=8d4dae9e-da61-4e33-8e3e-d76af3950b58~data=hdntl,dWlkPXNScmhIYnxjZGRkNDhhZS00OGQzLTQ2NzItYmQxYy0xMzNhYzEyNTdhNWImaXA9MTM5LjEzNS4yNDEuOTMmZXhwPTE3NDA4MDEzNzkmZWlkPTIyMDk3OSZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=6ec83111a22dd7b6e780375079870e37b6e53ba6f394fde193fd068ff1da45a7
+http://skipbox.org:2095/play/live.php?mac=00:1A:79:7e:10:cb&stream=35394&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Local",TapTV
-https://dice-live-ap.akamaized.net/hls/live/2005882/220940-277134/exchange220940twgxl_220940_4500/chunklist.m3u8?hdntl=exp=1740799817~acl=%2f*~id=b5b90a36-1e92-4019-84c1-17e1e1d20cd5~data=hdntl,dWlkPXNScmhIYnxjZGRkNDhhZS00OGQzLTQ2NzItYmQxYy0xMzNhYzEyNTdhNWImaXA9MTM5LjEzNS4yNDEuMjAzJmV4cD0xNzQwNzk5ODQ2JmVpZD0yMjA5NDAmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=494a56b60d3a4cb0c7e7bb1a6798581dbde0e658533cd0a311b75ded7b937d12
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
 https://tvpass.org/live/WABCDT1/hd/
@@ -976,12 +980,11 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 
 #EXTINF:-1 tvg-id="bombo" tvg-logo="https://cdn.instant.audio/images/logos/radio-org-ph/bombo-naga.png" group-title="RADIO",Bombo Radio 1044Hz Naga 
-https://stream.zenolive.com/a0zn713mz9duv
+https://stream.zeno.fm/a0zn713mz9duv
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/ZdipNQcRF4WDyX9nVspCsOgWkSZDJrYwkqPCHR_3KlI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMubXl0dW5lci5t/b2JpL21lZGlhL3R2/b3NfcmFkaW9zLzMy/MC9lbmVyZ3ktZm0t/bmFnYS0xMDYzLjcy/MDgyZDAxLmpwZw" group-title="RADIO",Energy FM Naga 106.3 
 https://stream.zeno.fm/klewk28qlqquv
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/eybm5WGYGhvNrIHzPQ9ahv9qViKOzRvfjgoYro3qvU4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29vbHN0cmVhbWlu/Zy51cy9pbWcvY2gv/aW1hMjA2Njg3MzAw/NDYuanBn" group-title="RADIO",DWNX Naga 91.1
 https://stream.zeno.fm/1ytydzphq7zuv
-
 #EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://mytunein.com/images/logos/barangayls971fm.jpg" group-title="RADIO",Barangay LS 97.1
 https://magic.radioca.st/stream
 #EXTINF:-1 tvg-id="energyfm1-x" tvg-name="ENERGY FM MANILA" tvg-logo="https://i.imgur.com/C4gWtYR.png" group-title="RADIO",Energy FM 106.7
