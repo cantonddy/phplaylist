@@ -365,7 +365,7 @@ http://skipbox.org:2095/play/live.php?mac=00:1A:79:7e:10:cb&stream=35394&extensi
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
-https://tvpass.org/live/WABCDT1/hd/
+http://tvmate.icu:8080/99437538/28260477/121139
 
 #EXTINF:0 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" group-title="Local" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png", AMC
 https://tvpass.org/live/AMCEast/hd/
@@ -384,7 +384,7 @@ http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 https://tvpass.org/live/ComedyCentralEast/hd/
 
 #EXTINF:-1 tvg-id="cbs" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-logo-white-us.png" group-title="Local",CBS
-http://2022.dynu.com:2022/aabdell/wxInwecmlr/59597
+http://tvmate.icu:8080/99437538/28260477/120749
 
 #EXTINF:0 CUID="4881" tvg-name="CNBC FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true" group-title="Local",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
@@ -414,7 +414,7 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="nbc" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="Local",NBC
-https://tvpass.org/live/WNBCDT1/hd
+http://tvmate.icu:8080/99437538/28260477/120751
 
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Local",TNT
 https://tvpass.org/live/TNTEast/hd/
