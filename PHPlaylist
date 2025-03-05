@@ -185,7 +185,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 
 #EXTINF:-1 tvg-id="rockactionph" tvg-name="ROCK ACTION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/rock-action-ph.png?raw=true" group-title="Local",Rock Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="717.astro" group-title="Local" tvg-logo="https://i.ibb.co/rw8fJsG/large-BBC-Lifestyle-LOGO2-removebg-preview.png",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -361,7 +361,7 @@ http://ott.udptv.net/stream/iptv/cartoonnetwork/master.m3u8?u=civ3&p=62278b4ff37
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Local" tvg-logo="https://imgur.com/SASnGFo.png",DreamWorks HD
 http://premiumtvs.net:8080/mon111/mon111/150994
@@ -372,7 +372,10 @@ http://premiumtvs.net:8080/mon111/mon111/150994
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://imgs.search.brave.com/0WsKDn07W41cGa4xzcqalYfLP4ePAyeLno-lSKgez54/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQyYWEwNGE2NTE1/YjFlMGFkNzViMDcu/cG5n" group-title="Local",ABC
-http://tvmate.icu:8080/99437538/28260477/121139
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium766/mono.m3u8
 
 #EXTINF:0 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" group-title="Local" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png", AMC
 https://tvpass.org/live/AMCEast/hd/
@@ -633,7 +636,10 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="KIDS NETWORKS",Boomerang
-https://tvpass.org/live/Boomerang/hd
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium648/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="KIDS NETWORKS",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
