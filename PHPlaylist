@@ -390,54 +390,6 @@ https://zekonew.koskoros.ru/zeko/premium766/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium764/mono.m3u8
 
-#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-new-york.png",SportsNet New York (SNY)
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium759/mono.m3u8
-
-#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-pittsburgh.png",SportsNet Pittsburgh
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium922/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-360.png",Sportsnet 360
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium409/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-east.png",Sportsnet East
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium408/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-one.png",Sportsnet One
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium411/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-ontario.png",Sportsnet Ontario
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium406/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-west.png",Sportsnet West
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium407/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet.World.ca" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-world.png",Sportsnet World
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium410/mono.m3u8
-
 #EXTINF:0 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" group-title="Local" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png", AMC
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
