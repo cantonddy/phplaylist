@@ -11,10 +11,13 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 http://143.44.136.111:6910/001/2/ch00000090990000001244/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/TxM8ze5.png", Heart Of Asia
-http://data.enics.cloud:9999/stream/iptv/kupalnahoa/master.m3u8?u=juansupot&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+http://tvnijuan.net:38081/ryan/ry@n/609
+
+#EXTINF:-1 tvg-id="phcathenatv/blastsports" tvg-logo="https://i.imgur.com/XxHlcBN.png" group-title="SPORTS",Blast Sports
+https://ott.studentsdemo.com/stream/phcathenatv/blastsports/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nudQeH7.png", I Heart Movies
-https://fl1004.bozztv.com/ssh101/1012345/index.m3u8
+http://tvnijuan.net:38081/ryan/ry@n/608
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="Local", PTV4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -48,7 +51,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDoma
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #EXTINF:-1 tvg-id="setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORTS",Setanta Sports
-https://ott.udptv.net/stream/iptv/setantasports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+https://ott.studentsdemo.com/stream/phcathenatv/setantasports/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Local",GMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -238,9 +241,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001334/manifest.mpd?virtualDoma
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+https://ott.studentsdemo.com/stream/phcathenatv/tvnmoviespinoy/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Local", PBO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -363,7 +364,7 @@ http://ott.udptv.net/stream/iptv/cartoonnetwork/master.m3u8?u=civ3&p=62278b4ff37
 https://qp-pldt-live-grp-14-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Local" tvg-logo="https://imgur.com/SASnGFo.png",DreamWorks HD
-http://skipbox.org:2095/play/live.php?mac=00:1A:79:7e:10:cb&stream=35394&extension=ts
+http://premiumtvs.net:8080/mon111/mon111/150994
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Local",TapTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
