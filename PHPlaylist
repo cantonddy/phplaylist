@@ -1316,3 +1316,19 @@ https://windnew.koskoros.ru/wind/premium554/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium46/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Brutalist (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg" group-title="MOVIES",The Brutalist (2024)
+http://tvmate.icu:8080/movie/99437538/28260477/224950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg" group-title="MOVIES",Anora (2024)
+http://tvmate.icu:8080/movie/99437538/28260477/222211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conclave (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg" group-title="MOVIES",Conclave (2024)
+http://tvmate.icu:8080/movie/99437538/28260477/221675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nickel Boys (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg" group-title="MOVIES",Nickel Boys (2024)
+http://tvmate.icu:8080/movie/99437538/28260477/224944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosferatu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="MOVIES",Nosferatu (2024)
+http://tvmate.icu:8080/movie/99437538/28260477/224945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Killers of the Flower Moon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg" group-title="MOVIES",Killers of the Flower Moon (2023)
+http://tvmate.icu:8080/movie/99437538/28260477/211820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" group-title="MOVIES",Oppenheimer (2023)
+http://tvmate.icu:8080/movie/99437538/28260477/211209.mp4
+
